@@ -1,0 +1,10 @@
+factor,importance,coefficient
+Engagement score,0.0739,-0.62
+Weekly overtime,0.0573,0.48
+Pay vs market,0.0452,-0.58
+Tenure (months),0.0224,-0.4
+Training hours,0.0146,-0.25
+Night shift,0.0113,0.24
+Months since promotion,0.0106,0.3
+Absence days,0.0039,0.15
+Performance rating,-0.0001,-0.0

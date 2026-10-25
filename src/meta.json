@@ -1,0 +1,51 @@
+{
+  "num": "05",
+  "area": "HR",
+  "product": "Attrition Root-Cause Intelligence",
+  "title": "Amazon Attrition Lens",
+  "company": "Amazon (Fulfillment Operations)",
+  "why": "Amazon's fulfillment and delivery workforce has well-documented high turnover, which drives up hiring and training cost and disrupts sites. This tool finds which conditions cause exits and what to change first.",
+  "problem": "Employee turnover has increased significantly, creating recruitment costs and operational disruption. Develop an AI system that integrates employee performance, workload, compensation, absenteeism, overtime, engagement and training data to identify organizational factors associated with attrition and recommend evidence-based retention interventions.",
+  "data_note": "2,400 associates across 4 job families and 48 managers, 12 months of HR records (sample data).",
+  "steps": [
+    {
+      "step": "Integrate HR data",
+      "detail": "Performance, workload, pay, absence, overtime, engagement, training"
+    },
+    {
+      "step": "Engineer features",
+      "detail": "Overtime level, pay gap to market, months since promotion"
+    },
+    {
+      "step": "Train attrition model",
+      "detail": "Logistic regression, 70/30 split"
+    },
+    {
+      "step": "Rank drivers",
+      "detail": "Permutation importance on held-out data"
+    },
+    {
+      "step": "Causal check",
+      "detail": "Propensity score matching: does heavy overtime cause exits?"
+    },
+    {
+      "step": "Manager hotspots",
+      "detail": "Attrition by manager vs company rate"
+    },
+    {
+      "step": "Exit interview themes",
+      "detail": "Keyword grouping of exit comments"
+    },
+    {
+      "step": "Interventions",
+      "detail": "Simulate policy changes with the model"
+    }
+  ],
+  "questions": [
+    "Is overtime really causing people to quit?",
+    "Which managers need coaching first?",
+    "Is the pay correction worth its cost?",
+    "Write a retention plan for the night shift"
+  ],
+  "author": "K Mohan Kumar"
+}

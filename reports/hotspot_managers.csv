@@ -1,0 +1,6 @@
+manager_id,job_family,team_size,attrition,engagement
+M104,Fulfillment Center,38,0.632,2.481
+M136,Fulfillment Center,65,0.585,2.448
+M108,Fulfillment Center,56,0.518,2.6
+M117,Sort Center,41,0.512,2.666
+M130,Delivery Station,43,0.512,3.205

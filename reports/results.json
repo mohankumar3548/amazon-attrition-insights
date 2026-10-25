@@ -1,0 +1,178 @@
+{
+  "title": "Amazon Attrition Lens",
+  "company": "Amazon (Fulfillment Operations)",
+  "kpis": [
+    {
+      "label": "Annual attrition",
+      "value": "30.0%",
+      "note": "Scaled to 300K associates"
+    },
+    {
+      "label": "Cost of turnover",
+      "value": "$898.8M",
+      "note": "89,875 exits"
+    },
+    {
+      "label": "Overtime effect",
+      "value": "+14.6 pp",
+      "note": "Causal estimate from matching"
+    },
+    {
+      "label": "Exits avoided",
+      "value": "18,050",
+      "note": "With the overtime cap and raise"
+    },
+    {
+      "label": "Net saving",
+      "value": "$95.2M",
+      "note": "$180.5M saved - $85.3M pay cost"
+    }
+  ],
+  "algorithm": [
+    {
+      "step": "Integrate HR data",
+      "output": "2,400 associates, 30.0% left in 12 months"
+    },
+    {
+      "step": "Engineer features",
+      "output": "9 features per associate"
+    },
+    {
+      "step": "Train attrition model",
+      "output": "Test AUC 0.758"
+    },
+    {
+      "step": "Rank drivers",
+      "output": "Top driver: Engagement score, then Weekly overtime"
+    },
+    {
+      "step": "Causal check",
+      "output": "Heavy overtime adds +14.6 pp to exit risk after matching (naive gap +25.6 pp)"
+    },
+    {
+      "step": "Manager hotspots",
+      "output": "5 hotspot managers above 48%"
+    },
+    {
+      "step": "Exit interview themes",
+      "output": "Top exit theme: Overtime / burnout"
+    },
+    {
+      "step": "Interventions",
+      "output": "Projected exits avoided: 18,050 per year"
+    }
+  ],
+  "tables": {
+    "Hotspot managers": [
+      {
+        "manager_id": "M104",
+        "job_family": "Fulfillment Center",
+        "team_size": 38,
+        "attrition": 0.632,
+        "engagement": 2.481
+      },
+      {
+        "manager_id": "M136",
+        "job_family": "Fulfillment Center",
+        "team_size": 65,
+        "attrition": 0.585,
+        "engagement": 2.448
+      },
+      {
+        "manager_id": "M108",
+        "job_family": "Fulfillment Center",
+        "team_size": 56,
+        "attrition": 0.518,
+        "engagement": 2.6
+      },
+      {
+        "manager_id": "M117",
+        "job_family": "Sort Center",
+        "team_size": 41,
+        "attrition": 0.512,
+        "engagement": 2.666
+      },
+      {
+        "manager_id": "M130",
+        "job_family": "Delivery Station",
+        "team_size": 43,
+        "attrition": 0.512,
+        "engagement": 3.205
+      }
+    ],
+    "Driver model": [
+      {
+        "factor": "Engagement score",
+        "importance": 0.0739,
+        "coefficient": -0.62
+      },
+      {
+        "factor": "Weekly overtime",
+        "importance": 0.0573,
+        "coefficient": 0.48
+      },
+      {
+        "factor": "Pay vs market",
+        "importance": 0.0452,
+        "coefficient": -0.58
+      },
+      {
+        "factor": "Tenure (months)",
+        "importance": 0.0224,
+        "coefficient": -0.4
+      },
+      {
+        "factor": "Training hours",
+        "importance": 0.0146,
+        "coefficient": -0.25
+      },
+      {
+        "factor": "Night shift",
+        "importance": 0.0113,
+        "coefficient": 0.24
+      },
+      {
+        "factor": "Months since promotion",
+        "importance": 0.0106,
+        "coefficient": 0.3
+      },
+      {
+        "factor": "Absence days",
+        "importance": 0.0039,
+        "coefficient": 0.15
+      },
+      {
+        "factor": "Performance rating",
+        "importance": -0.0001,
+        "coefficient": -0.0
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "title": "Cap routine overtime at 8 hours a week",
+      "body": "Matching shows heavy overtime itself adds +14.6 pp to exit risk. The cap removes 28,044,250 overtime hours a year; cover peaks with flex and seasonal staff.",
+      "impact": "18,050 exits"
+    },
+    {
+      "title": "Give a 2% raise to staff paid over 5% under market",
+      "body": "Pay vs market is a key driver and 'pay' appears in 23% of exit comments.",
+      "impact": "$85.3M cost"
+    },
+    {
+      "title": "Coach the 5 hotspot managers",
+      "body": "Their teams lose people well above the 30.0% average. Run skip-level interviews and pair each with a high-retention peer.",
+      "impact": "Fastest win"
+    },
+    {
+      "title": "Create a visible promotion path",
+      "body": "Risk rises with months since promotion. Publish skill-based steps to Process Assistant after 12 months.",
+      "impact": "Long-term"
+    },
+    {
+      "title": "Watch engagement monthly",
+      "body": "Engagement is the strongest early signal. Flag teams whose score drops 0.3 points.",
+      "impact": "Early warning"
+    }
+  ]
+}

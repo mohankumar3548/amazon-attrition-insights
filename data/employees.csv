@@ -1,0 +1,2401 @@
+employee_id,job_family,manager_id,night_shift,weekly_overtime_hrs,pay_vs_market,engagement_score,absence_days,months_since_promotion,training_hours,performance_rating,tenure_months,left_company,exit_comment
+E20000,Customer Service,M111,1,6.1,-0.026,3.5,7,25,4.9,3.0,34,0,
+E20001,Delivery Station,M122,1,17.7,-0.082,3.39,3,4,19.5,3.6,46,0,
+E20002,Delivery Station,M138,1,8.9,0.021,3.02,2,12,7.8,2.6,52,0,
+E20003,Sort Center,M113,0,5.1,-0.02,3.78,4,16,12.0,2.9,49,0,
+E20004,Sort Center,M137,0,4.9,-0.029,3.69,7,27,24.0,3.1,15,0,
+E20005,Delivery Station,M114,0,0.5,-0.109,2.88,5,19,14.6,4.1,42,0,
+E20006,Fulfillment Center,M112,0,6.1,-0.087,3.06,8,27,2.5,3.5,49,1,pay did not keep up
+E20007,Delivery Station,M122,0,4.6,-0.016,3.38,10,31,15.8,2.5,46,1,no path to promotion
+E20008,Fulfillment Center,M108,1,12.6,0.058,1.54,5,19,9.7,2.9,27,1,"too many hours, no life outside work"
+E20009,Delivery Station,M114,0,2.4,-0.011,4.07,11,2,44.2,3.5,10,0,
+E20010,Customer Service,M127,1,0.0,-0.055,2.57,4,14,19.4,3.1,50,0,
+E20011,Customer Service,M115,0,2.8,0.076,3.55,8,5,13.5,2.4,15,0,
+E20012,Sort Center,M101,0,3.3,0.02,2.8,8,24,16.6,3.2,18,0,
+E20013,Fulfillment Center,M108,1,5.5,-0.107,2.85,10,7,19.4,3.1,7,1,pay did not keep up
+E20014,Sort Center,M101,0,12.0,-0.004,4.08,8,29,7.0,2.2,2,0,
+E20015,Sort Center,M105,1,9.3,0.058,2.36,4,36,14.4,3.2,47,1,same role for two years
+E20016,Fulfillment Center,M100,1,11.4,0.009,1.59,7,34,7.0,2.6,42,0,
+E20017,Sort Center,M101,0,7.1,-0.059,3.01,9,27,22.8,4.1,32,0,
+E20018,Sort Center,M113,1,12.1,-0.019,2.24,7,28,40.7,4.5,26,0,
+E20019,Customer Service,M135,0,0.3,-0.011,4.43,2,30,12.1,1.7,21,0,
+E20020,Sort Center,M125,0,16.9,-0.062,2.14,8,35,4.8,4.7,53,1,burned out from peak overtime
+E20021,Customer Service,M135,0,16.1,-0.1,2.54,9,8,9.1,3.0,50,0,
+E20022,Fulfillment Center,M128,1,10.4,-0.112,2.91,6,7,20.1,2.8,26,0,
+E20023,Fulfillment Center,M128,0,8.6,-0.027,3.17,4,20,17.1,4.7,3,0,
+E20024,Sort Center,M145,1,6.0,0.041,3.48,7,16,2.3,3.8,49,0,
+E20025,Customer Service,M143,0,4.2,-0.027,3.19,5,30,19.4,4.2,33,0,
+E20026,Sort Center,M137,0,8.3,-0.052,1.95,7,15,33.5,2.1,31,1,went back to school
+E20027,Fulfillment Center,M108,1,16.9,0.005,3.37,12,26,22.0,4.4,30,0,
+E20028,Customer Service,M131,0,3.3,-0.072,4.13,1,22,16.3,4.0,42,0,
+E20029,Sort Center,M129,1,3.9,-0.034,2.58,3,27,31.6,3.6,60,0,
+E20030,Delivery Station,M138,1,5.5,-0.07,3.54,9,2,0.0,3.4,35,0,
+E20031,Fulfillment Center,M144,0,0.0,-0.065,4.01,0,29,31.3,3.5,44,0,
+E20032,Fulfillment Center,M120,0,11.8,-0.016,3.17,8,29,16.7,3.1,22,1,mandatory extra time every week
+E20033,Fulfillment Center,M144,0,6.4,0.059,2.76,3,14,25.6,3.2,47,0,
+E20034,Fulfillment Center,M100,0,9.5,0.11,2.98,0,27,32.4,2.9,33,0,
+E20035,Fulfillment Center,M100,0,1.4,-0.126,2.98,6,20,20.5,2.2,56,0,
+E20036,Delivery Station,M102,1,13.1,0.012,3.04,10,32,20.1,3.6,15,1,mandatory extra time every week
+E20037,Sort Center,M141,1,9.2,0.001,2.95,6,29,25.5,1.8,59,0,
+E20038,Delivery Station,M138,0,3.9,0.015,3.2,6,31,29.9,3.2,42,0,
+E20039,Sort Center,M133,0,7.4,-0.08,2.81,1,19,10.0,2.9,6,0,
+E20040,Delivery Station,M134,0,8.8,-0.092,3.49,6,18,26.4,2.8,43,1,pay did not keep up
+E20041,Customer Service,M147,0,4.9,-0.041,3.58,6,10,14.9,2.2,57,0,
+E20042,Fulfillment Center,M112,0,8.7,-0.038,3.41,12,24,36.7,3.2,57,0,
+E20043,Sort Center,M113,0,8.5,-0.032,3.39,4,31,0.0,2.4,14,1,no path to promotion
+E20044,Fulfillment Center,M120,0,12.0,-0.088,3.24,6,21,19.7,3.6,39,0,
+E20045,Fulfillment Center,M116,0,7.0,0.126,3.4,10,21,18.8,3.6,52,0,
+E20046,Fulfillment Center,M124,0,8.9,-0.081,3.62,9,30,15.4,3.5,4,1,competitor offered a dollar more
+E20047,Customer Service,M115,0,1.5,-0.149,2.48,8,26,11.5,2.1,10,1,pay did not keep up
+E20048,Delivery Station,M146,0,9.0,-0.064,3.48,2,28,18.9,3.1,24,1,competitor offered a dollar more
+E20049,Sort Center,M125,1,7.9,0.024,4.35,3,9,30.0,3.1,51,0,
+E20050,Fulfillment Center,M140,1,11.6,-0.015,4.12,6,15,9.5,2.9,57,0,
+E20051,Delivery Station,M102,1,8.6,0.039,1.5,4,11,10.6,3.4,15,0,
+E20052,Customer Service,M119,0,3.9,-0.091,3.9,7,25,21.5,3.6,32,0,
+E20053,Fulfillment Center,M136,0,5.6,-0.075,2.0,2,22,13.4,2.6,30,1,competitor offered a dollar more
+E20054,Fulfillment Center,M144,0,3.6,0.024,3.94,4,23,22.9,3.3,56,0,
+E20055,Customer Service,M127,1,0.0,-0.019,1.98,8,2,29.2,3.0,40,0,
+E20056,Customer Service,M143,0,1.7,-0.094,4.02,10,30,10.5,3.4,27,0,
+E20057,Sort Center,M105,1,19.2,-0.129,1.74,8,36,13.3,3.8,52,0,
+E20058,Delivery Station,M122,0,4.4,0.046,2.94,3,11,24.9,3.5,56,0,
+E20059,Sort Center,M145,1,12.1,-0.115,3.31,5,3,6.5,3.7,23,1,mandatory extra time every week
+E20060,Fulfillment Center,M104,0,7.1,-0.014,2.21,7,23,13.2,2.9,37,1,unfair treatment by lead
+E20061,Customer Service,M119,1,14.5,-0.054,1.52,7,31,15.4,3.1,52,1,mandatory extra time every week
+E20062,Fulfillment Center,M132,0,10.1,0.093,3.21,6,13,16.7,3.6,12,0,
+E20063,Customer Service,M147,0,3.7,-0.053,4.71,4,5,8.1,3.6,22,1,family reasons
+E20064,Delivery Station,M130,1,9.5,-0.132,3.11,4,36,17.3,2.0,18,1,competitor offered a dollar more
+E20065,Customer Service,M143,0,0.0,0.017,3.79,2,31,25.5,3.4,15,0,
+E20066,Fulfillment Center,M100,0,8.7,-0.04,3.73,8,11,29.3,2.8,16,0,
+E20067,Customer Service,M139,0,0.8,0.017,4.61,3,13,20.8,3.0,58,0,
+E20068,Sort Center,M145,1,7.5,-0.169,2.55,3,35,16.2,4.0,3,1,found a job paying more nearby
+E20069,Delivery Station,M130,1,6.6,-0.085,3.66,5,15,23.8,3.2,18,0,
+E20070,Sort Center,M105,1,10.1,-0.103,2.0,9,21,8.8,3.1,47,1,"too many hours, no life outside work"
+E20071,Customer Service,M111,0,0.0,0.058,3.8,6,18,7.9,3.5,3,0,
+E20072,Fulfillment Center,M128,1,12.3,-0.021,3.53,9,3,3.4,1.6,29,0,
+E20073,Customer Service,M111,0,0.0,-0.024,4.25,9,18,14.7,2.6,10,0,
+E20074,Customer Service,M111,0,12.2,0.077,3.78,4,34,25.7,3.6,7,0,
+E20075,Fulfillment Center,M128,0,10.3,0.008,3.32,1,15,13.0,2.3,2,0,
+E20076,Delivery Station,M114,1,12.1,0.051,3.0,8,27,8.2,3.5,48,0,
+E20077,Fulfillment Center,M124,1,10.6,0.078,3.69,7,22,18.4,3.1,54,0,
+E20078,Fulfillment Center,M108,1,5.4,0.001,3.01,0,11,16.9,3.9,10,0,
+E20079,Customer Service,M111,1,0.0,-0.095,3.84,5,20,27.9,3.1,44,0,
+E20080,Customer Service,M107,0,2.1,-0.065,3.67,3,16,12.3,3.4,40,0,
+E20081,Delivery Station,M118,1,5.9,-0.059,4.31,2,13,1.2,3.2,29,0,
+E20082,Customer Service,M119,0,0.0,-0.006,4.69,1,20,14.6,2.7,52,0,
+E20083,Delivery Station,M138,1,19.3,-0.05,3.97,9,30,17.2,3.3,44,1,"too many hours, no life outside work"
+E20084,Sort Center,M129,0,3.8,0.028,3.16,3,4,18.3,3.4,12,0,
+E20085,Customer Service,M115,0,0.0,0.01,2.91,0,7,17.5,3.3,21,0,
+E20086,Sort Center,M113,1,9.2,-0.065,3.11,7,2,24.5,3.2,29,0,
+E20087,Delivery Station,M142,1,10.0,-0.036,3.08,7,5,26.5,2.4,22,1,burned out from peak overtime
+E20088,Customer Service,M119,1,1.1,-0.18,2.35,2,6,13.0,2.9,5,1,found a job paying more nearby
+E20089,Sort Center,M105,0,3.1,-0.001,2.37,6,31,18.9,3.1,3,0,
+E20090,Sort Center,M109,1,10.0,-0.107,3.15,3,23,21.6,3.6,11,1,competitor offered a dollar more
+E20091,Delivery Station,M134,0,13.5,0.002,3.88,2,12,10.2,3.3,10,0,
+E20092,Customer Service,M115,0,2.2,-0.005,3.33,5,20,18.1,3.5,6,0,
+E20093,Customer Service,M123,1,5.7,-0.099,3.26,8,15,19.9,3.8,8,0,
+E20094,Customer Service,M103,0,1.4,-0.01,1.48,5,18,0.0,2.0,51,0,
+E20095,Customer Service,M107,1,0.0,0.052,3.26,11,3,21.7,4.3,46,0,
+E20096,Sort Center,M125,0,6.8,-0.112,3.08,3,17,26.3,3.2,27,0,
+E20097,Customer Service,M107,0,5.8,-0.09,2.58,9,12,5.2,3.5,40,0,
+E20098,Sort Center,M125,1,14.3,-0.008,3.33,3,13,21.0,3.0,46,0,
+E20099,Customer Service,M131,0,11.1,0.049,2.97,8,7,19.1,3.3,44,0,
+E20100,Sort Center,M109,1,9.1,0.008,3.15,7,24,24.0,2.9,44,1,went back to school
+E20101,Delivery Station,M138,0,0.0,-0.093,2.89,4,8,15.5,3.0,17,0,
+E20102,Sort Center,M113,0,8.8,0.007,1.68,5,22,18.3,3.2,37,1,"too many hours, no life outside work"
+E20103,Customer Service,M119,0,5.2,-0.062,3.34,8,14,25.3,3.7,27,0,
+E20104,Sort Center,M141,0,7.5,-0.076,2.63,4,21,22.9,2.5,57,0,
+E20105,Delivery Station,M146,0,7.5,0.117,2.26,10,23,21.7,3.3,39,0,
+E20106,Sort Center,M117,1,8.9,0.038,2.1,6,16,8.4,3.5,9,1,unfair treatment by lead
+E20107,Sort Center,M133,1,10.0,-0.126,2.46,7,29,29.9,5.0,53,0,
+E20108,Fulfillment Center,M144,1,10.3,-0.004,3.13,7,9,5.4,2.1,40,1,mandatory extra time every week
+E20109,Fulfillment Center,M120,0,7.0,0.018,3.37,4,2,17.4,4.3,60,0,
+E20110,Sort Center,M105,1,16.1,0.007,3.21,10,36,8.1,3.7,41,0,
+E20111,Customer Service,M139,0,6.8,0.059,3.07,2,9,18.9,3.3,54,0,
+E20112,Customer Service,M115,0,0.0,-0.003,3.6,2,7,15.9,3.1,21,0,
+E20113,Customer Service,M131,1,1.9,-0.156,2.88,4,17,30.4,3.1,50,0,
+E20114,Fulfillment Center,M128,0,6.6,-0.03,4.47,0,11,0.0,2.8,39,0,
+E20115,Fulfillment Center,M136,1,9.3,0.031,3.26,7,26,20.5,2.8,60,0,
+E20116,Fulfillment Center,M144,0,13.6,-0.177,1.93,4,15,14.7,3.0,16,1,burned out from peak overtime
+E20117,Customer Service,M135,0,11.1,-0.055,2.79,3,21,0.8,3.1,18,0,
+E20118,Fulfillment Center,M120,0,3.6,-0.021,3.68,6,7,25.7,2.6,19,1,moved away
+E20119,Delivery Station,M110,0,8.6,0.007,3.07,11,31,15.7,3.7,29,1,no path to promotion
+E20120,Fulfillment Center,M128,1,6.8,0.059,2.52,2,5,21.8,3.1,26,0,
+E20121,Fulfillment Center,M108,0,3.0,0.107,3.06,7,13,13.6,3.1,2,1,unfair treatment by lead
+E20122,Fulfillment Center,M136,1,0.9,-0.102,3.88,4,5,29.6,3.5,9,1,competitor offered a dollar more
+E20123,Delivery Station,M110,1,8.4,0.004,3.58,4,16,7.9,2.4,32,0,
+E20124,Customer Service,M123,0,4.5,-0.078,3.4,7,9,32.0,4.1,12,0,
+E20125,Customer Service,M127,0,7.7,-0.026,2.33,1,14,16.5,2.1,17,0,
+E20126,Sort Center,M121,0,8.4,-0.074,2.74,8,4,33.7,2.9,23,0,
+E20127,Delivery Station,M146,1,9.0,-0.033,3.07,4,15,24.0,3.7,7,1,burned out from peak overtime
+E20128,Fulfillment Center,M140,0,4.2,-0.029,2.97,10,15,21.3,3.0,21,0,
+E20129,Customer Service,M135,0,6.6,-0.026,3.45,2,32,36.0,3.8,53,0,
+E20130,Fulfillment Center,M132,0,0.0,-0.015,4.19,0,7,12.0,2.4,56,0,
+E20131,Fulfillment Center,M128,0,0.0,0.007,4.13,3,24,9.0,4.1,59,0,
+E20132,Delivery Station,M106,1,14.6,-0.071,3.15,9,16,34.5,3.1,57,0,
+E20133,Fulfillment Center,M124,0,3.6,-0.064,3.41,0,6,26.7,3.4,3,0,
+E20134,Sort Center,M121,1,2.5,-0.094,4.09,5,6,21.7,4.5,15,0,
+E20135,Customer Service,M103,0,2.0,-0.078,3.8,6,9,8.7,4.8,33,1,found a job paying more nearby
+E20136,Sort Center,M133,1,10.5,-0.045,3.47,3,33,24.5,4.5,8,1,burned out from peak overtime
+E20137,Sort Center,M125,0,5.2,-0.045,3.08,8,8,25.8,2.9,59,0,
+E20138,Sort Center,M109,1,16.6,0.028,1.71,11,35,21.6,2.1,38,0,
+E20139,Delivery Station,M106,0,7.8,-0.013,4.24,10,28,15.1,3.1,29,0,
+E20140,Sort Center,M109,1,6.1,-0.01,2.65,4,15,31.3,2.8,19,1,mandatory extra time every week
+E20141,Customer Service,M139,0,5.6,-0.115,4.15,4,9,16.2,2.9,9,0,
+E20142,Sort Center,M109,0,9.9,-0.031,3.46,5,32,3.9,4.1,38,0,
+E20143,Sort Center,M105,1,15.5,0.028,2.85,7,5,16.1,3.5,37,0,
+E20144,Customer Service,M115,0,6.7,0.025,3.72,8,27,9.6,2.6,57,0,
+E20145,Sort Center,M125,0,5.0,-0.207,2.48,9,20,12.0,3.5,45,1,pay did not keep up
+E20146,Delivery Station,M134,1,21.5,0.061,2.31,8,24,15.1,3.6,44,0,
+E20147,Customer Service,M131,0,2.5,0.108,3.54,10,17,26.7,2.7,40,0,
+E20148,Fulfillment Center,M128,0,7.2,-0.107,2.29,2,16,2.1,3.3,24,0,
+E20149,Sort Center,M109,0,6.1,-0.04,4.76,1,30,33.4,3.5,10,0,
+E20150,Sort Center,M109,0,10.5,-0.079,3.69,3,32,21.0,3.3,15,1,mandatory extra time every week
+E20151,Sort Center,M133,0,5.4,-0.096,3.56,2,21,24.4,2.4,27,0,
+E20152,Customer Service,M139,0,4.5,-0.043,3.72,0,33,36.0,3.3,46,0,
+E20153,Fulfillment Center,M100,1,2.0,-0.131,3.65,2,17,29.8,3.0,2,0,
+E20154,Sort Center,M141,0,5.9,-0.041,3.01,9,28,16.5,1.7,5,0,
+E20155,Customer Service,M123,0,7.4,-0.1,4.64,3,16,24.7,2.0,47,0,
+E20156,Customer Service,M147,0,6.8,-0.016,3.19,10,24,2.0,2.6,57,0,
+E20157,Delivery Station,M110,1,7.7,-0.065,2.96,2,7,12.3,2.7,45,0,
+E20158,Fulfillment Center,M108,1,9.2,-0.022,1.97,3,16,12.3,2.4,15,1,manager never listened
+E20159,Fulfillment Center,M120,0,7.1,-0.043,3.48,6,27,6.6,3.2,51,0,
+E20160,Sort Center,M117,1,16.4,-0.039,2.57,6,36,16.9,2.1,10,1,"too many hours, no life outside work"
+E20161,Fulfillment Center,M108,0,0.8,-0.115,2.84,2,8,21.4,3.5,40,0,
+E20162,Customer Service,M119,1,0.0,-0.033,4.39,8,6,15.2,4.2,13,0,
+E20163,Sort Center,M109,0,5.3,-0.013,3.16,5,29,18.7,2.7,31,0,
+E20164,Customer Service,M119,0,4.5,-0.076,3.78,5,17,28.6,3.3,47,0,
+E20165,Customer Service,M111,1,4.7,0.035,2.51,3,31,19.3,3.2,8,0,
+E20166,Sort Center,M137,0,11.4,-0.03,2.89,2,3,0.0,3.7,50,0,
+E20167,Delivery Station,M114,0,12.3,-0.041,2.5,6,19,29.5,3.6,18,0,
+E20168,Fulfillment Center,M132,1,12.7,-0.136,3.49,8,7,8.1,3.1,60,1,mandatory extra time every week
+E20169,Customer Service,M147,1,4.0,-0.03,3.6,3,23,3.6,3.3,23,0,
+E20170,Customer Service,M111,1,7.4,-0.008,2.72,5,28,4.5,2.5,20,0,
+E20171,Customer Service,M127,1,5.9,-0.062,2.88,5,16,13.2,2.1,57,0,
+E20172,Delivery Station,M110,0,1.4,-0.005,3.21,11,28,2.4,3.3,21,0,
+E20173,Delivery Station,M146,0,0.0,-0.016,4.93,3,4,27.2,3.1,39,0,
+E20174,Delivery Station,M102,0,6.5,-0.091,3.36,4,14,13.2,3.6,18,1,found a job paying more nearby
+E20175,Fulfillment Center,M108,1,19.7,0.038,2.09,6,6,13.2,3.3,3,0,
+E20176,Delivery Station,M130,0,6.0,-0.117,2.94,8,7,16.3,2.6,29,1,pay did not keep up
+E20177,Customer Service,M107,1,5.3,-0.109,3.81,3,32,20.8,2.9,5,1,pay did not keep up
+E20178,Sort Center,M133,0,4.0,-0.064,4.17,7,11,38.4,2.5,38,0,
+E20179,Customer Service,M115,0,0.2,-0.093,2.86,4,26,7.0,3.8,20,0,
+E20180,Sort Center,M121,1,9.6,-0.057,3.17,3,20,28.1,3.4,30,0,
+E20181,Delivery Station,M146,0,13.6,0.019,2.99,0,20,9.1,3.7,34,0,
+E20182,Delivery Station,M122,0,8.4,0.031,2.02,6,24,15.3,1.9,26,1,burned out from peak overtime
+E20183,Customer Service,M107,0,1.0,-0.032,3.86,3,12,18.8,1.9,25,0,
+E20184,Sort Center,M145,0,11.3,-0.147,1.65,8,19,17.9,3.3,39,0,
+E20185,Customer Service,M127,0,5.2,-0.046,1.27,8,13,23.8,2.6,13,1,unfair treatment by lead
+E20186,Sort Center,M121,0,3.1,-0.044,3.97,5,3,21.7,3.6,20,0,
+E20187,Customer Service,M127,0,9.7,-0.084,2.11,6,24,25.9,2.2,60,1,pay did not keep up
+E20188,Sort Center,M105,0,5.3,0.01,2.89,6,28,15.3,3.7,1,0,
+E20189,Delivery Station,M102,1,15.7,-0.006,1.84,10,25,30.7,3.9,27,0,
+E20190,Delivery Station,M106,1,14.1,-0.052,3.06,10,2,12.9,2.8,12,0,
+E20191,Fulfillment Center,M128,0,10.3,0.079,4.08,2,27,30.8,2.9,3,1,mandatory extra time every week
+E20192,Sort Center,M121,0,2.2,-0.018,2.4,6,3,11.0,2.4,7,0,
+E20193,Fulfillment Center,M108,1,4.0,-0.003,2.48,2,3,13.0,3.9,37,1,unfair treatment by lead
+E20194,Delivery Station,M114,0,7.1,-0.021,2.91,7,34,11.0,3.6,48,0,
+E20195,Customer Service,M103,0,0.0,-0.067,4.32,3,25,8.2,3.9,45,0,
+E20196,Sort Center,M125,0,1.6,-0.065,2.81,7,18,24.6,2.0,44,0,
+E20197,Delivery Station,M122,0,0.9,0.066,3.53,1,29,10.8,2.3,15,0,
+E20198,Fulfillment Center,M104,0,5.3,-0.138,2.21,3,26,10.2,4.6,46,1,competitor offered a dollar more
+E20199,Fulfillment Center,M124,0,8.0,-0.091,3.84,2,13,15.4,2.8,22,0,
+E20200,Delivery Station,M142,1,9.9,-0.074,3.44,7,17,14.1,3.8,9,1,found a job paying more nearby
+E20201,Sort Center,M113,1,18.6,-0.11,3.21,3,16,32.2,3.5,1,1,burned out from peak overtime
+E20202,Delivery Station,M138,0,5.9,-0.077,3.1,6,28,10.7,2.2,21,0,
+E20203,Fulfillment Center,M140,1,15.3,-0.025,3.11,9,34,17.2,2.8,59,1,burned out from peak overtime
+E20204,Sort Center,M117,0,8.1,-0.114,3.38,6,17,8.0,4.0,31,1,found a job paying more nearby
+E20205,Customer Service,M107,0,3.0,0.065,3.56,5,36,12.1,3.6,1,0,
+E20206,Fulfillment Center,M144,0,7.6,-0.034,2.29,1,6,0.0,3.3,17,0,
+E20207,Customer Service,M143,1,6.0,-0.054,3.38,8,36,13.8,3.9,31,1,same role for two years
+E20208,Fulfillment Center,M124,1,19.6,-0.076,1.65,6,14,23.9,3.5,3,1,burned out from peak overtime
+E20209,Customer Service,M135,0,8.2,0.141,3.45,8,3,13.6,1.9,10,0,
+E20210,Delivery Station,M134,0,14.8,-0.014,3.13,7,29,26.7,3.2,11,0,
+E20211,Sort Center,M129,1,4.7,-0.149,3.18,5,11,6.4,3.2,26,1,pay did not keep up
+E20212,Fulfillment Center,M116,1,12.7,-0.099,3.07,10,13,25.0,3.1,48,1,"too many hours, no life outside work"
+E20213,Sort Center,M101,0,9.8,-0.022,3.68,7,29,25.1,3.8,5,1,same role for two years
+E20214,Fulfillment Center,M144,0,0.0,-0.073,4.14,3,36,13.4,4.2,32,1,competitor offered a dollar more
+E20215,Fulfillment Center,M136,0,9.2,0.025,2.68,8,11,15.7,3.2,12,0,
+E20216,Fulfillment Center,M112,0,9.5,-0.027,2.56,7,15,19.7,4.7,31,0,
+E20217,Delivery Station,M126,0,7.4,0.11,2.96,7,16,10.8,3.0,56,0,
+E20218,Sort Center,M125,0,12.7,-0.036,2.73,15,14,11.5,2.7,34,0,
+E20219,Fulfillment Center,M108,1,11.6,-0.034,2.93,4,30,8.3,3.4,16,1,mandatory extra time every week
+E20220,Sort Center,M105,0,3.7,-0.061,2.76,9,22,23.7,3.6,56,1,found a job paying more nearby
+E20221,Fulfillment Center,M128,0,4.2,-0.081,2.63,4,34,7.1,3.4,52,0,
+E20222,Fulfillment Center,M112,1,13.7,-0.052,4.4,8,17,9.0,2.0,6,0,
+E20223,Customer Service,M123,1,12.0,0.003,3.51,4,6,9.0,3.2,40,1,"too many hours, no life outside work"
+E20224,Sort Center,M133,0,6.0,-0.079,2.92,5,11,18.8,3.6,16,0,
+E20225,Delivery Station,M146,0,9.0,0.007,2.85,9,20,29.6,4.4,60,0,
+E20226,Sort Center,M101,0,6.6,-0.069,2.23,6,6,11.1,3.3,36,0,
+E20227,Fulfillment Center,M140,1,11.7,0.005,4.55,8,19,8.3,2.3,26,0,
+E20228,Delivery Station,M114,1,10.8,-0.035,2.43,6,9,29.1,2.6,36,1,"too many hours, no life outside work"
+E20229,Sort Center,M129,1,3.9,-0.075,3.37,8,12,8.7,3.1,13,0,
+E20230,Delivery Station,M122,0,1.7,-0.01,3.69,8,24,0.0,2.7,54,0,
+E20231,Fulfillment Center,M100,0,10.6,0.007,2.92,1,8,13.9,3.5,58,0,
+E20232,Customer Service,M103,1,3.6,-0.214,2.53,11,6,0.1,4.1,35,1,found a job paying more nearby
+E20233,Customer Service,M139,1,5.1,-0.008,3.84,12,21,3.8,3.5,35,1,burned out from peak overtime
+E20234,Sort Center,M113,0,11.2,0.124,2.52,5,12,13.6,2.6,2,0,
+E20235,Delivery Station,M122,0,4.8,0.086,3.37,9,21,20.4,3.8,57,0,
+E20236,Delivery Station,M102,0,9.2,-0.008,2.94,8,4,15.6,3.5,22,0,
+E20237,Sort Center,M133,1,0.3,0.001,2.03,8,12,19.5,3.9,59,0,
+E20238,Fulfillment Center,M140,1,10.8,-0.059,3.12,15,11,27.4,3.8,3,1,"too many hours, no life outside work"
+E20239,Fulfillment Center,M136,0,6.2,0.019,2.01,5,15,31.5,3.7,12,0,
+E20240,Delivery Station,M110,0,7.9,-0.101,1.68,6,29,20.9,4.0,33,0,
+E20241,Fulfillment Center,M144,0,5.4,-0.001,5.0,10,15,14.5,2.6,15,0,
+E20242,Fulfillment Center,M136,1,10.5,0.066,2.23,0,6,22.5,2.7,51,0,
+E20243,Delivery Station,M130,0,10.6,-0.122,2.71,9,8,3.5,3.7,58,1,burned out from peak overtime
+E20244,Fulfillment Center,M136,0,10.2,-0.13,2.71,4,31,14.0,3.1,35,1,burned out from peak overtime
+E20245,Fulfillment Center,M128,0,11.4,-0.013,2.54,4,29,20.6,3.0,7,0,
+E20246,Delivery Station,M126,1,18.1,-0.132,1.69,12,25,30.2,2.7,18,1,"too many hours, no life outside work"
+E20247,Fulfillment Center,M140,0,5.7,0.063,3.01,6,32,28.2,4.7,56,0,
+E20248,Sort Center,M145,1,4.2,0.032,2.68,5,31,9.4,2.5,47,0,
+E20249,Sort Center,M109,0,7.3,0.004,2.55,8,3,25.4,5.0,12,0,
+E20250,Sort Center,M101,0,10.7,-0.062,2.78,8,25,14.3,3.3,57,0,
+E20251,Fulfillment Center,M132,1,2.4,-0.106,2.56,4,16,7.3,2.7,60,1,found a job paying more nearby
+E20252,Customer Service,M119,0,3.1,-0.058,3.14,6,21,23.3,2.6,16,0,
+E20253,Delivery Station,M130,0,10.4,-0.047,4.35,4,8,17.7,3.1,47,0,
+E20254,Customer Service,M115,0,9.2,-0.03,3.71,4,19,24.9,2.7,34,0,
+E20255,Delivery Station,M126,0,0.0,-0.063,4.46,6,10,27.1,3.5,16,0,
+E20256,Sort Center,M129,0,8.6,0.024,2.95,4,25,33.4,3.4,5,1,same role for two years
+E20257,Customer Service,M131,0,9.5,0.003,1.93,6,21,34.0,3.1,18,1,family reasons
+E20258,Fulfillment Center,M116,0,11.9,-0.063,3.81,9,2,20.2,3.3,47,1,"too many hours, no life outside work"
+E20259,Customer Service,M139,0,0.0,0.007,4.04,5,12,21.7,3.0,32,0,
+E20260,Sort Center,M121,1,9.6,0.091,1.91,8,3,17.0,2.9,22,0,
+E20261,Delivery Station,M114,1,1.6,0.02,4.53,9,29,21.2,3.2,55,0,
+E20262,Delivery Station,M146,0,2.8,-0.018,3.77,0,4,38.5,3.6,18,0,
+E20263,Customer Service,M139,0,4.7,-0.079,2.69,9,33,30.4,2.5,43,0,
+E20264,Delivery Station,M134,0,9.1,0.03,3.2,10,34,23.6,2.6,48,0,
+E20265,Fulfillment Center,M108,0,0.0,-0.079,3.87,5,16,0.8,3.9,46,0,
+E20266,Delivery Station,M110,0,7.9,0.041,2.58,3,15,25.4,2.3,54,0,
+E20267,Delivery Station,M114,0,5.2,-0.141,2.86,5,23,26.4,2.7,42,0,
+E20268,Customer Service,M135,0,9.9,-0.017,2.72,6,29,31.2,2.6,45,0,
+E20269,Customer Service,M123,0,2.7,-0.03,4.26,8,19,15.0,3.1,57,0,
+E20270,Sort Center,M141,0,6.6,-0.088,2.6,10,19,32.8,2.8,54,0,
+E20271,Delivery Station,M138,1,2.5,0.047,2.9,5,36,12.7,3.4,26,0,
+E20272,Delivery Station,M126,0,2.5,-0.072,3.23,0,31,19.1,2.9,48,0,
+E20273,Customer Service,M143,1,6.1,0.056,2.97,7,2,15.8,3.5,16,0,
+E20274,Sort Center,M133,1,13.0,0.044,2.79,10,18,4.6,3.3,47,0,
+E20275,Customer Service,M147,1,0.0,-0.107,2.88,4,3,14.7,4.2,31,0,
+E20276,Sort Center,M133,0,8.8,-0.082,3.76,3,2,28.7,3.3,5,0,
+E20277,Delivery Station,M102,0,8.4,-0.037,3.15,8,31,17.3,2.4,40,0,
+E20278,Customer Service,M131,1,3.7,0.032,2.65,5,9,2.4,3.3,22,0,
+E20279,Delivery Station,M134,0,6.2,0.08,2.4,2,20,6.3,4.4,5,0,
+E20280,Customer Service,M127,0,0.0,-0.044,4.72,8,23,23.8,2.6,4,0,
+E20281,Delivery Station,M130,0,11.7,-0.058,2.9,9,13,21.5,2.9,29,1,"too many hours, no life outside work"
+E20282,Fulfillment Center,M136,0,9.9,-0.01,3.03,9,22,11.7,2.1,56,0,
+E20283,Customer Service,M135,1,0.0,-0.139,4.83,6,21,26.7,3.6,28,0,
+E20284,Sort Center,M145,1,22.9,0.003,2.13,11,24,8.9,4.3,46,1,mandatory extra time every week
+E20285,Delivery Station,M142,1,11.4,-0.029,2.99,5,10,14.0,4.2,33,0,
+E20286,Fulfillment Center,M136,0,12.0,0.011,2.79,6,9,12.2,3.0,20,1,burned out from peak overtime
+E20287,Customer Service,M119,0,0.0,-0.023,4.81,0,2,5.6,2.8,2,0,
+E20288,Delivery Station,M106,0,7.0,-0.062,2.22,8,16,24.8,3.8,20,1,found a job paying more nearby
+E20289,Customer Service,M123,1,3.0,-0.037,4.74,11,34,3.0,4.9,44,0,
+E20290,Fulfillment Center,M104,1,6.5,-0.0,2.6,7,12,28.8,3.3,9,0,
+E20291,Delivery Station,M114,1,14.3,-0.07,2.15,6,35,12.4,3.8,8,1,"too many hours, no life outside work"
+E20292,Customer Service,M139,0,4.1,-0.079,4.5,5,10,19.1,3.0,37,0,
+E20293,Delivery Station,M102,0,3.5,0.154,2.67,1,22,31.8,3.2,13,0,
+E20294,Sort Center,M137,1,6.2,-0.144,3.37,0,18,6.1,2.8,60,1,found a job paying more nearby
+E20295,Customer Service,M135,1,6.4,0.038,3.28,7,16,22.6,3.3,29,0,
+E20296,Customer Service,M143,1,4.9,-0.036,2.89,3,33,26.8,3.3,7,0,
+E20297,Fulfillment Center,M116,1,4.7,0.031,2.99,4,13,18.4,4.0,57,0,
+E20298,Fulfillment Center,M124,0,4.8,0.083,3.36,0,31,35.5,4.3,17,0,
+E20299,Customer Service,M135,1,0.0,-0.017,2.71,2,10,11.9,3.8,55,0,
+E20300,Delivery Station,M126,0,5.6,-0.075,3.93,9,23,11.2,1.3,50,0,
+E20301,Customer Service,M103,0,0.0,0.069,4.49,4,4,15.4,3.1,30,0,
+E20302,Fulfillment Center,M136,1,14.3,0.04,1.47,10,17,15.0,1.4,15,1,mandatory extra time every week
+E20303,Customer Service,M127,1,3.5,-0.019,4.19,1,24,20.7,2.7,23,0,
+E20304,Delivery Station,M118,0,3.9,0.092,3.38,8,10,17.5,3.2,15,0,
+E20305,Fulfillment Center,M144,0,3.5,-0.038,3.0,12,9,31.9,3.1,54,0,
+E20306,Sort Center,M129,0,13.4,-0.017,4.04,8,23,30.5,3.6,9,0,
+E20307,Customer Service,M111,0,0.8,-0.076,2.71,11,4,15.0,4.1,27,0,
+E20308,Sort Center,M125,0,5.8,-0.058,1.93,9,27,15.6,3.7,14,0,
+E20309,Sort Center,M105,0,7.5,0.029,2.83,4,28,21.4,1.8,33,0,
+E20310,Delivery Station,M106,1,7.6,-0.04,3.23,8,18,5.8,2.6,43,0,
+E20311,Fulfillment Center,M136,0,1.5,-0.009,3.69,6,11,17.1,2.6,19,0,
+E20312,Fulfillment Center,M100,0,3.0,-0.06,3.59,4,17,22.4,3.6,49,0,
+E20313,Customer Service,M115,1,0.0,-0.084,3.55,3,27,14.0,2.9,57,1,competitor offered a dollar more
+E20314,Delivery Station,M102,0,7.9,0.118,3.32,5,3,20.3,3.5,23,0,
+E20315,Customer Service,M103,0,3.9,-0.124,3.94,9,4,10.3,3.2,10,0,
+E20316,Fulfillment Center,M128,1,8.9,-0.097,3.32,5,29,24.7,2.4,55,0,
+E20317,Sort Center,M145,0,12.6,-0.07,3.63,5,6,34.4,2.4,18,0,
+E20318,Customer Service,M147,0,5.7,-0.091,2.95,8,27,17.4,3.2,22,0,
+E20319,Fulfillment Center,M136,0,3.3,-0.016,3.68,10,11,25.0,3.4,35,0,
+E20320,Sort Center,M113,1,7.3,-0.105,3.47,6,10,22.9,3.4,34,0,
+E20321,Sort Center,M125,0,3.7,-0.008,3.88,3,28,18.5,2.8,13,1,no path to promotion
+E20322,Delivery Station,M130,0,9.4,0.088,3.0,15,14,16.0,3.4,5,0,
+E20323,Customer Service,M115,0,2.5,0.077,3.64,5,36,21.8,3.1,41,0,
+E20324,Fulfillment Center,M108,1,9.8,-0.117,2.02,6,17,22.9,3.6,15,1,pay did not keep up
+E20325,Customer Service,M131,0,0.2,-0.085,2.76,7,33,24.2,3.9,37,0,
+E20326,Delivery Station,M142,0,10.9,-0.019,3.49,8,11,4.5,2.7,49,0,
+E20327,Sort Center,M109,1,6.6,-0.073,3.02,2,3,5.2,2.6,59,0,
+E20328,Fulfillment Center,M136,1,15.8,-0.108,2.07,11,21,12.8,4.0,43,1,mandatory extra time every week
+E20329,Customer Service,M115,1,1.5,-0.001,3.75,7,7,18.4,3.2,12,0,
+E20330,Sort Center,M101,0,9.1,-0.109,3.99,13,5,27.0,4.2,23,0,
+E20331,Fulfillment Center,M136,0,8.1,-0.066,1.95,6,32,6.3,3.6,60,1,found a job paying more nearby
+E20332,Sort Center,M101,0,2.2,0.022,3.15,6,29,24.7,3.8,37,0,
+E20333,Sort Center,M141,1,12.2,-0.015,3.33,8,5,10.4,2.3,13,1,burned out from peak overtime
+E20334,Fulfillment Center,M104,0,0.7,0.028,2.71,5,31,12.2,4.4,12,0,
+E20335,Fulfillment Center,M116,0,2.1,-0.01,4.62,3,15,0.0,3.2,10,0,
+E20336,Customer Service,M139,0,1.5,-0.041,3.26,0,29,7.8,3.9,13,0,
+E20337,Customer Service,M123,0,10.8,0.016,2.67,11,8,27.1,2.2,21,0,
+E20338,Sort Center,M133,0,6.0,-0.013,2.95,7,13,12.8,3.6,1,0,
+E20339,Customer Service,M107,0,3.7,0.003,4.86,8,3,45.8,3.6,18,0,
+E20340,Fulfillment Center,M124,0,5.0,-0.06,3.8,5,9,19.2,4.0,15,1,competitor offered a dollar more
+E20341,Customer Service,M111,0,6.5,-0.126,3.06,6,27,25.0,3.8,27,0,
+E20342,Sort Center,M125,0,4.0,-0.046,3.41,5,27,14.4,3.2,7,0,
+E20343,Sort Center,M125,1,6.1,-0.128,3.05,8,3,33.2,3.7,30,0,
+E20344,Fulfillment Center,M116,0,7.8,0.002,2.57,6,26,25.4,2.6,56,0,
+E20345,Customer Service,M143,1,8.7,-0.061,2.45,7,36,17.5,1.6,19,1,found a job paying more nearby
+E20346,Delivery Station,M102,0,7.1,-0.047,3.46,6,3,15.7,2.1,3,0,
+E20347,Sort Center,M133,1,8.3,0.008,2.99,3,8,20.0,3.4,55,0,
+E20348,Delivery Station,M122,1,12.9,-0.031,2.6,3,29,13.4,2.4,48,1,burned out from peak overtime
+E20349,Fulfillment Center,M124,0,9.7,-0.084,2.93,1,17,13.6,3.5,18,0,
+E20350,Customer Service,M127,0,0.0,-0.105,3.5,9,29,17.6,1.7,13,0,
+E20351,Sort Center,M117,0,2.0,-0.026,2.98,7,6,19.2,4.1,24,0,
+E20352,Fulfillment Center,M100,0,2.6,0.139,3.73,6,18,34.9,3.8,17,0,
+E20353,Customer Service,M111,0,3.5,-0.107,3.79,3,35,18.9,3.0,37,1,competitor offered a dollar more
+E20354,Fulfillment Center,M128,0,5.3,0.036,3.1,4,15,26.8,2.8,59,0,
+E20355,Fulfillment Center,M100,1,19.7,0.013,3.64,6,30,9.5,3.0,10,1,"too many hours, no life outside work"
+E20356,Delivery Station,M142,1,5.1,-0.113,3.69,11,7,0.9,4.2,7,0,
+E20357,Sort Center,M113,0,11.9,0.003,2.09,9,14,0.0,3.0,32,1,burned out from peak overtime
+E20358,Customer Service,M103,1,7.4,0.049,3.84,9,33,24.6,3.4,11,1,same role for two years
+E20359,Customer Service,M111,0,1.7,-0.016,4.52,4,12,27.0,4.0,3,0,
+E20360,Fulfillment Center,M136,0,12.9,0.008,1.52,8,5,16.4,3.5,30,0,
+E20361,Delivery Station,M102,0,0.7,-0.068,4.32,5,13,15.3,3.5,16,0,
+E20362,Delivery Station,M106,1,7.7,-0.028,3.0,1,23,32.1,3.5,12,0,
+E20363,Fulfillment Center,M124,0,14.0,-0.041,3.81,9,23,22.2,2.3,31,1,"too many hours, no life outside work"
+E20364,Delivery Station,M134,0,7.8,-0.009,3.1,7,17,15.6,2.7,13,0,
+E20365,Sort Center,M105,0,9.6,-0.075,2.29,9,4,26.3,3.0,13,1,competitor offered a dollar more
+E20366,Sort Center,M101,0,3.3,0.013,3.52,1,10,30.4,4.4,24,0,
+E20367,Sort Center,M145,1,14.8,0.014,3.41,9,9,17.3,2.8,14,0,
+E20368,Delivery Station,M110,0,9.5,-0.11,3.58,13,13,17.4,3.4,8,1,competitor offered a dollar more
+E20369,Sort Center,M129,1,7.4,-0.063,3.2,10,34,22.0,2.9,35,0,
+E20370,Fulfillment Center,M100,0,0.0,0.054,4.28,11,7,5.5,4.2,22,1,"too many hours, no life outside work"
+E20371,Sort Center,M129,0,6.8,0.009,2.72,4,5,13.8,1.9,26,0,
+E20372,Customer Service,M127,1,4.6,-0.046,3.0,3,32,27.5,3.2,45,0,
+E20373,Customer Service,M127,0,8.5,0.008,3.08,10,28,12.1,3.1,34,0,
+E20374,Fulfillment Center,M124,0,13.0,-0.016,2.01,3,21,17.2,2.7,43,0,
+E20375,Sort Center,M121,0,5.2,0.052,3.37,10,22,20.3,3.8,39,0,
+E20376,Delivery Station,M110,0,6.0,0.085,2.67,6,32,21.6,2.9,53,0,
+E20377,Customer Service,M135,0,3.0,-0.096,2.23,5,19,22.4,3.6,15,0,
+E20378,Customer Service,M107,1,11.9,-0.093,3.43,5,31,12.3,3.6,31,0,
+E20379,Customer Service,M131,0,4.2,-0.103,3.69,13,34,30.2,3.7,49,0,
+E20380,Fulfillment Center,M136,1,16.8,-0.077,1.67,8,26,7.0,3.2,56,1,"too many hours, no life outside work"
+E20381,Sort Center,M133,1,13.4,-0.044,2.81,9,6,15.5,3.5,40,1,mandatory extra time every week
+E20382,Sort Center,M113,1,7.5,-0.082,3.76,7,3,20.5,3.2,10,0,
+E20383,Fulfillment Center,M112,0,6.5,0.053,3.43,8,29,20.5,3.4,5,0,
+E20384,Sort Center,M113,0,5.3,-0.026,3.02,4,21,11.9,2.9,44,0,
+E20385,Delivery Station,M138,0,9.8,0.138,2.85,1,34,26.1,2.7,43,1,same role for two years
+E20386,Fulfillment Center,M136,1,14.4,-0.044,1.93,7,29,6.6,3.5,31,1,mandatory extra time every week
+E20387,Sort Center,M125,1,13.7,-0.034,3.74,10,16,22.0,3.8,41,1,burned out from peak overtime
+E20388,Fulfillment Center,M100,1,13.5,0.035,2.27,5,18,22.1,3.2,10,1,"too many hours, no life outside work"
+E20389,Delivery Station,M106,1,17.1,0.079,1.89,7,14,18.4,4.4,9,1,mandatory extra time every week
+E20390,Sort Center,M117,0,10.2,-0.119,2.37,2,27,8.5,3.8,26,1,mandatory extra time every week
+E20391,Fulfillment Center,M140,0,8.4,0.029,1.34,4,25,19.4,3.1,33,1,no path to promotion
+E20392,Customer Service,M135,0,1.9,0.039,2.99,4,30,19.7,4.3,10,0,
+E20393,Fulfillment Center,M124,0,6.7,-0.043,3.03,5,34,20.1,3.4,33,1,same role for two years
+E20394,Sort Center,M141,1,10.2,-0.076,4.09,7,28,16.8,3.0,50,0,
+E20395,Sort Center,M137,0,8.3,0.081,3.24,0,22,17.2,5.0,48,0,
+E20396,Fulfillment Center,M104,1,7.7,-0.111,2.37,6,13,7.7,3.2,13,1,found a job paying more nearby
+E20397,Fulfillment Center,M120,0,10.2,-0.101,4.24,1,9,21.8,4.4,60,0,
+E20398,Fulfillment Center,M116,1,6.4,-0.059,2.43,2,13,21.6,2.4,5,0,
+E20399,Delivery Station,M106,1,8.8,0.054,3.39,10,33,18.5,2.5,4,0,
+E20400,Sort Center,M117,0,1.5,-0.115,1.29,1,5,23.6,2.1,4,0,
+E20401,Customer Service,M147,0,4.4,0.009,3.84,1,10,3.4,4.9,1,0,
+E20402,Delivery Station,M106,0,0.3,0.051,5.0,3,8,6.1,1.6,48,0,
+E20403,Customer Service,M107,0,4.0,-0.006,3.63,4,16,24.0,3.2,34,0,
+E20404,Delivery Station,M146,0,0.5,-0.075,2.83,6,5,21.2,4.0,27,0,
+E20405,Customer Service,M131,0,5.1,-0.026,4.38,6,9,10.5,3.7,33,0,
+E20406,Sort Center,M125,0,0.0,-0.033,3.57,2,15,39.5,3.2,40,0,
+E20407,Customer Service,M111,0,0.0,-0.076,4.29,2,19,29.8,4.1,27,0,
+E20408,Delivery Station,M114,0,3.4,-0.09,2.7,3,35,8.7,2.1,9,1,competitor offered a dollar more
+E20409,Customer Service,M135,0,4.3,-0.011,3.21,7,26,25.0,3.4,49,0,
+E20410,Customer Service,M119,0,0.0,-0.067,2.81,5,12,9.8,3.4,44,0,
+E20411,Delivery Station,M114,0,9.7,-0.071,3.82,6,20,12.2,2.3,10,1,found a job paying more nearby
+E20412,Delivery Station,M110,0,13.4,-0.048,2.71,9,22,10.5,4.0,19,1,burned out from peak overtime
+E20413,Delivery Station,M146,0,7.8,-0.037,4.27,9,26,15.1,3.2,21,0,
+E20414,Fulfillment Center,M136,0,0.1,-0.083,2.32,2,21,16.5,3.3,48,0,
+E20415,Sort Center,M129,0,9.7,-0.073,3.23,13,7,17.8,2.7,9,0,
+E20416,Fulfillment Center,M124,1,10.9,-0.117,2.38,6,24,12.9,3.1,24,1,"too many hours, no life outside work"
+E20417,Delivery Station,M122,1,12.8,-0.062,3.36,8,36,14.5,3.8,15,1,burned out from peak overtime
+E20418,Customer Service,M127,1,4.1,0.034,2.34,3,25,21.7,2.6,32,0,
+E20419,Customer Service,M107,1,2.0,-0.039,3.39,9,24,7.1,2.6,19,1,burned out from peak overtime
+E20420,Delivery Station,M106,0,10.9,-0.025,2.8,10,21,17.8,2.6,21,0,
+E20421,Customer Service,M123,0,13.2,-0.026,2.4,4,10,2.1,3.6,5,0,
+E20422,Customer Service,M143,0,5.5,-0.02,2.78,11,11,14.8,3.7,51,0,
+E20423,Sort Center,M105,0,7.1,0.004,3.63,4,28,10.7,2.8,13,0,
+E20424,Fulfillment Center,M112,0,3.7,-0.069,3.93,2,5,21.2,3.7,19,0,
+E20425,Fulfillment Center,M100,1,10.0,-0.089,3.81,4,35,17.4,2.5,34,1,"too many hours, no life outside work"
+E20426,Customer Service,M135,0,0.0,-0.012,3.5,14,23,14.6,4.2,40,0,
+E20427,Delivery Station,M122,0,6.5,-0.134,3.0,10,19,21.4,2.6,17,1,found a job paying more nearby
+E20428,Sort Center,M121,0,11.7,-0.003,2.08,3,20,22.8,2.3,44,1,burned out from peak overtime
+E20429,Fulfillment Center,M124,0,6.6,0.0,4.01,7,30,18.7,2.7,43,0,
+E20430,Sort Center,M141,1,12.5,-0.156,2.42,11,35,5.2,4.8,1,1,mandatory extra time every week
+E20431,Customer Service,M143,1,1.3,-0.074,5.0,7,8,23.2,2.5,6,0,
+E20432,Fulfillment Center,M124,0,0.0,-0.152,3.82,2,30,0.1,3.6,12,0,
+E20433,Customer Service,M147,1,3.0,0.023,4.23,4,2,20.7,3.6,38,0,
+E20434,Sort Center,M137,1,17.2,0.043,3.07,13,30,14.5,4.3,55,0,
+E20435,Delivery Station,M126,1,7.9,-0.005,3.48,12,15,26.1,4.0,51,0,
+E20436,Customer Service,M115,0,8.5,0.006,3.32,7,4,17.3,3.6,54,0,
+E20437,Delivery Station,M106,0,3.2,-0.093,2.91,5,17,19.9,3.6,53,0,
+E20438,Customer Service,M147,0,1.0,-0.001,2.26,2,4,26.8,2.0,38,0,
+E20439,Customer Service,M135,0,4.3,0.037,3.06,8,29,13.7,2.6,36,0,
+E20440,Delivery Station,M142,0,1.3,-0.095,3.81,10,6,21.5,2.9,14,0,
+E20441,Sort Center,M101,1,6.7,0.055,1.49,8,19,14.3,4.4,19,0,
+E20442,Sort Center,M125,0,8.9,-0.057,2.06,4,9,29.5,3.3,21,0,
+E20443,Customer Service,M107,0,10.5,-0.041,2.76,10,33,12.6,3.2,36,0,
+E20444,Fulfillment Center,M136,0,8.5,-0.173,2.8,6,7,18.4,3.4,18,1,found a job paying more nearby
+E20445,Sort Center,M113,1,6.7,0.151,2.76,6,12,4.5,3.3,9,1,moved away
+E20446,Delivery Station,M138,0,0.0,0.08,2.77,9,33,27.2,3.6,21,1,no path to promotion
+E20447,Sort Center,M113,0,5.9,-0.152,4.09,5,13,13.6,2.8,45,0,
+E20448,Fulfillment Center,M100,0,8.8,0.001,3.02,3,25,4.8,2.5,9,0,
+E20449,Customer Service,M135,0,1.0,0.087,3.8,5,16,14.7,2.8,60,0,
+E20450,Customer Service,M147,0,2.2,-0.038,4.01,0,5,7.8,4.4,40,0,
+E20451,Fulfillment Center,M120,0,6.4,-0.058,2.35,11,35,20.8,3.5,11,1,no path to promotion
+E20452,Fulfillment Center,M136,0,9.7,-0.128,3.63,7,20,29.5,2.4,2,0,
+E20453,Customer Service,M123,0,3.3,-0.058,2.73,1,2,13.8,2.7,8,1,mandatory extra time every week
+E20454,Customer Service,M115,0,4.1,-0.033,2.21,9,10,24.7,2.7,19,0,
+E20455,Customer Service,M147,1,4.4,-0.008,4.33,9,10,24.9,2.2,59,0,
+E20456,Fulfillment Center,M132,0,7.8,-0.113,3.08,1,19,3.1,3.6,31,0,
+E20457,Sort Center,M133,0,10.8,-0.055,3.63,3,6,9.3,3.4,43,0,
+E20458,Customer Service,M147,0,3.5,-0.095,3.72,5,18,18.1,2.7,41,0,
+E20459,Fulfillment Center,M124,1,13.7,0.118,2.48,7,27,12.8,3.3,34,0,
+E20460,Customer Service,M131,1,0.2,0.029,3.97,4,30,39.8,2.6,10,0,
+E20461,Delivery Station,M114,1,15.0,-0.071,3.21,9,30,13.4,3.7,41,0,
+E20462,Fulfillment Center,M132,0,8.9,-0.016,3.19,4,32,8.5,3.5,30,1,no path to promotion
+E20463,Delivery Station,M146,0,3.7,-0.088,3.64,1,13,0.0,3.4,56,0,
+E20464,Customer Service,M135,0,0.0,0.018,3.11,9,13,24.7,2.5,44,0,
+E20465,Delivery Station,M122,1,10.2,0.046,2.56,7,11,25.3,3.1,13,0,
+E20466,Fulfillment Center,M124,0,10.5,-0.093,3.3,6,5,18.7,3.9,38,1,mandatory extra time every week
+E20467,Sort Center,M133,1,17.4,0.025,2.93,14,24,4.5,3.2,1,1,"too many hours, no life outside work"
+E20468,Fulfillment Center,M116,0,10.1,0.033,3.29,1,11,9.3,3.6,28,1,mandatory extra time every week
+E20469,Customer Service,M131,0,3.6,-0.079,4.12,3,16,11.8,3.5,25,1,pay did not keep up
+E20470,Sort Center,M121,0,10.6,-0.105,3.52,4,22,20.9,3.0,3,1,"too many hours, no life outside work"
+E20471,Sort Center,M101,1,13.9,-0.003,2.83,12,5,20.8,3.5,26,0,
+E20472,Sort Center,M141,0,0.0,-0.059,4.13,3,15,19.3,4.1,41,0,
+E20473,Delivery Station,M142,0,13.8,-0.132,2.59,10,29,31.9,3.4,27,1,mandatory extra time every week
+E20474,Delivery Station,M122,1,14.9,-0.052,3.09,11,29,35.0,3.7,4,1,"too many hours, no life outside work"
+E20475,Fulfillment Center,M120,0,7.9,-0.093,4.12,3,17,14.1,3.3,4,0,
+E20476,Sort Center,M129,1,8.5,0.07,1.21,3,15,23.3,2.4,45,1,"too many hours, no life outside work"
+E20477,Delivery Station,M110,1,12.7,-0.062,3.51,5,20,2.2,2.1,27,1,burned out from peak overtime
+E20478,Sort Center,M109,0,1.6,-0.219,2.79,3,18,31.7,2.8,25,0,
+E20479,Customer Service,M115,0,0.0,-0.034,3.06,5,19,15.9,2.5,45,0,
+E20480,Delivery Station,M110,0,7.7,-0.035,2.61,6,29,9.5,2.1,5,1,same role for two years
+E20481,Customer Service,M131,1,14.3,0.023,3.8,10,35,10.9,1.4,53,0,
+E20482,Sort Center,M121,1,12.2,0.049,3.26,9,19,9.5,2.4,41,0,
+E20483,Fulfillment Center,M140,0,4.2,-0.069,2.89,1,35,16.2,2.8,44,0,
+E20484,Customer Service,M119,0,0.0,-0.037,3.85,6,22,17.2,4.0,44,0,
+E20485,Fulfillment Center,M124,0,0.0,-0.014,4.11,6,36,14.9,2.6,25,0,
+E20486,Fulfillment Center,M140,0,12.0,-0.083,2.59,12,29,25.8,2.9,54,1,mandatory extra time every week
+E20487,Customer Service,M139,1,2.8,-0.051,3.63,8,6,15.1,2.5,36,0,
+E20488,Delivery Station,M106,1,9.7,0.105,1.55,5,13,11.0,3.8,8,0,
+E20489,Fulfillment Center,M132,1,10.5,-0.036,3.02,6,24,20.3,3.7,55,0,
+E20490,Sort Center,M105,1,14.9,-0.015,3.21,3,20,12.5,3.3,42,0,
+E20491,Delivery Station,M138,0,7.8,0.141,3.42,11,9,28.9,3.5,43,0,
+E20492,Sort Center,M141,1,18.2,-0.018,1.0,8,18,15.9,3.7,27,1,mandatory extra time every week
+E20493,Delivery Station,M110,0,7.1,-0.051,4.1,3,33,18.6,2.1,11,0,
+E20494,Fulfillment Center,M116,1,13.6,-0.134,1.0,10,32,17.1,4.0,53,1,mandatory extra time every week
+E20495,Sort Center,M117,0,5.0,-0.056,2.77,7,28,17.9,3.9,12,1,felt disrespected by my supervisor
+E20496,Customer Service,M131,0,0.4,-0.034,3.62,3,18,17.8,3.2,39,0,
+E20497,Customer Service,M107,0,2.3,0.005,2.52,3,10,31.2,2.8,36,0,
+E20498,Delivery Station,M102,0,5.9,0.047,1.98,2,22,0.5,2.4,38,0,
+E20499,Delivery Station,M110,0,0.0,-0.091,4.44,5,26,9.0,2.1,10,0,
+E20500,Fulfillment Center,M116,0,11.1,0.008,2.53,7,2,15.1,3.1,42,0,
+E20501,Sort Center,M141,0,12.5,-0.118,2.53,6,5,3.6,3.6,55,1,mandatory extra time every week
+E20502,Delivery Station,M114,1,11.4,-0.084,2.8,13,17,7.3,3.3,1,1,"too many hours, no life outside work"
+E20503,Fulfillment Center,M128,1,9.0,0.026,3.55,8,13,13.1,3.4,14,1,went back to school
+E20504,Sort Center,M121,0,8.0,0.066,3.08,10,23,4.8,2.4,32,1,family reasons
+E20505,Fulfillment Center,M124,0,12.6,-0.012,2.66,1,20,18.2,3.3,53,0,
+E20506,Sort Center,M137,1,6.7,-0.061,3.2,3,17,22.5,3.4,19,1,pay did not keep up
+E20507,Sort Center,M117,1,10.8,-0.013,3.14,6,33,25.5,3.3,26,0,
+E20508,Customer Service,M111,1,8.4,-0.011,4.23,9,33,9.8,4.4,26,0,
+E20509,Delivery Station,M126,0,8.2,-0.13,3.68,3,11,21.3,2.8,27,0,
+E20510,Delivery Station,M106,0,15.5,0.053,3.07,8,15,28.2,2.6,18,0,
+E20511,Fulfillment Center,M128,1,20.3,-0.025,1.1,11,36,9.9,2.7,27,1,"too many hours, no life outside work"
+E20512,Sort Center,M141,0,7.6,-0.055,2.45,5,34,21.1,3.1,51,0,
+E20513,Fulfillment Center,M116,0,5.0,-0.067,3.45,7,36,11.6,3.6,52,1,competitor offered a dollar more
+E20514,Sort Center,M129,0,0.5,-0.005,3.85,5,26,25.4,2.1,51,0,
+E20515,Fulfillment Center,M116,1,12.9,0.035,2.71,10,34,18.4,2.6,34,1,mandatory extra time every week
+E20516,Fulfillment Center,M112,0,8.1,-0.125,2.04,7,21,10.7,3.4,56,1,found a job paying more nearby
+E20517,Customer Service,M115,0,3.0,-0.009,3.16,2,18,13.4,2.4,3,0,
+E20518,Customer Service,M127,0,1.2,-0.093,2.64,0,22,16.5,3.8,54,1,competitor offered a dollar more
+E20519,Delivery Station,M122,1,16.6,-0.033,3.48,4,12,11.1,2.0,28,0,
+E20520,Fulfillment Center,M124,0,8.7,-0.138,1.68,10,6,26.1,2.5,51,0,
+E20521,Delivery Station,M130,1,11.7,0.036,2.51,7,2,15.5,2.9,31,0,
+E20522,Fulfillment Center,M128,0,10.6,-0.089,2.92,6,2,21.2,1.7,45,0,
+E20523,Sort Center,M129,1,8.8,-0.033,4.5,5,11,18.4,3.5,21,0,
+E20524,Sort Center,M133,1,6.6,-0.068,3.34,5,8,24.4,4.1,45,0,
+E20525,Customer Service,M103,1,12.1,-0.012,3.33,3,10,22.6,3.0,23,1,"too many hours, no life outside work"
+E20526,Fulfillment Center,M104,0,2.4,-0.083,4.0,8,34,18.3,2.6,9,1,competitor offered a dollar more
+E20527,Delivery Station,M138,0,9.7,-0.041,2.95,6,27,32.8,3.6,12,0,
+E20528,Sort Center,M113,1,13.9,-0.02,1.91,7,6,17.3,2.8,33,0,
+E20529,Fulfillment Center,M104,0,8.2,-0.025,1.94,6,22,5.7,2.8,53,1,felt disrespected by my supervisor
+E20530,Sort Center,M109,0,4.4,-0.002,3.25,0,10,27.7,2.0,3,0,
+E20531,Delivery Station,M106,0,7.0,-0.108,4.39,6,19,18.4,4.1,56,0,
+E20532,Delivery Station,M134,0,9.2,-0.067,1.66,6,35,32.5,3.3,12,1,competitor offered a dollar more
+E20533,Delivery Station,M114,0,2.1,0.031,5.0,7,34,14.1,2.5,46,0,
+E20534,Customer Service,M115,1,9.3,-0.134,2.67,4,11,17.3,3.2,3,1,competitor offered a dollar more
+E20535,Delivery Station,M146,1,13.8,-0.03,2.99,4,8,19.0,3.6,5,1,burned out from peak overtime
+E20536,Fulfillment Center,M136,1,11.3,-0.1,2.01,6,13,20.3,2.9,16,1,burned out from peak overtime
+E20537,Customer Service,M107,0,0.0,-0.09,3.32,0,14,21.4,3.7,44,0,
+E20538,Customer Service,M131,1,0.0,-0.077,4.44,7,31,26.3,1.8,18,0,
+E20539,Delivery Station,M106,1,12.7,-0.027,2.77,8,25,15.2,3.8,38,1,"too many hours, no life outside work"
+E20540,Customer Service,M131,0,1.9,-0.083,3.74,2,14,16.3,3.8,15,0,
+E20541,Fulfillment Center,M120,0,11.7,-0.022,5.0,10,4,10.1,3.1,40,0,
+E20542,Customer Service,M107,0,6.5,-0.105,3.61,2,9,4.6,3.4,40,1,found a job paying more nearby
+E20543,Customer Service,M119,0,0.0,-0.036,2.55,0,17,24.7,2.7,19,0,
+E20544,Delivery Station,M114,0,9.7,-0.07,1.83,7,27,14.0,4.6,9,1,found a job paying more nearby
+E20545,Customer Service,M107,1,7.1,-0.012,3.51,3,22,26.3,4.4,12,1,"too many hours, no life outside work"
+E20546,Customer Service,M107,0,3.5,0.058,2.91,5,34,21.6,2.7,56,0,
+E20547,Customer Service,M131,0,9.8,0.078,3.2,6,34,30.2,3.7,31,0,
+E20548,Customer Service,M139,0,2.2,-0.032,4.24,7,2,0.6,3.4,45,0,
+E20549,Customer Service,M119,0,0.0,-0.029,4.74,10,14,10.7,3.6,37,0,
+E20550,Sort Center,M125,0,8.4,0.071,3.95,3,3,26.0,3.4,7,0,
+E20551,Delivery Station,M106,1,11.5,-0.151,2.97,5,29,7.3,4.2,55,1,burned out from peak overtime
+E20552,Fulfillment Center,M144,0,11.5,-0.08,3.02,9,9,0.6,3.2,16,0,
+E20553,Customer Service,M143,1,3.6,0.085,3.19,6,32,13.0,4.5,15,0,
+E20554,Customer Service,M143,1,4.4,-0.034,2.94,5,35,26.1,3.2,21,0,
+E20555,Sort Center,M141,1,9.9,0.03,3.96,4,25,21.4,4.3,33,1,no path to promotion
+E20556,Customer Service,M147,1,0.0,-0.046,4.72,0,12,12.2,2.6,15,0,
+E20557,Fulfillment Center,M140,1,16.3,-0.136,3.62,7,34,24.6,2.3,23,1,burned out from peak overtime
+E20558,Delivery Station,M110,0,7.1,-0.095,3.6,8,23,29.6,2.8,35,0,
+E20559,Sort Center,M113,0,9.8,0.028,2.93,3,13,7.2,3.1,22,0,
+E20560,Sort Center,M141,1,7.9,-0.024,3.91,13,12,4.4,3.4,56,0,
+E20561,Fulfillment Center,M144,0,4.0,-0.065,3.35,6,30,17.9,2.3,2,1,found a job paying more nearby
+E20562,Delivery Station,M106,0,3.8,-0.126,3.39,9,21,16.2,2.6,24,0,
+E20563,Sort Center,M121,0,9.6,-0.141,4.01,8,35,26.1,3.6,35,0,
+E20564,Fulfillment Center,M100,0,2.6,-0.001,4.03,9,36,26.3,3.0,32,0,
+E20565,Sort Center,M125,0,8.2,-0.094,2.57,8,21,26.0,2.5,48,0,
+E20566,Sort Center,M113,0,13.4,0.018,3.49,13,36,9.1,2.7,5,0,
+E20567,Customer Service,M107,1,0.5,0.017,3.82,2,23,23.3,3.7,44,0,
+E20568,Fulfillment Center,M108,1,6.1,-0.075,2.75,3,19,7.0,3.3,3,0,
+E20569,Delivery Station,M130,0,0.1,-0.067,3.31,3,29,18.7,4.2,45,0,
+E20570,Fulfillment Center,M128,1,13.9,-0.078,3.5,7,29,22.1,3.4,45,0,
+E20571,Delivery Station,M106,1,13.7,-0.033,3.03,9,6,7.6,2.6,35,1,burned out from peak overtime
+E20572,Delivery Station,M130,0,8.7,0.006,2.32,6,21,33.0,4.4,32,1,"too many hours, no life outside work"
+E20573,Fulfillment Center,M140,1,13.5,-0.068,2.8,8,16,20.2,3.5,15,0,
+E20574,Sort Center,M125,0,8.9,0.119,3.47,2,22,22.6,4.1,4,1,"too many hours, no life outside work"
+E20575,Sort Center,M125,0,5.5,-0.124,3.76,9,21,21.6,2.9,47,0,
+E20576,Delivery Station,M130,1,13.2,0.06,2.2,6,5,19.4,2.8,19,0,
+E20577,Customer Service,M103,0,3.3,-0.02,4.09,6,12,20.9,3.1,18,0,
+E20578,Fulfillment Center,M136,1,18.6,0.051,2.51,10,33,17.2,2.3,2,1,"too many hours, no life outside work"
+E20579,Delivery Station,M114,0,11.1,-0.072,2.56,11,33,24.9,2.9,46,0,
+E20580,Delivery Station,M118,0,9.1,0.122,3.28,8,17,13.6,4.1,15,0,
+E20581,Fulfillment Center,M116,0,0.0,0.01,4.94,0,28,31.7,1.3,49,0,
+E20582,Delivery Station,M138,1,13.0,0.039,3.2,9,25,1.2,3.7,33,0,
+E20583,Sort Center,M141,0,0.2,-0.081,2.48,4,36,21.5,2.2,60,0,
+E20584,Delivery Station,M122,0,6.2,-0.147,3.06,6,25,21.4,3.4,32,1,competitor offered a dollar more
+E20585,Customer Service,M119,0,2.6,-0.011,3.34,3,32,13.0,3.5,43,0,
+E20586,Customer Service,M139,1,0.7,-0.129,3.83,5,19,25.6,2.8,21,0,
+E20587,Fulfillment Center,M116,0,2.5,-0.134,4.55,9,19,9.9,4.5,10,0,
+E20588,Fulfillment Center,M124,0,10.0,0.102,3.28,5,29,12.5,1.9,54,0,
+E20589,Fulfillment Center,M124,1,11.1,-0.09,3.2,10,7,19.5,2.6,28,1,burned out from peak overtime
+E20590,Fulfillment Center,M104,0,18.6,-0.121,1.9,9,16,27.3,3.5,3,1,"too many hours, no life outside work"
+E20591,Delivery Station,M126,1,25.3,-0.021,2.47,5,36,28.3,2.3,41,1,mandatory extra time every week
+E20592,Delivery Station,M106,1,11.2,-0.05,1.74,8,4,2.0,4.0,10,1,mandatory extra time every week
+E20593,Delivery Station,M134,1,13.9,0.001,3.51,2,14,11.4,3.1,30,1,burned out from peak overtime
+E20594,Fulfillment Center,M140,1,16.2,-0.082,2.96,5,20,20.9,1.0,2,0,
+E20595,Sort Center,M121,1,19.7,-0.051,2.71,7,20,32.9,3.1,34,1,"too many hours, no life outside work"
+E20596,Customer Service,M127,1,8.0,0.122,2.82,6,12,19.5,4.1,39,0,
+E20597,Delivery Station,M138,0,1.7,-0.061,3.48,10,30,9.8,2.7,19,0,
+E20598,Customer Service,M135,0,1.0,0.037,2.85,5,30,38.5,3.3,2,0,
+E20599,Customer Service,M111,0,0.0,0.012,4.38,3,15,9.3,3.1,49,0,
+E20600,Sort Center,M125,0,9.1,0.004,3.76,9,25,14.3,3.4,13,0,
+E20601,Delivery Station,M130,1,9.3,-0.11,3.24,6,36,22.6,3.9,30,1,found a job paying more nearby
+E20602,Sort Center,M137,1,6.0,-0.017,3.44,3,27,0.2,3.8,33,1,same role for two years
+E20603,Fulfillment Center,M136,1,8.4,-0.047,2.57,8,10,24.6,3.9,50,1,felt disrespected by my supervisor
+E20604,Delivery Station,M102,0,11.5,0.034,3.48,3,25,15.5,3.7,58,0,
+E20605,Fulfillment Center,M136,0,12.4,0.042,1.65,9,22,12.5,2.0,38,0,
+E20606,Customer Service,M131,0,12.1,-0.019,4.71,8,7,6.5,4.0,38,0,
+E20607,Sort Center,M121,0,12.2,0.038,2.74,7,30,17.5,3.7,7,1,burned out from peak overtime
+E20608,Delivery Station,M134,0,5.9,0.02,4.5,11,6,28.7,3.2,28,0,
+E20609,Customer Service,M143,1,5.0,-0.003,3.39,4,30,13.0,3.1,60,0,
+E20610,Customer Service,M127,1,3.2,-0.082,3.34,9,5,32.6,3.3,22,1,found a job paying more nearby
+E20611,Customer Service,M131,0,3.3,-0.022,3.75,4,21,15.8,4.4,58,0,
+E20612,Sort Center,M141,1,6.7,-0.036,3.89,7,16,22.8,2.7,1,0,
+E20613,Sort Center,M133,0,1.8,-0.097,4.05,5,23,23.5,1.9,57,0,
+E20614,Fulfillment Center,M104,0,12.5,-0.139,2.96,4,3,46.9,1.6,7,0,
+E20615,Delivery Station,M134,1,12.9,-0.042,3.04,4,15,25.0,2.2,17,1,burned out from peak overtime
+E20616,Delivery Station,M142,0,6.7,0.084,4.12,3,35,17.2,3.3,13,0,
+E20617,Sort Center,M145,0,6.1,-0.033,4.21,6,10,12.9,2.8,4,0,
+E20618,Customer Service,M147,1,2.1,0.012,1.76,6,4,16.5,2.9,18,0,
+E20619,Fulfillment Center,M112,1,15.2,-0.015,2.62,5,26,20.0,4.3,12,0,
+E20620,Fulfillment Center,M112,0,6.8,0.022,3.69,0,23,22.9,2.5,12,0,
+E20621,Sort Center,M117,0,0.0,0.012,3.53,4,12,9.2,3.9,56,0,
+E20622,Sort Center,M109,0,6.6,-0.132,3.17,7,21,6.0,3.5,34,1,pay did not keep up
+E20623,Sort Center,M137,0,8.6,0.067,4.18,7,16,15.3,2.8,24,0,
+E20624,Delivery Station,M138,1,14.4,0.098,2.84,4,29,25.0,3.2,37,1,"too many hours, no life outside work"
+E20625,Customer Service,M123,1,2.3,-0.074,3.2,1,35,17.1,3.7,60,1,competitor offered a dollar more
+E20626,Fulfillment Center,M132,0,12.0,-0.061,2.39,7,19,18.8,3.5,45,1,mandatory extra time every week
+E20627,Customer Service,M107,0,6.2,-0.099,2.61,2,33,25.2,3.4,13,0,
+E20628,Customer Service,M131,0,0.0,0.093,2.59,2,5,0.0,3.5,50,0,
+E20629,Delivery Station,M110,1,14.5,0.013,4.14,6,35,6.4,3.0,39,0,
+E20630,Delivery Station,M106,1,15.5,-0.081,3.53,8,7,15.1,2.7,28,1,"too many hours, no life outside work"
+E20631,Delivery Station,M114,0,5.8,0.117,4.22,3,33,15.5,3.1,40,0,
+E20632,Delivery Station,M102,0,13.5,-0.109,2.13,6,7,36.0,3.9,2,1,burned out from peak overtime
+E20633,Sort Center,M101,1,4.5,0.017,3.72,9,15,16.7,3.3,47,1,mandatory extra time every week
+E20634,Delivery Station,M126,0,2.2,-0.155,3.39,9,33,21.2,4.6,56,1,found a job paying more nearby
+E20635,Delivery Station,M138,0,4.7,-0.071,1.92,9,34,15.3,2.8,30,0,
+E20636,Fulfillment Center,M140,0,14.9,0.096,1.69,7,5,8.7,3.9,54,0,
+E20637,Customer Service,M107,0,0.9,0.067,3.94,6,36,17.4,4.7,14,0,
+E20638,Sort Center,M129,1,5.6,0.073,3.49,3,22,18.3,1.4,51,0,
+E20639,Customer Service,M135,0,0.0,-0.053,4.31,0,36,18.6,4.4,55,0,
+E20640,Delivery Station,M142,0,1.0,-0.043,3.23,4,24,25.6,3.6,54,0,
+E20641,Customer Service,M123,0,3.6,0.059,2.84,5,34,17.4,2.1,32,0,
+E20642,Delivery Station,M130,1,8.2,-0.068,4.04,9,17,19.9,3.7,22,0,
+E20643,Delivery Station,M114,1,15.1,-0.072,3.89,7,17,24.8,3.2,46,1,mandatory extra time every week
+E20644,Delivery Station,M106,0,4.0,-0.038,3.41,8,8,34.3,3.1,9,0,
+E20645,Delivery Station,M122,0,2.3,-0.062,4.28,4,7,13.6,4.1,8,0,
+E20646,Delivery Station,M134,1,8.8,0.079,3.33,5,20,27.1,2.8,27,0,
+E20647,Fulfillment Center,M104,1,11.1,-0.097,1.76,5,17,22.3,3.0,16,1,mandatory extra time every week
+E20648,Sort Center,M113,0,12.1,-0.035,2.85,8,6,0.0,3.6,32,1,"too many hours, no life outside work"
+E20649,Sort Center,M105,1,18.4,0.028,1.17,10,19,41.1,3.6,52,1,mandatory extra time every week
+E20650,Customer Service,M111,0,0.0,-0.026,3.0,2,26,31.4,3.3,16,0,
+E20651,Fulfillment Center,M132,0,1.4,-0.023,4.22,3,7,11.5,3.0,45,0,
+E20652,Customer Service,M119,1,0.0,0.096,2.37,3,31,29.4,2.2,41,0,
+E20653,Customer Service,M127,1,4.3,0.003,4.02,11,26,13.2,2.6,46,0,
+E20654,Fulfillment Center,M100,0,7.5,-0.06,3.42,14,36,16.9,2.9,20,1,competitor offered a dollar more
+E20655,Customer Service,M115,1,1.9,-0.137,2.37,0,31,21.4,2.2,16,0,
+E20656,Customer Service,M127,0,0.0,0.007,2.44,1,33,21.2,3.0,35,1,manager never listened
+E20657,Fulfillment Center,M136,1,7.3,0.094,2.23,10,13,25.3,3.7,19,1,unfair treatment by lead
+E20658,Delivery Station,M110,1,19.3,-0.046,2.66,7,12,33.4,2.5,17,1,"too many hours, no life outside work"
+E20659,Sort Center,M121,1,20.5,-0.057,2.66,7,11,2.0,3.7,54,1,burned out from peak overtime
+E20660,Fulfillment Center,M112,0,3.0,0.014,2.63,6,12,31.4,2.1,52,0,
+E20661,Delivery Station,M138,0,0.7,-0.007,3.56,10,7,15.7,4.0,7,0,
+E20662,Sort Center,M105,0,11.9,-0.087,3.02,3,28,25.5,2.9,54,0,
+E20663,Fulfillment Center,M112,0,14.9,-0.026,2.15,7,23,3.6,2.5,37,1,burned out from peak overtime
+E20664,Fulfillment Center,M116,1,10.8,0.008,1.19,7,18,17.6,4.2,25,0,
+E20665,Fulfillment Center,M120,0,0.0,0.045,3.42,1,4,16.2,4.3,24,0,
+E20666,Delivery Station,M118,0,11.9,0.017,4.0,9,7,19.5,4.1,25,0,
+E20667,Fulfillment Center,M112,1,18.3,-0.03,2.37,13,34,20.8,3.0,15,1,mandatory extra time every week
+E20668,Fulfillment Center,M100,0,7.6,-0.014,2.96,9,14,26.7,3.0,13,1,"too many hours, no life outside work"
+E20669,Customer Service,M127,0,3.7,0.126,3.84,7,3,19.5,2.5,24,0,
+E20670,Customer Service,M135,0,0.0,-0.063,3.43,3,13,12.0,3.0,35,0,
+E20671,Customer Service,M147,0,2.7,-0.032,2.93,2,20,14.2,2.4,48,0,
+E20672,Customer Service,M115,0,2.8,0.022,3.78,11,6,29.3,4.2,1,0,
+E20673,Sort Center,M117,0,11.4,-0.064,2.51,5,36,12.1,2.7,54,1,mandatory extra time every week
+E20674,Delivery Station,M142,0,0.4,-0.099,2.96,5,30,27.6,3.7,54,0,
+E20675,Sort Center,M137,0,11.9,0.025,3.27,11,4,0.0,3.0,35,1,"too many hours, no life outside work"
+E20676,Delivery Station,M114,0,13.4,-0.1,2.13,7,23,15.1,2.1,26,1,mandatory extra time every week
+E20677,Sort Center,M129,1,10.8,-0.032,4.24,0,31,9.4,3.2,22,0,
+E20678,Sort Center,M121,0,4.0,-0.026,3.84,4,13,16.5,3.2,3,0,
+E20679,Customer Service,M131,0,8.7,0.005,3.99,3,30,14.7,2.3,14,0,
+E20680,Delivery Station,M138,0,1.8,-0.057,3.45,6,14,3.6,3.5,6,0,
+E20681,Sort Center,M105,1,12.9,-0.039,2.7,10,26,20.6,2.7,18,1,burned out from peak overtime
+E20682,Customer Service,M143,1,8.5,-0.067,2.81,5,10,16.7,2.5,22,0,
+E20683,Delivery Station,M122,0,9.9,-0.017,3.61,2,3,17.5,3.6,31,0,
+E20684,Sort Center,M109,0,6.7,-0.026,4.44,7,14,18.7,3.2,6,0,
+E20685,Sort Center,M121,0,2.1,0.055,3.77,2,7,22.6,3.0,38,0,
+E20686,Sort Center,M105,1,9.4,-0.057,2.2,7,21,16.4,3.0,46,0,
+E20687,Sort Center,M125,0,9.5,-0.044,2.73,3,5,18.2,2.6,7,0,
+E20688,Fulfillment Center,M128,1,14.7,-0.058,2.28,4,8,21.8,4.2,23,1,"too many hours, no life outside work"
+E20689,Customer Service,M131,0,11.9,0.117,1.11,7,32,11.5,3.0,55,1,mandatory extra time every week
+E20690,Customer Service,M111,0,2.2,0.001,2.66,0,24,35.9,2.8,48,0,
+E20691,Customer Service,M103,0,5.5,0.076,3.73,1,22,14.4,3.0,43,0,
+E20692,Delivery Station,M138,1,17.7,0.079,2.54,10,10,6.9,3.6,28,1,"too many hours, no life outside work"
+E20693,Sort Center,M113,1,9.5,0.027,2.57,12,20,6.1,4.3,9,1,moved away
+E20694,Customer Service,M143,0,9.7,0.041,2.83,7,13,11.0,2.5,44,0,
+E20695,Sort Center,M145,1,2.4,-0.033,4.54,8,36,5.4,3.5,4,1,same role for two years
+E20696,Fulfillment Center,M144,1,19.2,-0.134,3.28,9,27,5.7,3.6,42,1,mandatory extra time every week
+E20697,Customer Service,M135,0,0.3,-0.09,2.63,9,22,31.3,3.6,40,0,
+E20698,Fulfillment Center,M104,0,6.9,-0.052,3.14,5,11,10.8,3.6,21,0,
+E20699,Fulfillment Center,M112,1,5.6,0.074,4.4,8,11,15.3,4.2,42,0,
+E20700,Delivery Station,M142,1,10.8,0.076,2.08,8,21,36.6,3.2,47,0,
+E20701,Sort Center,M137,0,3.5,-0.036,2.56,10,15,17.7,2.4,8,0,
+E20702,Fulfillment Center,M112,0,0.0,-0.069,2.58,2,12,24.7,2.9,41,0,
+E20703,Fulfillment Center,M104,0,4.7,0.085,2.52,6,33,31.7,2.9,22,0,
+E20704,Customer Service,M139,0,6.0,-0.057,4.06,3,2,25.0,2.9,24,0,
+E20705,Fulfillment Center,M136,0,2.2,-0.015,2.92,3,34,19.2,2.8,8,0,
+E20706,Sort Center,M137,0,11.8,-0.014,3.83,1,29,0.0,2.9,31,0,
+E20707,Fulfillment Center,M128,0,11.1,-0.098,3.32,7,22,13.3,4.2,32,1,"too many hours, no life outside work"
+E20708,Delivery Station,M134,1,14.3,-0.034,2.65,9,3,0.0,1.1,34,1,burned out from peak overtime
+E20709,Customer Service,M123,1,1.6,0.083,3.51,1,36,18.1,2.5,54,0,
+E20710,Sort Center,M121,1,11.0,-0.108,4.13,7,6,15.4,3.5,2,1,mandatory extra time every week
+E20711,Sort Center,M121,0,11.9,-0.036,3.82,6,10,16.8,2.4,20,0,
+E20712,Delivery Station,M110,0,7.0,-0.023,2.06,5,35,14.6,3.0,36,1,no path to promotion
+E20713,Sort Center,M113,1,10.8,0.03,2.32,6,14,26.5,3.1,26,1,"too many hours, no life outside work"
+E20714,Delivery Station,M114,0,1.6,-0.092,2.5,1,15,11.4,3.5,7,0,
+E20715,Delivery Station,M118,1,11.2,-0.027,4.67,9,29,12.7,3.7,24,0,
+E20716,Customer Service,M123,0,1.9,-0.055,3.27,1,11,5.2,3.1,21,0,
+E20717,Delivery Station,M138,0,0.9,-0.044,3.02,5,10,5.4,3.8,27,0,
+E20718,Customer Service,M107,0,1.0,-0.074,3.17,4,22,10.5,1.8,23,0,
+E20719,Fulfillment Center,M136,1,16.4,0.087,2.71,12,15,24.9,4.4,51,1,burned out from peak overtime
+E20720,Delivery Station,M146,0,6.8,-0.05,3.69,4,17,16.3,1.6,17,1,family reasons
+E20721,Fulfillment Center,M116,0,13.5,-0.105,4.6,11,26,19.9,4.2,19,0,
+E20722,Fulfillment Center,M128,0,0.0,0.004,3.97,10,15,32.5,2.8,52,0,
+E20723,Customer Service,M147,0,4.8,-0.097,3.88,3,22,7.1,2.8,30,1,pay did not keep up
+E20724,Fulfillment Center,M108,0,11.9,-0.049,1.68,7,19,22.2,2.2,59,1,burned out from peak overtime
+E20725,Sort Center,M121,0,10.2,-0.126,1.99,6,11,16.4,2.2,19,1,mandatory extra time every week
+E20726,Fulfillment Center,M116,1,8.0,0.059,3.54,4,20,18.9,3.3,16,0,
+E20727,Sort Center,M133,0,0.2,-0.027,4.63,8,36,15.6,3.6,25,0,
+E20728,Sort Center,M117,0,5.2,-0.058,1.89,7,23,10.6,4.0,54,1,unfair treatment by lead
+E20729,Sort Center,M109,1,20.1,-0.056,2.69,11,8,24.5,3.4,15,1,mandatory extra time every week
+E20730,Sort Center,M137,1,19.8,0.024,1.34,17,36,12.8,4.2,32,1,"too many hours, no life outside work"
+E20731,Sort Center,M117,0,5.9,0.065,3.01,8,31,0.0,3.1,1,0,
+E20732,Sort Center,M109,0,5.4,-0.027,4.16,0,25,15.0,2.6,33,0,
+E20733,Customer Service,M143,1,2.4,0.023,4.09,4,26,11.8,2.8,59,0,
+E20734,Customer Service,M115,0,0.0,0.02,3.22,5,33,6.2,3.2,15,0,
+E20735,Sort Center,M117,0,1.0,0.004,3.67,4,24,16.8,3.5,11,0,
+E20736,Customer Service,M143,1,0.0,0.029,4.42,5,6,17.0,3.3,50,0,
+E20737,Delivery Station,M130,1,13.7,-0.02,1.76,8,26,17.5,3.6,21,1,"too many hours, no life outside work"
+E20738,Sort Center,M101,0,7.1,-0.021,3.11,5,4,14.8,5.0,20,1,mandatory extra time every week
+E20739,Sort Center,M101,0,10.8,-0.085,3.7,6,35,14.0,4.3,33,0,
+E20740,Fulfillment Center,M116,0,5.0,0.007,4.2,6,17,25.7,3.3,22,0,
+E20741,Sort Center,M109,0,6.6,-0.017,2.98,7,24,18.2,3.7,22,0,
+E20742,Customer Service,M115,1,11.1,-0.039,2.99,6,23,31.9,4.2,10,0,
+E20743,Delivery Station,M142,0,7.3,-0.041,3.47,5,15,20.3,3.3,22,1,family reasons
+E20744,Sort Center,M145,0,4.6,-0.094,4.08,2,7,11.7,4.1,18,1,pay did not keep up
+E20745,Customer Service,M103,0,6.8,0.014,3.64,6,4,13.3,2.6,32,0,
+E20746,Sort Center,M105,0,7.2,-0.048,2.45,6,9,9.4,2.2,1,0,
+E20747,Sort Center,M145,0,3.1,0.009,3.4,6,33,16.4,2.6,49,0,
+E20748,Fulfillment Center,M100,0,2.8,0.025,3.22,8,27,11.9,3.5,6,0,
+E20749,Sort Center,M121,0,15.3,-0.047,3.61,5,9,21.8,1.6,10,1,burned out from peak overtime
+E20750,Sort Center,M133,1,15.1,-0.06,2.17,6,36,9.3,3.1,53,1,mandatory extra time every week
+E20751,Customer Service,M147,0,9.3,-0.092,3.19,10,5,28.2,2.9,44,0,
+E20752,Delivery Station,M102,0,9.8,0.082,3.44,8,5,4.9,3.5,37,0,
+E20753,Sort Center,M129,1,9.9,-0.074,3.91,4,30,14.0,4.1,22,1,found a job paying more nearby
+E20754,Fulfillment Center,M100,0,13.9,-0.066,3.64,13,8,10.3,3.1,27,0,
+E20755,Sort Center,M125,1,10.0,-0.045,3.13,7,7,12.6,2.8,47,1,went back to school
+E20756,Customer Service,M107,1,0.0,-0.074,3.4,1,34,18.2,3.3,20,1,found a job paying more nearby
+E20757,Fulfillment Center,M124,0,6.2,-0.086,3.09,0,14,31.2,3.8,58,0,
+E20758,Delivery Station,M106,0,5.0,-0.092,4.15,5,23,40.4,2.9,55,1,pay did not keep up
+E20759,Delivery Station,M142,0,2.4,-0.059,2.76,1,4,24.0,3.1,43,0,
+E20760,Delivery Station,M118,1,16.8,-0.051,3.13,10,27,17.1,1.7,58,1,mandatory extra time every week
+E20761,Fulfillment Center,M112,0,7.7,-0.052,2.28,8,33,14.3,2.9,19,1,same role for two years
+E20762,Fulfillment Center,M100,0,5.0,-0.002,4.29,7,32,23.5,2.2,56,0,
+E20763,Fulfillment Center,M112,0,2.2,-0.142,2.55,4,33,17.4,2.6,40,0,
+E20764,Delivery Station,M130,0,6.3,0.012,3.43,1,2,6.9,3.1,1,1,family reasons
+E20765,Sort Center,M117,1,0.0,0.004,3.63,2,35,19.7,4.3,23,0,
+E20766,Customer Service,M115,0,1.8,-0.143,3.1,0,17,20.2,3.8,32,0,
+E20767,Sort Center,M133,0,0.0,-0.109,3.44,2,17,6.6,3.4,54,1,pay did not keep up
+E20768,Customer Service,M115,0,3.9,-0.117,3.75,4,11,27.4,2.7,25,0,
+E20769,Fulfillment Center,M108,0,2.6,-0.161,3.63,5,27,11.3,4.0,11,0,
+E20770,Sort Center,M145,1,6.0,-0.037,4.06,6,23,28.2,3.2,35,0,
+E20771,Sort Center,M137,0,0.0,-0.05,3.84,8,35,12.8,2.7,6,1,no path to promotion
+E20772,Fulfillment Center,M116,1,7.4,-0.023,3.54,5,15,25.6,3.3,13,0,
+E20773,Delivery Station,M138,1,8.2,-0.068,4.05,8,26,19.6,1.5,57,0,
+E20774,Delivery Station,M122,0,7.5,-0.211,2.95,7,14,22.2,3.9,4,1,pay did not keep up
+E20775,Delivery Station,M126,0,1.3,-0.141,2.77,9,35,15.6,3.4,42,0,
+E20776,Fulfillment Center,M140,0,0.0,-0.063,3.56,5,35,1.5,2.6,14,0,
+E20777,Fulfillment Center,M132,1,5.5,-0.012,3.43,8,31,16.8,3.8,47,1,same role for two years
+E20778,Customer Service,M131,0,4.7,-0.004,3.7,4,18,31.4,2.9,46,0,
+E20779,Delivery Station,M102,0,5.6,-0.069,2.27,10,10,22.1,5.0,4,1,competitor offered a dollar more
+E20780,Sort Center,M105,1,6.6,-0.054,2.99,4,7,32.3,3.4,21,0,
+E20781,Delivery Station,M126,0,8.2,0.011,3.28,8,27,24.8,3.3,14,0,
+E20782,Sort Center,M137,0,8.8,-0.005,2.74,4,29,13.6,2.2,17,0,
+E20783,Delivery Station,M102,1,13.5,-0.186,3.37,6,33,22.1,3.2,41,1,mandatory extra time every week
+E20784,Delivery Station,M114,0,6.9,0.035,3.91,8,2,1.9,4.0,41,0,
+E20785,Sort Center,M145,0,1.7,0.089,2.85,8,4,14.2,3.2,46,0,
+E20786,Fulfillment Center,M112,0,5.2,0.026,3.52,1,15,25.7,3.2,52,0,
+E20787,Fulfillment Center,M108,0,1.8,0.081,2.9,4,5,28.6,2.8,17,0,
+E20788,Sort Center,M133,1,14.7,-0.045,3.82,10,18,15.6,3.1,52,0,
+E20789,Fulfillment Center,M128,1,12.4,-0.131,2.85,6,14,1.4,2.9,59,1,burned out from peak overtime
+E20790,Customer Service,M115,1,11.1,0.01,2.76,7,16,25.7,2.3,49,0,
+E20791,Sort Center,M117,0,0.0,0.052,2.9,0,5,0.0,2.1,56,0,
+E20792,Delivery Station,M142,1,8.5,-0.096,2.88,6,34,10.9,3.8,18,1,competitor offered a dollar more
+E20793,Fulfillment Center,M140,0,11.8,-0.038,2.52,10,12,19.9,4.1,15,0,
+E20794,Sort Center,M141,1,5.2,-0.042,2.9,4,3,11.3,3.0,60,0,
+E20795,Delivery Station,M102,1,7.6,-0.121,3.39,7,3,10.9,3.4,59,1,found a job paying more nearby
+E20796,Customer Service,M115,0,6.7,0.027,2.84,9,11,23.9,2.8,43,0,
+E20797,Fulfillment Center,M120,1,11.4,-0.055,4.26,3,5,12.9,2.6,22,0,
+E20798,Sort Center,M117,0,3.8,-0.073,2.0,9,35,17.0,2.2,50,0,
+E20799,Customer Service,M107,0,0.0,-0.049,4.73,3,6,31.4,3.7,19,0,
+E20800,Fulfillment Center,M120,0,2.7,-0.088,4.52,2,11,14.1,3.2,12,0,
+E20801,Delivery Station,M138,0,0.0,-0.004,1.87,3,12,25.7,3.6,3,0,
+E20802,Delivery Station,M110,1,11.8,-0.152,3.0,8,2,22.7,3.4,25,0,
+E20803,Sort Center,M133,0,2.7,-0.065,3.8,9,23,17.7,3.6,20,1,competitor offered a dollar more
+E20804,Sort Center,M113,0,4.6,-0.044,4.11,5,11,8.0,5.0,24,0,
+E20805,Delivery Station,M102,1,12.2,-0.041,2.86,6,30,37.4,3.0,51,0,
+E20806,Fulfillment Center,M132,0,5.0,-0.123,3.24,4,15,28.5,2.4,51,0,
+E20807,Customer Service,M131,0,0.0,0.057,2.99,6,6,16.7,2.2,21,0,
+E20808,Customer Service,M131,0,4.8,-0.023,3.63,7,35,9.6,2.5,14,0,
+E20809,Customer Service,M139,0,5.9,-0.092,3.63,10,9,27.0,3.3,1,0,
+E20810,Delivery Station,M114,0,10.0,-0.041,3.91,5,13,36.6,4.7,44,0,
+E20811,Delivery Station,M118,0,1.7,-0.109,4.4,5,30,18.1,1.5,20,0,
+E20812,Delivery Station,M102,1,15.5,0.005,3.1,3,19,23.3,3.6,47,0,
+E20813,Delivery Station,M110,0,5.3,-0.075,3.46,5,35,27.2,2.4,55,0,
+E20814,Sort Center,M101,1,5.5,-0.033,3.21,3,22,25.9,3.2,27,1,family reasons
+E20815,Sort Center,M121,1,14.2,-0.055,3.25,5,16,24.8,2.8,6,1,"too many hours, no life outside work"
+E20816,Delivery Station,M138,0,0.4,-0.067,2.61,0,10,23.6,3.2,33,0,
+E20817,Customer Service,M139,1,10.4,-0.074,2.15,9,5,36.3,2.8,16,0,
+E20818,Sort Center,M121,0,3.7,0.014,3.82,1,4,7.8,1.4,14,1,family reasons
+E20819,Sort Center,M145,0,4.8,-0.07,3.44,7,31,38.4,3.2,45,0,
+E20820,Sort Center,M145,1,9.4,-0.126,3.14,4,34,33.6,2.8,43,1,pay did not keep up
+E20821,Fulfillment Center,M120,0,11.9,-0.074,2.63,8,2,24.9,3.1,49,0,
+E20822,Delivery Station,M114,1,10.4,-0.117,3.5,7,21,14.3,4.1,46,0,
+E20823,Sort Center,M129,1,12.4,-0.054,1.81,7,9,24.1,3.1,32,0,
+E20824,Customer Service,M115,0,0.0,0.056,2.95,3,36,23.6,2.6,19,0,
+E20825,Delivery Station,M110,0,5.8,0.01,4.42,5,31,12.5,3.7,58,0,
+E20826,Sort Center,M109,0,7.0,-0.081,3.5,6,4,17.3,3.2,54,1,pay did not keep up
+E20827,Sort Center,M125,0,19.0,-0.115,2.24,7,15,36.4,2.3,38,0,
+E20828,Fulfillment Center,M144,0,12.6,0.043,2.66,8,7,18.9,2.6,59,0,
+E20829,Customer Service,M147,0,0.0,-0.021,2.74,1,14,28.4,3.6,50,0,
+E20830,Sort Center,M129,1,17.7,-0.118,3.24,7,35,23.5,3.9,19,0,
+E20831,Sort Center,M109,1,13.4,-0.012,3.31,8,11,25.6,2.1,37,0,
+E20832,Fulfillment Center,M144,0,14.4,-0.058,2.97,10,28,13.3,3.5,23,0,
+E20833,Sort Center,M113,0,11.5,-0.008,3.64,8,14,23.0,3.0,8,0,
+E20834,Delivery Station,M106,0,13.8,0.053,2.62,5,19,22.9,3.4,23,0,
+E20835,Fulfillment Center,M144,0,9.9,0.053,4.25,9,25,5.6,3.3,20,0,
+E20836,Delivery Station,M146,1,17.4,0.007,4.47,6,29,29.0,2.4,20,0,
+E20837,Sort Center,M105,1,13.8,-0.003,2.63,11,19,54.2,3.7,45,0,
+E20838,Fulfillment Center,M100,0,6.0,-0.062,3.29,11,36,16.6,2.4,43,0,
+E20839,Fulfillment Center,M136,1,14.2,0.032,1.0,5,28,17.0,3.7,20,1,mandatory extra time every week
+E20840,Customer Service,M147,0,5.4,-0.097,2.38,8,9,20.3,3.8,56,0,
+E20841,Customer Service,M103,0,0.0,0.045,4.52,7,28,10.7,3.1,29,0,
+E20842,Sort Center,M133,1,13.9,-0.093,3.38,9,22,31.6,3.6,13,0,
+E20843,Customer Service,M127,0,0.0,-0.037,2.97,3,8,23.7,3.5,2,0,
+E20844,Customer Service,M135,1,4.6,-0.091,3.24,0,30,18.3,3.1,43,0,
+E20845,Customer Service,M143,0,6.2,0.101,4.05,5,21,5.7,2.9,21,0,
+E20846,Sort Center,M113,0,6.5,-0.001,2.41,4,9,16.6,3.1,40,0,
+E20847,Customer Service,M123,1,4.9,0.003,3.27,2,12,8.4,3.7,35,0,
+E20848,Sort Center,M105,0,9.5,-0.064,3.9,4,17,19.5,2.3,54,0,
+E20849,Delivery Station,M138,1,3.3,-0.0,2.86,9,12,7.9,3.3,12,0,
+E20850,Sort Center,M145,0,6.3,0.006,2.58,2,26,21.7,2.4,11,1,no path to promotion
+E20851,Customer Service,M111,0,0.2,-0.084,4.83,7,11,14.2,3.6,34,0,
+E20852,Delivery Station,M146,1,13.0,-0.036,3.12,7,24,15.3,2.9,48,0,
+E20853,Fulfillment Center,M108,0,1.7,-0.09,3.19,9,8,19.4,2.9,38,1,competitor offered a dollar more
+E20854,Customer Service,M115,0,8.9,-0.019,2.69,6,29,13.3,4.1,18,0,
+E20855,Delivery Station,M142,0,3.7,-0.018,3.61,0,9,17.6,3.3,40,0,
+E20856,Sort Center,M133,0,1.7,-0.051,3.98,6,20,22.1,5.0,31,0,
+E20857,Delivery Station,M138,1,6.5,-0.049,3.77,7,29,16.1,2.9,34,0,
+E20858,Fulfillment Center,M136,0,2.5,0.016,2.42,6,4,16.3,4.3,38,1,felt disrespected by my supervisor
+E20859,Delivery Station,M106,0,6.7,-0.046,2.91,4,34,28.0,2.8,21,0,
+E20860,Sort Center,M113,1,13.3,-0.115,3.37,6,29,6.4,3.3,31,1,"too many hours, no life outside work"
+E20861,Fulfillment Center,M144,1,13.0,-0.001,1.24,13,27,24.3,3.1,59,0,
+E20862,Sort Center,M101,0,9.4,-0.043,3.29,4,30,25.8,2.4,39,1,no path to promotion
+E20863,Customer Service,M111,1,2.6,0.04,3.4,0,35,31.5,4.0,32,0,
+E20864,Fulfillment Center,M124,0,0.0,0.027,2.48,5,10,5.2,3.4,48,0,
+E20865,Fulfillment Center,M116,0,3.6,-0.173,1.89,10,25,36.8,3.3,28,0,
+E20866,Sort Center,M117,0,4.7,-0.016,2.76,3,35,20.6,2.5,49,0,
+E20867,Fulfillment Center,M132,1,17.2,-0.04,3.38,3,2,13.8,3.2,32,1,burned out from peak overtime
+E20868,Customer Service,M123,0,0.0,-0.043,3.83,5,6,32.1,3.5,14,0,
+E20869,Customer Service,M103,0,2.0,-0.1,3.84,3,28,22.5,2.4,4,0,
+E20870,Delivery Station,M130,1,9.2,0.008,3.26,9,16,19.0,2.0,38,0,
+E20871,Sort Center,M105,0,10.1,-0.076,2.45,8,8,26.4,3.1,37,1,burned out from peak overtime
+E20872,Delivery Station,M102,1,9.3,-0.016,3.97,6,13,18.4,3.3,32,1,went back to school
+E20873,Fulfillment Center,M112,0,3.8,-0.04,3.62,8,9,8.0,3.9,4,0,
+E20874,Delivery Station,M130,1,17.6,-0.014,3.22,11,25,30.6,3.7,13,1,"too many hours, no life outside work"
+E20875,Customer Service,M107,0,0.0,0.0,3.41,5,8,24.7,2.8,52,0,
+E20876,Customer Service,M103,0,3.7,-0.111,3.24,7,3,10.9,2.4,21,1,pay did not keep up
+E20877,Delivery Station,M134,0,4.7,-0.012,4.42,6,15,19.8,4.6,37,0,
+E20878,Customer Service,M135,0,3.4,-0.018,4.23,5,6,29.5,3.1,41,0,
+E20879,Sort Center,M101,0,8.2,0.093,3.51,8,16,15.8,3.9,17,0,
+E20880,Fulfillment Center,M116,0,7.2,-0.017,2.71,1,18,7.9,3.2,24,0,
+E20881,Sort Center,M137,1,9.6,-0.1,2.86,5,36,26.3,1.9,3,0,
+E20882,Delivery Station,M114,0,8.8,-0.062,2.52,6,28,14.0,4.3,2,1,pay did not keep up
+E20883,Customer Service,M135,0,5.5,0.009,3.84,6,18,19.7,3.3,44,0,
+E20884,Customer Service,M131,0,8.4,-0.012,3.78,4,2,26.5,4.2,47,0,
+E20885,Delivery Station,M138,0,7.4,0.079,3.37,7,29,15.3,3.9,55,0,
+E20886,Fulfillment Center,M128,1,15.1,-0.038,2.5,11,34,14.0,3.3,60,1,mandatory extra time every week
+E20887,Delivery Station,M146,0,7.1,-0.088,2.74,3,7,0.3,2.5,48,0,
+E20888,Customer Service,M119,0,3.1,0.068,4.61,0,7,20.7,2.5,52,0,
+E20889,Customer Service,M139,0,5.7,-0.073,3.81,0,18,10.6,3.3,29,0,
+E20890,Customer Service,M107,1,3.1,0.002,3.55,4,8,21.6,3.8,16,0,
+E20891,Customer Service,M143,0,0.0,0.078,2.66,3,14,37.7,2.8,19,0,
+E20892,Customer Service,M135,0,1.5,-0.038,1.05,5,33,18.2,3.9,32,1,same role for two years
+E20893,Delivery Station,M134,1,14.5,-0.064,2.05,7,35,30.6,3.3,17,1,burned out from peak overtime
+E20894,Customer Service,M127,1,4.0,-0.017,3.26,6,26,11.3,3.8,14,0,
+E20895,Fulfillment Center,M128,0,9.2,-0.05,3.05,8,15,15.6,3.1,33,0,
+E20896,Delivery Station,M146,1,5.6,-0.022,2.53,1,10,23.7,3.7,24,0,
+E20897,Fulfillment Center,M104,0,9.7,0.006,1.0,6,15,14.3,3.2,2,1,felt disrespected by my supervisor
+E20898,Fulfillment Center,M108,0,13.8,0.038,2.23,7,7,23.8,3.0,30,0,
+E20899,Customer Service,M139,1,6.1,0.054,3.28,12,29,20.1,2.3,35,0,
+E20900,Customer Service,M111,1,0.0,-0.048,3.49,3,26,23.8,4.0,21,0,
+E20901,Customer Service,M103,0,0.0,-0.103,3.61,8,30,12.6,2.9,59,0,
+E20902,Fulfillment Center,M112,1,8.6,-0.111,2.77,10,11,11.3,4.1,1,1,found a job paying more nearby
+E20903,Customer Service,M135,0,3.3,-0.12,5.0,6,2,26.6,3.7,9,0,
+E20904,Sort Center,M145,1,5.7,0.01,3.3,6,9,16.7,3.0,30,1,burned out from peak overtime
+E20905,Delivery Station,M118,1,12.9,-0.03,1.88,3,17,11.0,1.7,13,1,burned out from peak overtime
+E20906,Customer Service,M127,0,0.0,-0.03,4.38,2,2,25.8,2.9,57,0,
+E20907,Fulfillment Center,M124,0,3.9,0.055,3.44,8,31,30.7,3.4,4,1,no path to promotion
+E20908,Fulfillment Center,M144,0,7.0,-0.057,3.92,5,35,2.9,2.0,50,0,
+E20909,Customer Service,M143,1,3.6,-0.034,3.73,5,36,0.0,3.0,50,0,
+E20910,Fulfillment Center,M144,0,0.9,-0.051,2.46,9,3,21.2,3.3,30,0,
+E20911,Customer Service,M139,0,5.1,-0.051,3.88,8,6,16.3,3.0,14,0,
+E20912,Delivery Station,M146,0,5.8,-0.009,3.65,4,11,21.8,3.6,60,0,
+E20913,Sort Center,M109,0,1.4,-0.04,2.49,7,20,21.8,3.0,6,0,
+E20914,Delivery Station,M142,1,11.9,0.012,1.76,9,33,16.9,2.4,7,1,mandatory extra time every week
+E20915,Delivery Station,M114,1,11.6,-0.055,1.97,8,18,8.7,2.8,6,1,mandatory extra time every week
+E20916,Fulfillment Center,M140,0,6.3,-0.176,3.56,10,34,22.2,2.4,52,0,
+E20917,Customer Service,M115,0,0.0,0.027,3.3,0,8,31.8,3.5,41,0,
+E20918,Customer Service,M131,0,2.9,0.054,4.08,3,34,31.0,4.2,21,0,
+E20919,Customer Service,M143,1,0.0,-0.014,2.66,3,9,10.8,2.9,3,1,went back to school
+E20920,Fulfillment Center,M104,0,15.1,-0.04,1.86,13,9,12.8,3.1,11,1,"too many hours, no life outside work"
+E20921,Customer Service,M127,0,8.7,0.023,3.47,6,27,10.2,4.7,45,0,
+E20922,Customer Service,M123,0,10.3,-0.019,3.78,1,30,1.1,3.7,52,0,
+E20923,Customer Service,M147,0,7.8,-0.04,3.61,8,14,16.1,2.4,3,0,
+E20924,Customer Service,M135,0,4.4,-0.1,3.86,5,28,15.3,2.7,19,0,
+E20925,Sort Center,M133,0,5.5,0.067,4.06,0,9,30.2,4.1,8,0,
+E20926,Fulfillment Center,M116,0,12.1,0.065,2.39,12,7,14.7,2.9,7,1,burned out from peak overtime
+E20927,Sort Center,M141,0,0.9,0.022,3.91,0,17,12.6,3.9,8,0,
+E20928,Delivery Station,M118,1,12.6,-0.035,1.88,13,25,27.0,3.0,21,1,mandatory extra time every week
+E20929,Sort Center,M129,0,1.0,-0.034,2.73,1,5,32.8,3.2,29,0,
+E20930,Customer Service,M131,1,5.1,-0.018,1.84,6,15,29.6,2.7,34,0,
+E20931,Delivery Station,M122,0,10.3,-0.193,2.77,11,7,18.1,3.8,16,1,mandatory extra time every week
+E20932,Fulfillment Center,M100,0,7.5,-0.097,3.3,2,35,28.7,5.0,1,1,competitor offered a dollar more
+E20933,Delivery Station,M106,1,18.0,-0.092,2.44,10,36,31.3,3.1,48,1,burned out from peak overtime
+E20934,Fulfillment Center,M144,0,8.9,-0.019,4.65,8,4,28.4,2.5,7,0,
+E20935,Sort Center,M137,1,14.1,-0.027,4.58,12,18,24.9,4.4,29,0,
+E20936,Customer Service,M111,1,0.5,0.004,4.44,1,10,13.4,3.3,17,0,
+E20937,Delivery Station,M118,0,8.9,-0.074,2.25,5,8,22.2,3.5,43,0,
+E20938,Delivery Station,M114,1,10.5,0.008,3.7,10,32,21.9,3.9,11,1,mandatory extra time every week
+E20939,Customer Service,M147,0,0.0,-0.084,4.18,0,34,22.4,3.9,5,0,
+E20940,Delivery Station,M126,1,8.7,-0.06,2.69,4,9,15.5,4.5,10,0,
+E20941,Delivery Station,M106,1,8.3,-0.132,2.08,2,24,19.7,4.0,33,0,
+E20942,Fulfillment Center,M140,1,9.8,0.035,2.8,6,33,22.1,2.7,35,0,
+E20943,Delivery Station,M138,0,9.3,-0.112,3.26,6,13,22.9,3.8,45,0,
+E20944,Sort Center,M125,1,7.1,-0.109,1.01,6,2,21.6,1.8,37,1,competitor offered a dollar more
+E20945,Delivery Station,M126,0,8.8,-0.063,3.13,8,14,18.8,2.6,13,0,
+E20946,Delivery Station,M114,0,6.2,-0.053,3.22,3,31,1.3,3.6,11,0,
+E20947,Delivery Station,M114,0,11.9,0.006,2.71,4,2,20.2,3.3,38,0,
+E20948,Customer Service,M119,0,5.1,-0.018,3.42,10,26,12.4,4.1,33,0,
+E20949,Customer Service,M127,0,1.7,0.07,3.24,2,14,28.2,3.8,26,0,
+E20950,Customer Service,M135,0,0.7,0.111,3.73,4,20,28.7,2.9,8,0,
+E20951,Delivery Station,M110,0,11.7,0.064,2.47,4,8,12.4,3.0,40,0,
+E20952,Sort Center,M137,0,1.1,-0.029,2.24,3,26,5.5,4.3,4,0,
+E20953,Customer Service,M111,0,0.0,-0.015,2.93,3,17,13.8,3.0,59,0,
+E20954,Customer Service,M119,0,1.0,-0.033,3.09,7,9,28.8,2.2,43,0,
+E20955,Sort Center,M109,0,7.7,-0.06,2.93,6,11,9.7,3.0,32,0,
+E20956,Sort Center,M125,1,5.8,-0.055,3.61,6,26,35.8,1.7,13,0,
+E20957,Sort Center,M145,0,10.2,-0.04,3.21,4,3,1.1,3.7,11,0,
+E20958,Fulfillment Center,M116,1,10.3,0.048,5.0,10,2,12.9,3.6,36,0,
+E20959,Delivery Station,M110,1,10.7,0.018,1.94,5,27,18.4,4.2,33,0,
+E20960,Sort Center,M145,0,0.0,-0.034,2.81,4,35,17.3,3.1,9,0,
+E20961,Sort Center,M145,0,12.0,-0.041,2.33,2,7,6.6,2.3,10,0,
+E20962,Customer Service,M119,0,3.7,-0.033,2.69,7,9,18.0,2.7,42,0,
+E20963,Fulfillment Center,M108,1,6.0,-0.009,2.7,9,18,23.2,3.1,11,1,manager never listened
+E20964,Delivery Station,M114,1,8.2,-0.027,3.1,6,35,6.3,3.3,6,1,same role for two years
+E20965,Customer Service,M139,1,6.3,-0.019,2.91,4,4,0.0,3.8,56,0,
+E20966,Customer Service,M111,1,12.8,0.071,3.46,8,26,1.2,3.3,18,0,
+E20967,Fulfillment Center,M132,0,4.9,0.022,2.0,5,3,14.3,3.4,7,0,
+E20968,Sort Center,M113,0,4.0,-0.058,3.29,3,24,18.1,3.0,60,0,
+E20969,Delivery Station,M126,0,5.3,-0.021,2.62,4,15,6.8,3.5,26,0,
+E20970,Fulfillment Center,M128,0,20.3,-0.07,1.14,4,7,24.8,4.1,60,0,
+E20971,Delivery Station,M138,1,10.1,-0.046,3.22,9,17,11.9,3.1,6,1,mandatory extra time every week
+E20972,Customer Service,M123,1,6.9,0.002,3.45,6,28,24.5,3.4,12,1,same role for two years
+E20973,Sort Center,M145,0,5.6,0.131,2.24,8,10,19.2,5.0,42,1,moved away
+E20974,Fulfillment Center,M100,1,7.2,0.023,2.87,8,15,1.7,3.0,57,0,
+E20975,Sort Center,M145,0,2.3,-0.005,3.07,0,9,36.4,2.5,20,1,"too many hours, no life outside work"
+E20976,Fulfillment Center,M132,0,9.1,-0.08,2.92,6,30,24.7,2.4,47,0,
+E20977,Customer Service,M123,0,0.0,-0.108,2.99,1,12,9.2,3.7,10,1,competitor offered a dollar more
+E20978,Fulfillment Center,M144,0,11.5,-0.017,2.96,3,20,6.5,4.1,5,0,
+E20979,Delivery Station,M118,0,4.5,-0.08,2.76,6,34,15.4,4.7,10,0,
+E20980,Fulfillment Center,M128,0,5.1,0.006,3.1,10,33,20.4,3.3,18,0,
+E20981,Delivery Station,M134,1,10.2,-0.114,2.57,2,32,23.9,2.5,21,1,"too many hours, no life outside work"
+E20982,Customer Service,M111,1,0.0,-0.053,5.0,6,16,15.6,2.8,20,0,
+E20983,Delivery Station,M106,0,9.4,-0.087,2.46,7,4,24.6,3.2,52,0,
+E20984,Customer Service,M111,1,6.1,-0.045,4.59,9,11,8.5,1.8,19,0,
+E20985,Sort Center,M129,1,11.0,0.026,2.85,6,8,28.0,3.4,23,1,"too many hours, no life outside work"
+E20986,Fulfillment Center,M128,1,9.0,-0.2,3.6,7,18,14.4,2.8,24,0,
+E20987,Sort Center,M101,0,6.0,0.027,3.25,4,29,19.8,2.2,49,0,
+E20988,Fulfillment Center,M100,0,0.0,-0.041,4.73,4,19,39.2,3.5,3,0,
+E20989,Delivery Station,M102,1,8.2,-0.063,3.88,9,20,3.2,2.6,22,0,
+E20990,Delivery Station,M126,1,23.2,-0.058,2.15,12,16,16.7,2.9,11,1,mandatory extra time every week
+E20991,Fulfillment Center,M124,0,12.7,-0.03,2.09,6,23,7.1,3.6,15,1,"too many hours, no life outside work"
+E20992,Sort Center,M109,0,5.9,-0.059,3.97,7,13,31.9,2.9,3,0,
+E20993,Fulfillment Center,M112,0,10.4,-0.12,3.48,7,9,27.6,3.2,41,1,"too many hours, no life outside work"
+E20994,Fulfillment Center,M116,1,13.1,-0.032,2.66,7,35,32.4,2.9,43,1,"too many hours, no life outside work"
+E20995,Fulfillment Center,M108,1,14.8,-0.024,2.93,10,15,28.0,3.9,2,1,burned out from peak overtime
+E20996,Customer Service,M127,0,6.5,0.064,3.57,11,7,23.6,3.4,32,0,
+E20997,Delivery Station,M110,0,8.0,-0.027,3.53,6,16,0.0,3.3,42,1,family reasons
+E20998,Customer Service,M131,0,3.8,-0.03,3.78,5,12,13.4,2.4,4,0,
+E20999,Customer Service,M127,0,0.4,0.0,3.52,1,2,6.4,3.9,41,0,
+E21000,Sort Center,M141,0,14.3,0.014,3.38,14,10,13.8,3.8,45,0,
+E21001,Customer Service,M107,0,3.6,-0.046,3.05,3,22,20.4,2.7,25,0,
+E21002,Sort Center,M133,1,5.9,-0.132,3.3,14,2,13.0,3.5,43,1,competitor offered a dollar more
+E21003,Sort Center,M141,1,10.2,-0.035,3.1,10,18,2.6,3.4,19,1,burned out from peak overtime
+E21004,Delivery Station,M142,1,13.6,0.033,3.35,15,7,21.6,2.9,59,0,
+E21005,Delivery Station,M122,1,8.6,0.054,3.58,6,19,22.9,3.4,1,0,
+E21006,Sort Center,M113,0,5.5,-0.131,3.91,2,16,23.8,3.8,19,0,
+E21007,Fulfillment Center,M100,0,7.2,0.051,2.66,0,24,25.3,2.8,12,1,family reasons
+E21008,Sort Center,M105,0,3.2,-0.025,2.59,5,13,16.8,2.2,40,0,
+E21009,Sort Center,M129,0,11.4,0.079,3.82,3,25,1.1,3.8,39,0,
+E21010,Customer Service,M103,1,5.0,-0.046,4.41,7,5,23.8,2.3,38,0,
+E21011,Customer Service,M139,1,12.1,0.001,3.72,0,19,27.9,3.8,9,0,
+E21012,Customer Service,M135,0,4.9,-0.143,4.15,9,7,13.7,3.6,24,0,
+E21013,Customer Service,M107,0,5.8,-0.128,2.03,5,2,20.5,2.7,3,1,competitor offered a dollar more
+E21014,Delivery Station,M130,0,7.9,0.03,3.61,7,30,1.6,1.9,19,1,no path to promotion
+E21015,Fulfillment Center,M144,1,11.1,0.005,2.17,7,32,21.5,1.9,44,0,
+E21016,Sort Center,M145,0,11.0,-0.016,1.9,5,23,4.5,2.0,43,1,"too many hours, no life outside work"
+E21017,Delivery Station,M146,0,6.9,-0.046,2.5,4,35,6.1,2.6,40,1,no path to promotion
+E21018,Fulfillment Center,M136,0,6.4,-0.115,2.41,5,27,25.6,2.9,6,0,
+E21019,Customer Service,M119,1,0.1,-0.053,3.65,6,15,15.7,2.0,49,0,
+E21020,Customer Service,M127,0,8.9,-0.041,1.84,6,8,21.1,3.0,31,0,
+E21021,Delivery Station,M138,0,5.4,-0.129,3.65,3,8,19.4,1.9,9,0,
+E21022,Fulfillment Center,M136,0,7.5,-0.149,3.52,7,3,7.2,2.6,49,1,pay did not keep up
+E21023,Fulfillment Center,M136,0,0.0,-0.093,1.55,1,13,31.6,4.6,27,0,
+E21024,Fulfillment Center,M100,0,9.1,-0.124,2.74,11,20,11.3,3.2,14,1,found a job paying more nearby
+E21025,Delivery Station,M114,1,13.7,0.088,2.82,7,28,13.1,2.3,7,0,
+E21026,Fulfillment Center,M112,0,6.6,-0.117,3.23,9,9,6.9,3.0,41,0,
+E21027,Fulfillment Center,M124,1,13.0,-0.004,2.27,2,29,13.4,4.5,54,1,mandatory extra time every week
+E21028,Fulfillment Center,M116,0,9.6,0.022,3.65,5,2,18.0,3.3,34,0,
+E21029,Sort Center,M137,0,9.1,-0.016,3.27,6,35,25.1,3.1,58,0,
+E21030,Sort Center,M109,0,1.0,-0.091,3.75,4,22,14.5,4.0,53,1,pay did not keep up
+E21031,Delivery Station,M102,1,14.6,0.031,1.0,13,5,40.2,2.7,57,0,
+E21032,Sort Center,M137,0,9.9,0.034,3.04,6,2,22.7,3.0,14,0,
+E21033,Fulfillment Center,M120,0,11.9,-0.04,1.51,7,3,16.8,2.7,22,1,mandatory extra time every week
+E21034,Customer Service,M127,0,8.5,-0.088,2.58,9,3,25.2,3.4,42,0,
+E21035,Customer Service,M139,0,0.0,-0.062,4.09,2,26,32.6,3.2,55,0,
+E21036,Fulfillment Center,M136,1,11.8,0.024,1.38,6,36,18.6,4.2,18,1,mandatory extra time every week
+E21037,Customer Service,M115,0,6.9,-0.042,3.54,8,3,11.6,3.3,48,0,
+E21038,Customer Service,M119,1,1.9,-0.005,3.5,3,26,29.2,2.8,7,0,
+E21039,Customer Service,M103,1,5.3,-0.011,3.75,7,22,11.3,2.1,14,0,
+E21040,Delivery Station,M114,1,11.4,0.045,4.11,8,14,37.3,3.0,14,0,
+E21041,Fulfillment Center,M140,0,3.6,0.001,3.35,4,11,17.9,3.9,30,0,
+E21042,Delivery Station,M126,1,7.4,-0.006,3.47,3,31,0.0,3.5,25,0,
+E21043,Sort Center,M129,0,2.6,-0.021,5.0,7,8,21.2,2.0,8,0,
+E21044,Sort Center,M125,0,13.9,-0.006,3.0,3,36,16.0,4.5,46,1,"too many hours, no life outside work"
+E21045,Delivery Station,M138,1,10.7,-0.135,2.42,3,22,16.8,3.3,4,1,burned out from peak overtime
+E21046,Sort Center,M129,1,9.4,0.153,2.74,4,2,8.8,3.1,29,1,burned out from peak overtime
+E21047,Delivery Station,M102,0,5.3,0.006,4.95,2,15,16.6,2.7,16,0,
+E21048,Delivery Station,M126,0,4.8,0.105,3.65,2,33,27.3,2.9,43,0,
+E21049,Sort Center,M137,1,5.0,-0.065,3.83,9,25,30.4,3.6,49,1,found a job paying more nearby
+E21050,Delivery Station,M102,0,9.0,-0.09,3.11,7,10,20.2,3.9,30,1,pay did not keep up
+E21051,Customer Service,M143,0,0.3,-0.042,5.0,5,30,22.1,2.7,52,0,
+E21052,Fulfillment Center,M144,0,8.0,0.032,4.09,7,23,26.1,2.6,55,0,
+E21053,Delivery Station,M130,0,10.7,-0.088,2.73,6,19,18.4,3.0,10,1,mandatory extra time every week
+E21054,Customer Service,M115,0,7.9,-0.156,3.06,5,12,21.8,2.2,4,1,pay did not keep up
+E21055,Delivery Station,M146,0,1.7,-0.059,4.14,1,23,17.3,3.2,38,0,
+E21056,Sort Center,M113,1,13.0,-0.076,3.32,10,3,17.5,2.6,19,0,
+E21057,Sort Center,M145,1,0.1,0.076,3.03,3,21,32.8,3.1,20,0,
+E21058,Sort Center,M137,0,6.3,-0.008,3.5,4,28,1.5,3.5,38,1,same role for two years
+E21059,Sort Center,M133,1,6.8,-0.033,3.03,7,26,6.7,2.1,16,0,
+E21060,Fulfillment Center,M132,0,10.7,0.031,3.25,4,31,19.8,4.0,16,0,
+E21061,Delivery Station,M102,0,6.1,-0.037,3.26,9,11,18.3,3.1,60,0,
+E21062,Sort Center,M113,0,5.4,0.081,4.04,7,35,21.4,3.1,11,1,no path to promotion
+E21063,Customer Service,M143,0,5.6,-0.033,2.32,7,7,15.6,3.6,3,0,
+E21064,Delivery Station,M126,1,8.8,-0.056,2.79,10,14,30.4,4.4,40,0,
+E21065,Delivery Station,M130,1,15.7,-0.051,2.21,6,28,14.3,4.1,42,1,"too many hours, no life outside work"
+E21066,Sort Center,M145,1,9.2,0.004,3.71,9,4,15.6,3.3,25,0,
+E21067,Sort Center,M145,0,3.4,-0.044,3.89,9,12,12.6,2.9,36,0,
+E21068,Fulfillment Center,M132,1,4.6,-0.001,3.25,3,34,15.7,4.0,56,0,
+E21069,Delivery Station,M138,1,11.3,0.01,3.31,7,11,25.5,4.0,26,0,
+E21070,Fulfillment Center,M112,0,5.4,-0.075,3.21,8,34,22.9,3.0,24,1,pay did not keep up
+E21071,Customer Service,M135,0,4.8,-0.035,2.39,8,5,13.7,4.3,8,1,burned out from peak overtime
+E21072,Sort Center,M129,0,15.0,-0.021,2.3,2,4,2.5,2.8,5,0,
+E21073,Customer Service,M103,0,2.6,0.032,4.61,0,35,10.3,3.3,57,0,
+E21074,Customer Service,M139,0,2.4,0.066,3.47,6,8,11.2,2.2,1,0,
+E21075,Sort Center,M137,0,8.2,-0.089,3.83,2,26,13.0,4.6,15,0,
+E21076,Sort Center,M129,1,3.6,-0.025,3.53,7,7,26.2,3.1,51,0,
+E21077,Delivery Station,M126,0,4.7,-0.002,3.63,5,8,3.9,2.5,20,0,
+E21078,Fulfillment Center,M100,0,5.3,0.049,3.43,8,10,20.7,2.8,9,0,
+E21079,Fulfillment Center,M136,0,6.4,-0.129,1.48,5,16,34.2,3.6,14,1,found a job paying more nearby
+E21080,Fulfillment Center,M108,1,6.0,-0.091,2.16,6,17,28.7,3.9,57,0,
+E21081,Sort Center,M129,0,0.0,-0.07,3.04,2,5,9.4,2.9,13,0,
+E21082,Customer Service,M139,0,0.0,-0.077,4.14,3,23,24.5,3.9,7,0,
+E21083,Sort Center,M105,0,6.0,-0.044,2.94,8,31,20.2,3.9,46,0,
+E21084,Delivery Station,M126,0,11.7,-0.002,4.84,8,13,20.6,3.1,37,0,
+E21085,Fulfillment Center,M100,0,12.2,-0.011,2.67,6,2,6.1,4.4,2,0,
+E21086,Delivery Station,M134,0,8.4,-0.037,2.63,3,35,19.0,4.0,60,0,
+E21087,Sort Center,M141,0,7.2,-0.099,3.11,8,15,13.5,3.0,60,0,
+E21088,Fulfillment Center,M124,0,9.3,-0.045,2.69,5,36,24.5,3.3,41,0,
+E21089,Delivery Station,M126,0,4.5,-0.0,3.72,3,31,3.9,1.8,3,0,
+E21090,Delivery Station,M130,1,15.7,-0.021,3.76,9,17,22.1,3.7,19,1,mandatory extra time every week
+E21091,Fulfillment Center,M116,0,2.5,0.037,3.19,10,29,19.2,4.2,38,0,
+E21092,Customer Service,M103,1,0.0,-0.015,2.69,4,6,22.6,3.0,23,0,
+E21093,Delivery Station,M126,1,6.3,-0.108,2.62,7,16,25.1,3.0,34,1,pay did not keep up
+E21094,Delivery Station,M110,0,7.8,-0.123,2.81,9,25,25.3,1.6,7,0,
+E21095,Sort Center,M105,0,1.7,0.01,4.25,2,11,14.6,3.3,38,0,
+E21096,Sort Center,M133,0,9.4,-0.039,3.21,8,8,13.0,4.3,42,0,
+E21097,Sort Center,M105,1,6.4,-0.05,3.32,0,26,22.5,4.1,37,0,
+E21098,Customer Service,M143,1,4.3,-0.039,3.69,7,6,7.8,3.4,37,0,
+E21099,Customer Service,M111,0,7.4,0.054,3.53,6,24,15.7,2.0,25,0,
+E21100,Delivery Station,M126,1,14.1,-0.105,2.25,12,33,12.8,3.1,9,0,
+E21101,Customer Service,M111,1,10.4,0.028,2.98,3,21,27.5,3.5,54,0,
+E21102,Customer Service,M111,0,3.1,-0.075,2.74,10,27,30.7,3.4,53,0,
+E21103,Sort Center,M117,0,8.3,0.053,2.81,4,12,18.6,2.0,59,1,manager never listened
+E21104,Customer Service,M135,1,6.7,0.054,3.64,11,25,22.5,3.4,56,0,
+E21105,Fulfillment Center,M144,0,0.0,-0.065,3.62,2,31,34.6,4.0,40,0,
+E21106,Sort Center,M129,0,10.2,-0.045,1.71,7,8,22.0,3.9,7,1,"too many hours, no life outside work"
+E21107,Customer Service,M143,0,11.9,-0.03,3.51,5,6,24.2,2.2,32,0,
+E21108,Sort Center,M121,0,12.6,-0.067,3.47,12,3,26.9,3.6,24,0,
+E21109,Fulfillment Center,M100,0,4.1,-0.088,2.68,8,34,28.2,2.8,55,0,
+E21110,Delivery Station,M146,0,6.7,-0.019,2.9,9,16,23.3,3.3,25,0,
+E21111,Customer Service,M147,0,4.7,0.017,4.17,6,16,9.3,2.6,54,0,
+E21112,Sort Center,M113,1,5.9,-0.098,1.83,0,15,38.9,4.5,54,0,
+E21113,Sort Center,M125,0,1.1,-0.102,3.39,4,8,20.3,3.7,35,0,
+E21114,Sort Center,M101,0,0.9,-0.12,4.01,3,29,17.4,2.3,21,0,
+E21115,Fulfillment Center,M136,1,15.9,-0.087,2.26,10,25,19.0,3.5,35,0,
+E21116,Fulfillment Center,M120,0,8.6,0.025,3.64,7,35,24.2,4.2,50,0,
+E21117,Fulfillment Center,M120,0,4.8,-0.11,3.71,5,11,7.1,3.6,25,0,
+E21118,Fulfillment Center,M140,1,0.0,-0.054,4.89,3,29,24.9,2.0,54,0,
+E21119,Fulfillment Center,M132,0,1.4,-0.053,2.88,1,6,28.1,3.2,40,0,
+E21120,Fulfillment Center,M144,0,4.9,-0.106,3.18,4,3,19.4,3.4,21,0,
+E21121,Sort Center,M129,0,16.5,-0.093,2.13,5,15,27.5,2.9,51,1,"too many hours, no life outside work"
+E21122,Fulfillment Center,M132,0,9.3,-0.065,3.87,4,28,30.1,2.8,31,0,
+E21123,Fulfillment Center,M128,0,5.1,-0.176,3.18,4,34,21.8,2.7,49,1,competitor offered a dollar more
+E21124,Fulfillment Center,M120,0,3.3,-0.073,2.65,0,9,19.8,4.1,11,0,
+E21125,Delivery Station,M102,0,5.8,-0.108,3.8,6,14,23.9,2.4,3,0,
+E21126,Sort Center,M121,0,3.9,0.041,4.84,2,19,0.0,3.7,19,0,
+E21127,Delivery Station,M146,1,10.0,0.02,1.8,5,29,13.4,4.3,31,1,burned out from peak overtime
+E21128,Delivery Station,M102,1,14.2,-0.085,2.7,7,7,13.2,2.0,44,1,mandatory extra time every week
+E21129,Fulfillment Center,M124,1,11.6,0.103,3.02,10,26,12.6,3.0,13,1,burned out from peak overtime
+E21130,Customer Service,M115,1,0.0,-0.03,4.1,2,11,27.9,3.3,3,0,
+E21131,Delivery Station,M142,0,8.7,0.075,3.56,10,33,16.9,4.1,35,0,
+E21132,Delivery Station,M110,0,8.2,-0.05,2.5,11,34,23.7,3.4,14,1,same role for two years
+E21133,Sort Center,M125,0,8.8,0.014,2.61,2,9,18.8,2.0,4,1,moved away
+E21134,Customer Service,M111,0,13.2,-0.044,3.18,3,5,27.0,3.2,59,0,
+E21135,Delivery Station,M130,1,14.8,-0.044,3.68,11,12,32.4,3.2,10,1,"too many hours, no life outside work"
+E21136,Sort Center,M125,0,0.0,-0.041,2.65,9,7,25.7,3.0,6,0,
+E21137,Delivery Station,M110,0,3.9,-0.171,4.13,9,25,32.9,3.9,55,0,
+E21138,Sort Center,M121,0,7.1,0.007,3.15,5,33,9.0,4.5,50,0,
+E21139,Sort Center,M125,0,2.6,0.009,4.7,0,10,22.2,3.6,47,0,
+E21140,Customer Service,M111,0,1.9,0.01,3.56,3,4,24.0,3.4,18,0,
+E21141,Delivery Station,M130,1,7.2,-0.011,3.53,9,25,10.3,2.8,54,1,no path to promotion
+E21142,Sort Center,M125,0,12.1,0.04,3.77,7,6,10.1,4.5,46,0,
+E21143,Sort Center,M113,0,4.6,0.055,4.41,2,31,25.0,5.0,10,0,
+E21144,Customer Service,M147,0,0.0,-0.037,3.6,1,27,20.8,3.9,11,0,
+E21145,Sort Center,M137,1,11.0,-0.017,3.83,8,3,12.9,3.3,36,1,burned out from peak overtime
+E21146,Delivery Station,M110,1,11.6,0.016,2.0,8,17,17.4,5.0,21,1,mandatory extra time every week
+E21147,Fulfillment Center,M116,0,4.7,-0.088,4.84,8,34,14.5,3.0,58,0,
+E21148,Customer Service,M127,1,13.9,-0.019,2.55,11,3,22.2,3.7,16,1,mandatory extra time every week
+E21149,Customer Service,M139,0,0.1,-0.074,4.45,3,20,14.3,2.9,26,0,
+E21150,Customer Service,M107,1,4.0,-0.017,4.21,11,32,26.2,3.1,50,0,
+E21151,Delivery Station,M122,0,10.7,0.007,2.98,9,23,29.3,3.8,49,0,
+E21152,Delivery Station,M106,1,7.9,-0.015,3.57,2,4,20.2,2.6,18,0,
+E21153,Fulfillment Center,M116,1,11.2,-0.006,2.44,6,20,22.2,2.7,25,0,
+E21154,Sort Center,M121,0,1.1,-0.051,4.71,0,17,37.2,3.5,9,0,
+E21155,Fulfillment Center,M136,1,18.6,-0.062,1.54,5,7,18.9,2.2,3,1,mandatory extra time every week
+E21156,Delivery Station,M102,0,8.8,-0.126,3.25,3,30,14.2,4.7,56,0,
+E21157,Sort Center,M105,1,6.9,0.04,2.18,5,11,20.3,3.2,5,1,mandatory extra time every week
+E21158,Fulfillment Center,M140,0,10.7,-0.119,2.54,7,32,30.8,3.0,51,1,burned out from peak overtime
+E21159,Delivery Station,M102,1,9.7,-0.046,3.05,8,18,11.1,3.5,33,1,went back to school
+E21160,Customer Service,M135,1,8.4,-0.056,2.79,6,5,14.4,3.3,30,1,mandatory extra time every week
+E21161,Customer Service,M135,0,0.0,-0.099,3.64,5,25,24.8,3.7,21,1,pay did not keep up
+E21162,Sort Center,M101,1,20.8,-0.048,1.83,5,18,33.9,2.6,38,1,burned out from peak overtime
+E21163,Fulfillment Center,M124,0,1.2,-0.148,5.0,5,25,16.2,3.5,2,0,
+E21164,Fulfillment Center,M140,1,0.8,-0.048,3.31,3,14,13.0,2.5,48,0,
+E21165,Sort Center,M129,1,4.8,-0.026,3.15,4,12,24.1,2.3,60,0,
+E21166,Fulfillment Center,M132,0,12.2,0.002,3.78,8,14,21.6,2.0,39,0,
+E21167,Fulfillment Center,M100,0,4.7,-0.014,3.52,9,20,22.0,3.8,35,0,
+E21168,Delivery Station,M102,1,14.5,0.01,3.5,6,5,12.9,3.1,43,0,
+E21169,Fulfillment Center,M140,0,8.5,0.05,3.0,5,15,9.2,3.1,9,1,"too many hours, no life outside work"
+E21170,Fulfillment Center,M120,1,3.7,0.084,2.32,1,30,29.8,3.4,33,0,
+E21171,Sort Center,M133,0,12.1,0.018,3.94,8,17,0.0,2.3,12,0,
+E21172,Customer Service,M143,1,0.0,0.027,3.92,6,11,19.6,2.3,30,0,
+E21173,Fulfillment Center,M144,0,5.5,0.113,2.06,2,32,20.0,4.4,20,0,
+E21174,Customer Service,M143,0,0.7,-0.025,3.1,6,28,26.0,3.2,6,0,
+E21175,Customer Service,M147,1,8.4,-0.043,3.38,3,36,17.7,2.2,17,1,same role for two years
+E21176,Fulfillment Center,M140,0,5.5,0.002,3.18,5,29,35.1,2.5,31,0,
+E21177,Fulfillment Center,M116,0,10.2,-0.061,2.24,1,7,22.7,2.4,20,0,
+E21178,Delivery Station,M110,1,5.8,-0.035,2.96,2,9,12.1,2.5,23,1,family reasons
+E21179,Sort Center,M109,0,11.1,-0.076,4.09,4,23,22.5,3.9,45,0,
+E21180,Sort Center,M125,0,12.3,-0.078,3.67,6,25,5.5,2.8,9,1,mandatory extra time every week
+E21181,Delivery Station,M114,0,9.1,-0.059,2.49,7,13,27.7,3.1,28,0,
+E21182,Customer Service,M119,1,0.0,-0.094,4.34,4,29,2.9,3.4,57,0,
+E21183,Sort Center,M121,0,11.5,-0.148,2.44,7,12,23.0,2.6,36,0,
+E21184,Fulfillment Center,M108,1,13.2,-0.083,2.83,6,8,24.3,1.9,60,0,
+E21185,Delivery Station,M118,1,10.8,0.045,3.42,6,22,25.1,3.5,5,0,
+E21186,Customer Service,M143,1,0.0,0.023,4.09,2,3,0.0,2.8,32,0,
+E21187,Customer Service,M147,0,0.0,0.043,3.43,2,25,23.2,2.6,28,0,
+E21188,Customer Service,M123,0,0.0,-0.137,2.82,0,32,0.0,2.4,5,1,pay did not keep up
+E21189,Customer Service,M139,1,2.2,0.001,3.32,6,36,20.5,3.3,1,1,same role for two years
+E21190,Delivery Station,M134,0,3.4,-0.003,2.47,2,23,21.1,3.9,44,0,
+E21191,Fulfillment Center,M120,1,11.8,-0.06,3.58,10,2,16.9,4.3,46,0,
+E21192,Sort Center,M109,1,10.6,-0.079,3.34,7,19,34.6,3.8,2,1,burned out from peak overtime
+E21193,Sort Center,M101,0,4.6,-0.019,3.3,5,20,10.0,3.6,10,0,
+E21194,Sort Center,M109,0,5.1,0.017,2.79,9,14,29.3,3.5,30,0,
+E21195,Customer Service,M123,0,0.5,0.05,3.98,1,28,34.9,3.3,43,0,
+E21196,Sort Center,M109,0,15.2,0.031,3.76,11,34,21.0,3.6,44,1,burned out from peak overtime
+E21197,Sort Center,M121,0,13.6,-0.042,2.7,9,26,6.1,4.0,18,1,"too many hours, no life outside work"
+E21198,Fulfillment Center,M104,1,8.3,0.047,3.18,5,23,14.9,3.6,52,0,
+E21199,Sort Center,M137,0,10.4,-0.033,3.39,4,2,41.0,3.0,21,0,
+E21200,Fulfillment Center,M124,1,11.0,-0.03,2.41,8,8,33.8,3.8,15,0,
+E21201,Delivery Station,M118,0,13.3,0.219,3.77,10,23,22.7,2.6,51,0,
+E21202,Fulfillment Center,M108,1,5.3,0.029,2.7,6,19,7.9,2.7,23,1,unfair treatment by lead
+E21203,Sort Center,M129,0,2.1,0.005,3.96,1,33,34.7,2.5,24,0,
+E21204,Sort Center,M105,0,8.3,-0.056,3.23,6,2,17.2,2.3,31,0,
+E21205,Fulfillment Center,M104,0,5.6,-0.044,1.91,0,33,14.8,2.2,49,0,
+E21206,Fulfillment Center,M108,0,6.4,-0.14,3.18,6,31,21.8,4.6,35,0,
+E21207,Sort Center,M121,0,9.2,-0.028,2.29,2,29,6.8,3.6,24,0,
+E21208,Customer Service,M119,0,4.2,-0.027,3.53,6,29,17.4,2.5,13,0,
+E21209,Sort Center,M125,1,4.9,-0.055,3.42,4,30,15.2,3.0,26,0,
+E21210,Customer Service,M143,1,2.4,-0.033,3.51,5,17,10.4,3.9,24,0,
+E21211,Fulfillment Center,M108,1,11.3,-0.144,2.03,5,32,34.9,3.6,32,1,"too many hours, no life outside work"
+E21212,Sort Center,M145,1,19.4,-0.074,2.07,11,29,20.0,3.0,16,1,"too many hours, no life outside work"
+E21213,Sort Center,M121,1,14.1,0.001,1.79,5,24,23.1,2.9,57,1,"too many hours, no life outside work"
+E21214,Sort Center,M141,0,7.3,-0.0,2.86,4,15,0.7,3.4,50,0,
+E21215,Delivery Station,M142,0,2.6,-0.028,1.67,4,4,17.2,2.2,41,1,burned out from peak overtime
+E21216,Customer Service,M127,0,8.9,0.118,3.08,9,4,33.4,3.4,21,0,
+E21217,Sort Center,M121,1,12.6,-0.139,3.18,3,21,19.7,2.4,21,1,"too many hours, no life outside work"
+E21218,Fulfillment Center,M136,1,6.9,0.024,2.59,7,26,16.4,4.0,44,0,
+E21219,Delivery Station,M126,1,6.6,-0.069,2.29,5,34,23.7,2.7,23,1,pay did not keep up
+E21220,Delivery Station,M110,0,4.4,-0.081,2.58,7,5,16.8,3.2,4,0,
+E21221,Sort Center,M105,0,9.9,-0.016,2.78,7,25,31.2,3.6,58,0,
+E21222,Delivery Station,M134,0,5.6,-0.059,2.39,8,7,29.5,3.2,31,0,
+E21223,Delivery Station,M118,0,2.1,-0.069,3.29,5,6,19.9,2.1,38,0,
+E21224,Sort Center,M105,1,9.3,-0.011,5.0,7,19,17.4,2.5,9,0,
+E21225,Sort Center,M141,1,8.9,-0.041,2.16,10,36,7.1,4.1,39,1,no path to promotion
+E21226,Fulfillment Center,M100,0,9.1,-0.162,3.63,6,36,17.0,2.1,19,1,pay did not keep up
+E21227,Fulfillment Center,M116,0,7.7,0.034,2.64,10,36,14.1,2.4,18,0,
+E21228,Sort Center,M101,1,16.4,-0.071,2.15,9,20,11.8,3.2,1,1,burned out from peak overtime
+E21229,Fulfillment Center,M120,0,0.0,-0.006,3.71,7,15,23.5,3.1,54,0,
+E21230,Sort Center,M109,1,9.6,-0.002,2.86,11,24,25.9,4.3,7,1,mandatory extra time every week
+E21231,Sort Center,M101,0,6.1,-0.129,4.1,12,5,27.8,3.4,28,0,
+E21232,Fulfillment Center,M108,0,5.4,-0.057,3.5,9,20,10.4,3.0,47,0,
+E21233,Customer Service,M115,1,0.0,0.035,3.67,11,36,17.1,3.6,24,0,
+E21234,Sort Center,M113,0,5.8,-0.126,3.26,0,6,14.9,3.4,41,0,
+E21235,Fulfillment Center,M112,0,3.5,-0.029,3.47,2,11,20.4,3.1,32,0,
+E21236,Customer Service,M123,1,1.7,-0.055,2.83,6,13,11.8,2.8,46,0,
+E21237,Fulfillment Center,M120,0,4.9,0.022,3.49,10,4,22.7,4.5,44,1,"too many hours, no life outside work"
+E21238,Delivery Station,M142,0,7.0,-0.069,3.66,3,12,21.7,3.1,56,0,
+E21239,Sort Center,M145,0,4.9,0.142,3.46,3,35,5.6,4.1,20,0,
+E21240,Sort Center,M125,0,9.9,0.008,3.12,7,35,21.0,3.5,2,0,
+E21241,Fulfillment Center,M140,1,10.4,0.015,1.83,1,2,26.3,4.3,53,0,
+E21242,Fulfillment Center,M104,1,9.8,-0.012,1.6,3,34,16.7,2.4,17,1,felt disrespected by my supervisor
+E21243,Sort Center,M145,0,8.3,-0.038,3.77,3,25,15.2,3.2,58,0,
+E21244,Sort Center,M113,0,3.6,-0.117,4.1,3,21,28.3,3.2,10,0,
+E21245,Customer Service,M131,0,4.6,-0.098,3.28,6,23,17.5,2.4,28,0,
+E21246,Delivery Station,M106,1,15.8,-0.002,3.41,7,15,43.4,2.3,34,0,
+E21247,Fulfillment Center,M132,0,9.2,0.011,1.68,11,15,29.2,1.8,25,0,
+E21248,Customer Service,M147,0,4.4,-0.008,2.64,5,8,16.4,3.5,10,1,moved away
+E21249,Delivery Station,M106,0,18.7,0.069,1.0,9,5,26.4,3.1,57,1,mandatory extra time every week
+E21250,Customer Service,M131,1,8.3,-0.033,2.53,9,34,4.1,2.8,29,1,same role for two years
+E21251,Fulfillment Center,M144,0,4.4,-0.003,3.93,12,34,30.7,3.3,22,0,
+E21252,Fulfillment Center,M144,0,4.0,-0.055,2.52,4,17,24.6,2.9,1,1,mandatory extra time every week
+E21253,Sort Center,M137,1,8.5,-0.058,3.45,10,12,18.8,3.9,34,0,
+E21254,Customer Service,M135,0,0.0,-0.02,3.62,6,28,7.3,3.2,1,0,
+E21255,Delivery Station,M110,1,16.8,-0.101,3.08,7,12,11.1,2.0,24,1,burned out from peak overtime
+E21256,Sort Center,M109,0,8.8,-0.017,3.44,8,34,18.7,4.4,57,0,
+E21257,Delivery Station,M142,0,6.0,-0.056,3.45,4,2,16.7,2.6,47,0,
+E21258,Sort Center,M101,0,0.0,0.005,3.68,1,5,5.4,3.9,7,0,
+E21259,Sort Center,M145,1,9.2,-0.063,2.62,6,5,13.6,1.9,8,1,pay did not keep up
+E21260,Fulfillment Center,M116,0,10.5,-0.108,3.17,5,25,13.3,2.4,43,0,
+E21261,Sort Center,M125,1,13.4,-0.077,2.87,10,28,17.9,2.5,22,0,
+E21262,Sort Center,M129,1,5.5,0.049,3.97,0,29,4.7,3.6,48,0,
+E21263,Sort Center,M101,0,8.3,-0.091,3.53,2,18,21.8,2.6,52,0,
+E21264,Delivery Station,M134,0,9.5,-0.056,3.19,2,22,18.0,3.2,38,0,
+E21265,Customer Service,M123,0,8.8,-0.045,3.04,4,22,1.6,2.8,14,1,mandatory extra time every week
+E21266,Customer Service,M127,1,1.0,-0.033,2.58,1,35,27.6,3.3,1,0,
+E21267,Customer Service,M123,0,2.4,-0.054,2.83,2,19,14.3,3.9,31,0,
+E21268,Sort Center,M145,0,4.8,0.019,3.46,5,27,12.6,4.2,10,0,
+E21269,Delivery Station,M102,1,16.5,-0.056,3.44,6,18,11.1,3.7,11,1,"too many hours, no life outside work"
+E21270,Fulfillment Center,M124,0,6.7,-0.063,3.51,11,21,14.7,3.6,5,0,
+E21271,Delivery Station,M118,0,3.1,-0.01,3.24,2,26,18.9,3.0,37,0,
+E21272,Delivery Station,M142,0,3.0,-0.017,3.04,2,28,29.8,4.5,3,0,
+E21273,Fulfillment Center,M132,0,14.8,-0.157,3.12,6,7,14.8,4.5,59,1,mandatory extra time every week
+E21274,Fulfillment Center,M108,0,6.9,-0.023,1.45,4,16,18.5,3.5,29,0,
+E21275,Customer Service,M143,0,10.2,-0.022,4.27,3,32,19.7,2.9,52,0,
+E21276,Delivery Station,M118,0,12.5,-0.07,2.4,7,22,16.3,2.5,38,0,
+E21277,Sort Center,M125,1,11.1,0.009,3.44,4,25,21.3,4.5,23,0,
+E21278,Sort Center,M113,0,8.4,-0.019,3.56,8,27,20.2,3.1,36,0,
+E21279,Delivery Station,M106,1,4.7,0.018,2.37,0,27,26.2,3.3,43,0,
+E21280,Sort Center,M137,0,1.7,-0.046,2.63,5,19,19.7,3.3,25,0,
+E21281,Delivery Station,M102,0,7.8,-0.016,1.51,8,8,19.3,3.6,11,0,
+E21282,Sort Center,M109,0,10.4,-0.114,2.43,8,6,9.6,3.8,43,1,"too many hours, no life outside work"
+E21283,Sort Center,M133,0,6.0,-0.042,2.85,6,12,14.1,3.6,37,1,burned out from peak overtime
+E21284,Customer Service,M111,0,0.0,0.013,3.06,3,5,9.9,2.1,8,0,
+E21285,Delivery Station,M106,0,12.6,0.011,1.84,9,7,19.0,3.1,21,0,
+E21286,Fulfillment Center,M136,0,6.2,0.041,2.2,2,16,7.8,2.0,23,1,unfair treatment by lead
+E21287,Fulfillment Center,M116,1,11.8,-0.158,3.32,7,24,19.6,3.3,10,1,mandatory extra time every week
+E21288,Customer Service,M119,1,2.0,-0.082,3.38,7,5,23.2,2.7,6,0,
+E21289,Customer Service,M115,1,9.9,-0.115,3.45,12,34,24.2,2.3,25,0,
+E21290,Fulfillment Center,M116,0,8.0,-0.106,2.59,4,30,35.9,2.5,5,1,found a job paying more nearby
+E21291,Fulfillment Center,M116,0,6.8,-0.084,3.01,3,5,42.2,3.6,48,0,
+E21292,Sort Center,M129,0,10.3,0.011,2.76,10,16,18.2,3.7,38,0,
+E21293,Customer Service,M115,1,0.0,-0.039,4.19,2,11,8.3,3.7,29,1,went back to school
+E21294,Fulfillment Center,M136,1,5.3,-0.094,2.68,12,22,22.5,3.4,21,0,
+E21295,Sort Center,M101,0,5.4,-0.13,3.31,8,11,18.5,4.0,29,0,
+E21296,Delivery Station,M126,0,4.8,-0.118,3.17,6,4,22.8,2.6,13,0,
+E21297,Customer Service,M139,0,2.0,0.003,3.37,7,12,3.6,4.3,47,0,
+E21298,Fulfillment Center,M140,0,6.5,-0.044,3.45,7,36,30.7,3.4,51,0,
+E21299,Fulfillment Center,M124,0,8.9,-0.063,3.28,8,6,17.7,3.5,39,0,
+E21300,Sort Center,M113,0,14.6,-0.048,2.3,4,19,12.9,2.7,11,0,
+E21301,Fulfillment Center,M124,0,10.7,0.037,2.8,7,3,21.8,2.7,51,0,
+E21302,Sort Center,M137,0,7.3,-0.102,3.03,2,25,20.3,3.0,53,1,pay did not keep up
+E21303,Fulfillment Center,M108,0,1.6,-0.045,3.21,9,15,23.0,3.8,24,0,
+E21304,Delivery Station,M134,1,17.2,-0.002,4.39,6,12,37.1,3.7,26,0,
+E21305,Customer Service,M111,0,9.4,-0.095,3.01,0,8,26.9,3.1,38,0,
+E21306,Delivery Station,M106,0,14.7,-0.116,3.25,10,29,15.0,3.3,17,1,burned out from peak overtime
+E21307,Fulfillment Center,M112,1,11.4,-0.073,2.47,7,12,26.0,3.1,36,1,burned out from peak overtime
+E21308,Fulfillment Center,M124,0,9.6,-0.077,4.47,1,24,33.4,3.3,35,1,found a job paying more nearby
+E21309,Sort Center,M129,0,9.7,0.082,2.49,13,22,21.5,2.9,22,0,
+E21310,Customer Service,M115,1,1.1,-0.046,2.79,7,11,12.3,3.0,31,0,
+E21311,Delivery Station,M110,0,7.6,-0.033,2.42,5,11,23.2,3.6,8,0,
+E21312,Fulfillment Center,M112,0,2.7,-0.045,4.51,5,8,31.9,3.0,47,0,
+E21313,Sort Center,M117,0,6.3,-0.045,2.12,13,3,20.9,3.5,53,0,
+E21314,Fulfillment Center,M132,1,8.4,0.032,2.01,3,36,30.2,2.9,24,1,no path to promotion
+E21315,Delivery Station,M130,1,3.9,0.014,3.27,8,7,18.2,3.1,49,0,
+E21316,Customer Service,M119,0,3.6,-0.075,3.19,0,31,14.7,3.9,30,0,
+E21317,Fulfillment Center,M128,0,8.1,-0.08,4.33,12,13,41.3,2.7,16,0,
+E21318,Sort Center,M125,0,17.4,-0.047,2.13,6,17,28.3,3.9,42,1,mandatory extra time every week
+E21319,Delivery Station,M106,1,14.1,-0.026,4.2,13,18,17.7,3.2,50,0,
+E21320,Sort Center,M133,0,0.3,-0.133,4.34,0,12,11.4,4.4,7,0,
+E21321,Sort Center,M121,0,13.3,-0.084,2.7,5,23,16.9,3.3,37,1,mandatory extra time every week
+E21322,Delivery Station,M138,0,6.1,-0.05,2.65,4,2,30.7,2.4,57,1,"too many hours, no life outside work"
+E21323,Customer Service,M135,1,3.0,-0.061,3.68,6,30,37.6,3.4,43,0,
+E21324,Sort Center,M141,0,16.1,0.058,2.44,10,35,18.0,3.7,17,0,
+E21325,Sort Center,M121,1,22.2,-0.052,1.37,5,14,31.3,3.1,32,1,"too many hours, no life outside work"
+E21326,Delivery Station,M106,1,13.1,-0.036,3.25,8,4,14.2,2.2,9,0,
+E21327,Sort Center,M117,0,13.0,-0.07,2.36,5,14,12.7,4.1,6,1,"too many hours, no life outside work"
+E21328,Fulfillment Center,M140,0,10.4,-0.064,3.14,8,18,20.3,2.7,33,0,
+E21329,Customer Service,M147,0,2.5,0.019,2.51,5,8,25.1,1.9,58,0,
+E21330,Fulfillment Center,M124,0,0.0,0.01,3.08,6,12,17.5,2.8,43,0,
+E21331,Fulfillment Center,M140,1,5.7,-0.001,3.44,1,16,26.9,3.1,27,0,
+E21332,Customer Service,M119,0,8.2,-0.048,3.91,6,26,21.6,4.1,3,0,
+E21333,Delivery Station,M106,1,10.8,-0.076,2.32,0,7,4.1,4.6,4,0,
+E21334,Customer Service,M107,0,2.8,-0.12,3.46,10,10,20.5,2.4,15,0,
+E21335,Fulfillment Center,M100,1,18.3,-0.018,2.47,13,7,9.2,3.2,48,0,
+E21336,Sort Center,M113,1,7.8,0.055,4.55,6,12,12.6,3.2,25,0,
+E21337,Customer Service,M135,0,1.2,-0.041,3.41,3,11,14.0,3.7,49,0,
+E21338,Fulfillment Center,M116,0,9.7,0.014,2.62,4,14,15.8,3.7,37,0,
+E21339,Delivery Station,M118,1,9.3,0.04,3.02,4,24,12.1,1.1,46,0,
+E21340,Sort Center,M121,0,4.9,-0.17,2.21,9,15,6.3,2.8,41,1,found a job paying more nearby
+E21341,Customer Service,M115,0,2.3,0.004,3.9,7,3,18.5,3.0,14,0,
+E21342,Delivery Station,M126,0,0.0,0.04,3.83,0,2,22.3,2.9,41,0,
+E21343,Customer Service,M143,1,0.0,-0.096,4.39,3,32,24.2,2.7,38,0,
+E21344,Sort Center,M133,0,8.0,-0.075,3.8,8,12,21.7,2.1,2,0,
+E21345,Delivery Station,M114,1,10.8,-0.169,1.98,10,25,14.8,2.6,40,1,burned out from peak overtime
+E21346,Customer Service,M147,0,3.9,-0.051,4.49,4,34,5.5,2.9,16,0,
+E21347,Sort Center,M121,0,8.5,0.061,3.28,10,25,23.6,4.0,54,0,
+E21348,Fulfillment Center,M108,1,13.5,0.018,2.41,10,19,26.0,3.9,11,1,"too many hours, no life outside work"
+E21349,Fulfillment Center,M136,1,7.0,-0.018,2.86,2,9,6.8,2.9,40,1,unfair treatment by lead
+E21350,Customer Service,M103,0,3.3,-0.079,3.83,3,6,17.0,2.4,30,1,competitor offered a dollar more
+E21351,Sort Center,M105,1,4.9,0.021,3.07,7,24,20.5,4.9,50,0,
+E21352,Fulfillment Center,M112,0,17.2,0.078,3.64,6,27,11.9,2.6,27,1,"too many hours, no life outside work"
+E21353,Sort Center,M129,1,14.5,-0.13,2.91,4,7,15.4,2.8,1,1,burned out from peak overtime
+E21354,Customer Service,M131,0,4.7,-0.082,3.84,5,2,13.6,2.6,12,0,
+E21355,Delivery Station,M138,1,5.9,0.025,2.98,6,11,29.5,2.8,26,0,
+E21356,Fulfillment Center,M116,0,13.3,-0.02,4.53,7,36,20.3,4.5,55,0,
+E21357,Delivery Station,M110,0,0.0,-0.078,4.17,0,22,22.7,4.6,11,0,
+E21358,Fulfillment Center,M144,1,13.4,-0.058,2.13,6,30,17.6,3.3,55,1,mandatory extra time every week
+E21359,Fulfillment Center,M128,0,14.3,-0.019,2.25,2,15,24.2,2.6,13,0,
+E21360,Fulfillment Center,M108,0,9.5,0.048,3.24,0,7,6.5,3.6,30,0,
+E21361,Fulfillment Center,M132,0,10.6,-0.021,3.17,6,6,8.5,3.2,12,1,burned out from peak overtime
+E21362,Delivery Station,M106,0,11.9,-0.052,1.99,8,16,19.1,3.5,59,0,
+E21363,Fulfillment Center,M128,1,9.7,-0.086,3.87,3,6,12.5,4.4,45,0,
+E21364,Customer Service,M139,1,3.1,0.018,3.91,8,27,13.6,3.3,10,0,
+E21365,Sort Center,M145,1,10.0,-0.018,3.16,4,6,19.3,3.1,21,0,
+E21366,Customer Service,M143,0,0.0,-0.079,4.98,1,8,19.0,3.5,28,0,
+E21367,Fulfillment Center,M104,0,4.5,-0.073,3.7,5,8,19.0,3.7,40,0,
+E21368,Sort Center,M113,0,12.3,-0.031,2.95,5,30,6.9,2.0,36,1,mandatory extra time every week
+E21369,Delivery Station,M146,0,2.9,-0.053,3.21,4,22,27.3,4.1,31,0,
+E21370,Sort Center,M105,0,10.1,-0.057,3.7,7,5,27.4,3.9,35,0,
+E21371,Customer Service,M111,0,0.0,0.058,4.12,3,11,29.7,2.8,9,0,
+E21372,Customer Service,M147,1,2.1,-0.018,3.76,7,12,22.9,2.6,59,0,
+E21373,Customer Service,M107,0,0.0,-0.051,2.68,2,36,18.1,2.8,58,0,
+E21374,Customer Service,M135,1,2.4,0.043,4.12,1,15,22.3,3.4,58,0,
+E21375,Customer Service,M139,0,8.9,0.002,2.36,5,16,13.1,3.3,43,0,
+E21376,Sort Center,M125,0,9.5,-0.013,3.2,7,22,19.7,5.0,40,0,
+E21377,Sort Center,M121,1,0.0,0.034,4.15,2,30,5.1,2.4,47,1,same role for two years
+E21378,Fulfillment Center,M132,0,11.4,-0.008,3.61,1,35,6.9,2.9,49,0,
+E21379,Customer Service,M103,1,0.2,-0.147,4.19,2,11,11.3,4.7,60,0,
+E21380,Customer Service,M127,0,6.5,-0.044,3.26,8,12,23.4,3.2,30,1,manager never listened
+E21381,Fulfillment Center,M108,0,7.8,-0.036,1.7,5,11,15.2,4.6,10,1,unfair treatment by lead
+E21382,Fulfillment Center,M136,1,14.0,-0.069,2.06,4,28,18.7,3.9,36,0,
+E21383,Fulfillment Center,M108,0,0.0,-0.102,1.73,6,35,13.6,3.0,56,1,competitor offered a dollar more
+E21384,Customer Service,M127,0,3.0,0.042,2.83,2,22,26.6,2.7,13,0,
+E21385,Fulfillment Center,M132,1,6.7,-0.044,2.42,6,19,15.8,4.8,10,1,mandatory extra time every week
+E21386,Delivery Station,M134,0,10.5,-0.024,4.05,0,13,10.4,4.2,8,1,mandatory extra time every week
+E21387,Customer Service,M131,1,6.6,0.034,2.81,14,14,19.8,1.7,2,1,family reasons
+E21388,Sort Center,M145,1,17.8,0.026,2.13,8,35,22.7,2.9,8,1,"too many hours, no life outside work"
+E21389,Delivery Station,M110,1,12.1,-0.149,2.3,2,23,3.2,3.5,47,0,
+E21390,Fulfillment Center,M100,0,4.0,-0.007,3.36,7,5,15.7,1.9,49,0,
+E21391,Sort Center,M101,0,2.3,-0.026,5.0,3,24,18.0,2.3,42,0,
+E21392,Sort Center,M121,0,13.1,-0.056,2.73,12,20,0.0,3.5,18,1,burned out from peak overtime
+E21393,Sort Center,M109,0,0.0,-0.014,3.75,5,12,31.5,3.5,40,0,
+E21394,Sort Center,M141,0,11.1,-0.018,3.35,8,13,18.2,4.7,15,0,
+E21395,Fulfillment Center,M120,1,4.3,-0.041,3.0,7,20,8.8,4.2,1,0,
+E21396,Customer Service,M127,1,2.8,0.012,2.45,5,10,16.4,2.2,36,1,felt disrespected by my supervisor
+E21397,Fulfillment Center,M136,1,16.7,-0.081,1.93,6,15,10.5,2.8,25,1,mandatory extra time every week
+E21398,Delivery Station,M122,0,12.8,0.027,2.33,11,12,20.9,3.1,48,0,
+E21399,Delivery Station,M146,0,7.8,-0.05,1.79,8,25,25.0,3.5,19,0,
+E21400,Delivery Station,M106,0,7.7,-0.038,4.39,4,13,15.1,2.3,22,0,
+E21401,Customer Service,M135,0,0.7,-0.026,2.69,0,3,0.0,3.8,44,0,
+E21402,Delivery Station,M118,1,10.9,0.066,2.74,0,28,17.3,4.4,32,0,
+E21403,Fulfillment Center,M108,0,11.4,-0.035,4.27,5,8,24.9,2.7,50,1,"too many hours, no life outside work"
+E21404,Sort Center,M105,0,11.6,-0.021,3.26,2,15,20.6,3.2,26,0,
+E21405,Sort Center,M105,1,9.9,-0.058,4.63,9,11,9.3,4.6,42,0,
+E21406,Fulfillment Center,M116,0,0.0,-0.044,3.2,5,21,17.3,3.1,56,0,
+E21407,Delivery Station,M110,0,7.7,0.08,3.34,4,7,0.8,2.2,34,0,
+E21408,Customer Service,M131,1,4.6,-0.064,2.73,7,28,8.0,3.4,22,0,
+E21409,Sort Center,M117,0,7.2,-0.065,3.43,3,5,10.7,3.2,27,0,
+E21410,Fulfillment Center,M124,0,5.8,-0.023,3.03,7,8,33.0,2.7,43,0,
+E21411,Delivery Station,M102,0,6.6,-0.041,3.93,9,22,32.1,3.3,47,0,
+E21412,Fulfillment Center,M136,0,5.2,-0.096,3.31,1,26,13.8,4.0,2,0,
+E21413,Fulfillment Center,M108,0,11.1,0.021,2.42,2,29,15.9,3.2,57,0,
+E21414,Customer Service,M107,1,3.1,-0.085,3.13,11,28,27.4,2.5,26,0,
+E21415,Customer Service,M139,1,2.2,-0.059,3.23,2,30,16.4,4.0,48,0,
+E21416,Delivery Station,M146,0,6.2,-0.062,3.94,3,29,8.6,1.9,23,0,
+E21417,Delivery Station,M130,0,6.9,0.037,4.55,6,9,27.2,3.5,47,0,
+E21418,Sort Center,M121,0,2.3,0.053,3.86,2,10,37.2,4.3,3,0,
+E21419,Fulfillment Center,M144,0,6.3,0.042,3.8,0,35,22.1,3.1,55,0,
+E21420,Delivery Station,M118,0,11.4,-0.075,2.99,6,36,17.0,4.5,23,0,
+E21421,Fulfillment Center,M100,0,8.3,-0.088,2.19,2,28,30.0,2.5,48,0,
+E21422,Delivery Station,M114,1,12.5,0.034,3.68,3,36,20.7,4.6,49,0,
+E21423,Sort Center,M137,1,13.8,0.011,2.32,6,17,19.9,4.1,60,0,
+E21424,Fulfillment Center,M124,1,19.4,-0.021,3.39,9,21,4.5,1.7,23,0,
+E21425,Delivery Station,M122,0,1.4,-0.084,4.27,10,28,12.4,3.7,6,0,
+E21426,Delivery Station,M118,0,5.0,0.044,3.62,5,31,20.6,3.1,43,0,
+E21427,Fulfillment Center,M116,1,0.0,-0.004,3.75,4,19,23.5,3.4,47,0,
+E21428,Fulfillment Center,M144,1,14.5,0.003,3.22,11,7,17.0,3.9,20,1,mandatory extra time every week
+E21429,Sort Center,M133,0,4.2,0.11,1.92,7,5,34.9,3.4,4,0,
+E21430,Delivery Station,M114,0,5.6,-0.05,2.79,6,11,21.5,2.5,3,0,
+E21431,Fulfillment Center,M128,1,14.3,0.003,3.99,11,9,45.9,2.0,44,0,
+E21432,Sort Center,M101,0,6.7,0.012,3.08,4,10,13.1,3.1,9,0,
+E21433,Sort Center,M117,0,9.6,-0.042,3.3,4,34,20.7,3.5,4,0,
+E21434,Fulfillment Center,M132,0,4.2,0.059,1.72,8,31,10.3,3.9,55,0,
+E21435,Delivery Station,M126,0,6.0,0.08,3.22,12,20,31.4,2.1,34,0,
+E21436,Delivery Station,M134,0,7.8,-0.155,2.29,3,30,26.4,3.8,33,1,found a job paying more nearby
+E21437,Sort Center,M109,0,3.4,-0.098,3.75,6,17,15.5,3.5,16,1,competitor offered a dollar more
+E21438,Customer Service,M111,0,7.6,-0.011,3.64,6,12,26.0,3.2,9,1,family reasons
+E21439,Customer Service,M111,0,1.0,-0.02,3.05,6,29,18.5,2.8,52,1,same role for two years
+E21440,Sort Center,M117,1,17.3,0.005,1.92,4,16,19.9,4.0,52,1,burned out from peak overtime
+E21441,Customer Service,M139,1,1.6,0.029,3.96,2,34,29.4,2.3,22,1,same role for two years
+E21442,Fulfillment Center,M116,1,16.9,0.045,3.26,3,3,6.0,3.3,18,0,
+E21443,Fulfillment Center,M100,0,13.6,0.084,3.0,9,29,18.5,5.0,58,0,
+E21444,Delivery Station,M134,0,14.0,0.018,2.52,5,31,30.5,3.5,15,0,
+E21445,Fulfillment Center,M140,0,8.4,-0.067,3.08,3,9,24.9,3.9,25,1,competitor offered a dollar more
+E21446,Delivery Station,M130,0,11.0,0.053,4.07,6,35,25.0,2.4,10,0,
+E21447,Sort Center,M109,0,5.5,-0.116,3.43,5,15,28.6,4.6,8,0,
+E21448,Delivery Station,M126,0,7.0,-0.044,2.64,4,29,25.2,3.6,17,0,
+E21449,Fulfillment Center,M132,1,9.6,-0.092,2.72,4,3,0.0,2.5,60,0,
+E21450,Sort Center,M129,0,8.8,-0.147,3.36,10,27,2.1,2.9,39,0,
+E21451,Delivery Station,M146,1,21.7,-0.105,2.35,6,8,8.7,2.9,33,1,burned out from peak overtime
+E21452,Fulfillment Center,M144,0,9.2,0.0,3.31,7,16,17.0,3.3,19,0,
+E21453,Delivery Station,M142,0,7.8,-0.03,3.39,4,4,22.0,2.9,56,0,
+E21454,Sort Center,M105,0,8.6,-0.016,3.84,9,6,17.0,2.9,1,0,
+E21455,Delivery Station,M142,0,8.4,-0.035,3.88,4,24,24.9,2.4,8,0,
+E21456,Customer Service,M107,0,0.0,-0.092,3.98,0,23,5.0,3.6,22,0,
+E21457,Delivery Station,M130,0,0.4,-0.001,3.02,2,26,15.7,2.7,27,0,
+E21458,Fulfillment Center,M128,1,8.7,-0.092,3.18,8,25,18.9,4.3,14,0,
+E21459,Fulfillment Center,M144,1,11.2,-0.027,3.95,4,6,28.7,3.4,1,1,burned out from peak overtime
+E21460,Fulfillment Center,M128,0,16.3,-0.011,2.37,9,27,15.0,2.5,34,1,burned out from peak overtime
+E21461,Sort Center,M121,1,15.6,-0.089,3.19,11,6,15.3,3.3,53,1,burned out from peak overtime
+E21462,Sort Center,M133,0,13.5,-0.159,2.62,7,30,2.5,2.0,11,1,"too many hours, no life outside work"
+E21463,Fulfillment Center,M132,0,2.0,-0.007,2.92,5,20,2.3,4.2,35,0,
+E21464,Sort Center,M105,0,13.6,0.005,3.72,6,11,18.5,3.5,56,0,
+E21465,Customer Service,M131,1,4.8,-0.109,3.76,6,20,22.0,2.9,9,0,
+E21466,Customer Service,M127,0,0.7,-0.066,2.84,3,17,31.7,3.4,14,0,
+E21467,Fulfillment Center,M124,1,8.2,-0.069,3.73,7,3,16.6,3.3,43,0,
+E21468,Fulfillment Center,M120,0,0.0,-0.089,3.8,0,24,10.4,1.9,55,0,
+E21469,Delivery Station,M142,0,6.5,0.02,3.29,5,13,22.2,3.4,58,0,
+E21470,Customer Service,M147,0,1.5,0.044,2.79,9,21,22.2,2.5,32,0,
+E21471,Delivery Station,M138,0,4.8,-0.038,4.02,7,5,8.4,3.4,13,0,
+E21472,Fulfillment Center,M144,0,10.7,-0.068,2.56,6,33,15.0,4.1,56,0,
+E21473,Fulfillment Center,M128,1,14.7,-0.027,3.15,9,17,11.0,2.7,2,1,burned out from peak overtime
+E21474,Customer Service,M139,0,6.0,-0.009,2.36,5,25,19.6,2.4,19,0,
+E21475,Fulfillment Center,M100,0,6.0,-0.05,3.22,6,29,32.4,2.1,36,0,
+E21476,Customer Service,M115,1,0.0,0.116,3.33,8,24,14.1,2.9,7,0,
+E21477,Customer Service,M115,0,0.0,0.002,2.97,3,18,19.0,2.8,41,0,
+E21478,Fulfillment Center,M144,0,5.4,-0.041,3.65,2,32,20.3,1.9,17,0,
+E21479,Customer Service,M143,0,0.0,-0.016,2.6,8,32,13.8,4.3,45,1,same role for two years
+E21480,Fulfillment Center,M116,1,12.2,0.036,2.6,3,13,4.9,3.6,31,0,
+E21481,Delivery Station,M106,0,0.6,-0.171,5.0,6,24,20.5,2.2,46,0,
+E21482,Delivery Station,M130,1,7.6,-0.104,2.86,5,9,36.4,3.1,9,0,
+E21483,Customer Service,M115,0,0.0,-0.006,4.45,4,9,13.2,2.0,56,0,
+E21484,Customer Service,M147,0,11.7,0.018,1.76,2,24,9.1,4.3,60,0,
+E21485,Customer Service,M115,1,2.1,-0.105,3.74,4,7,32.6,3.1,1,0,
+E21486,Fulfillment Center,M144,1,9.3,0.012,3.74,5,5,25.4,3.8,53,0,
+E21487,Customer Service,M127,1,2.5,0.054,3.37,4,15,0.0,2.8,56,0,
+E21488,Customer Service,M107,0,9.6,0.022,2.78,6,32,21.7,2.9,40,0,
+E21489,Customer Service,M139,0,6.3,-0.049,2.91,5,23,13.5,2.5,12,1,"too many hours, no life outside work"
+E21490,Sort Center,M133,1,20.8,0.037,2.05,11,27,13.9,2.2,3,1,burned out from peak overtime
+E21491,Fulfillment Center,M116,0,2.1,-0.121,4.98,5,28,22.2,4.7,45,0,
+E21492,Delivery Station,M102,0,0.0,-0.042,2.81,2,19,20.6,1.8,49,0,
+E21493,Fulfillment Center,M124,0,0.7,-0.038,3.33,2,23,22.7,3.6,57,0,
+E21494,Fulfillment Center,M120,0,2.7,-0.019,4.49,4,35,7.1,3.5,4,0,
+E21495,Sort Center,M113,1,14.1,-0.028,2.85,14,25,25.5,3.3,13,1,burned out from peak overtime
+E21496,Customer Service,M115,1,0.4,-0.045,2.9,7,36,19.6,3.2,6,0,
+E21497,Fulfillment Center,M140,0,3.7,-0.084,3.62,7,23,16.8,4.2,26,0,
+E21498,Delivery Station,M126,0,6.2,0.036,3.36,6,29,9.9,4.0,29,0,
+E21499,Fulfillment Center,M116,0,3.6,-0.08,4.75,9,4,16.9,3.3,48,1,pay did not keep up
+E21500,Customer Service,M139,1,11.1,-0.036,2.31,3,34,19.1,2.7,16,1,"too many hours, no life outside work"
+E21501,Customer Service,M139,0,3.2,-0.05,4.64,5,3,35.5,3.6,23,0,
+E21502,Sort Center,M121,0,12.5,0.024,3.35,6,22,28.2,4.1,24,0,
+E21503,Delivery Station,M106,1,14.7,-0.086,3.44,9,3,13.1,4.3,60,1,"too many hours, no life outside work"
+E21504,Fulfillment Center,M120,0,14.2,0.028,2.59,5,6,3.9,4.9,8,1,mandatory extra time every week
+E21505,Customer Service,M131,1,0.0,0.03,3.92,3,18,18.2,2.9,42,0,
+E21506,Fulfillment Center,M100,1,8.3,-0.074,3.92,8,9,7.3,3.1,26,0,
+E21507,Fulfillment Center,M108,0,7.4,-0.037,2.31,9,5,22.1,3.8,2,0,
+E21508,Delivery Station,M126,0,13.0,0.109,3.8,5,15,24.4,4.5,51,0,
+E21509,Delivery Station,M142,0,9.3,-0.043,3.47,2,3,25.1,3.3,43,1,went back to school
+E21510,Delivery Station,M142,1,11.9,0.103,3.05,5,24,34.8,3.0,10,0,
+E21511,Customer Service,M111,0,0.0,-0.052,3.55,8,2,23.3,2.6,7,0,
+E21512,Sort Center,M125,0,8.9,-0.106,3.89,12,18,20.9,2.8,5,1,pay did not keep up
+E21513,Fulfillment Center,M136,1,12.3,0.03,2.65,4,29,13.5,2.8,16,1,mandatory extra time every week
+E21514,Fulfillment Center,M116,0,7.5,-0.112,3.38,4,30,32.7,2.1,53,0,
+E21515,Fulfillment Center,M108,0,10.0,0.031,2.46,9,20,20.2,3.9,59,0,
+E21516,Customer Service,M107,0,7.6,-0.096,2.56,8,14,14.0,2.2,26,1,competitor offered a dollar more
+E21517,Customer Service,M135,0,0.2,-0.048,2.97,6,21,19.0,3.9,44,0,
+E21518,Customer Service,M139,1,0.0,0.075,3.93,5,19,23.1,3.4,11,0,
+E21519,Customer Service,M107,1,6.7,0.01,4.27,11,22,21.0,2.3,34,0,
+E21520,Customer Service,M123,1,1.8,-0.056,4.04,5,8,10.7,3.1,19,0,
+E21521,Delivery Station,M146,0,15.3,-0.046,1.35,12,33,22.0,3.1,17,1,burned out from peak overtime
+E21522,Fulfillment Center,M120,1,3.2,-0.01,4.29,5,26,9.9,2.5,60,0,
+E21523,Delivery Station,M110,1,3.4,-0.007,3.53,4,29,8.4,4.0,25,0,
+E21524,Customer Service,M103,0,4.5,-0.058,3.23,9,22,30.7,2.3,57,0,
+E21525,Fulfillment Center,M124,0,15.0,-0.078,3.74,8,34,25.1,2.3,7,1,burned out from peak overtime
+E21526,Fulfillment Center,M108,0,5.9,-0.124,3.18,6,35,15.1,3.3,28,1,competitor offered a dollar more
+E21527,Sort Center,M129,0,7.0,-0.135,4.19,6,26,0.0,3.9,6,1,pay did not keep up
+E21528,Fulfillment Center,M136,1,14.9,-0.018,2.08,6,7,30.6,3.1,32,1,"too many hours, no life outside work"
+E21529,Delivery Station,M138,0,17.8,0.069,3.88,6,3,17.3,3.0,14,0,
+E21530,Fulfillment Center,M124,0,8.8,-0.1,4.42,8,2,38.5,2.5,48,0,
+E21531,Sort Center,M117,0,4.2,-0.057,2.43,2,26,14.0,3.3,27,0,
+E21532,Delivery Station,M110,0,0.3,-0.056,4.08,5,7,10.2,3.9,24,1,burned out from peak overtime
+E21533,Customer Service,M135,0,0.5,-0.094,3.3,7,19,20.2,3.9,14,0,
+E21534,Sort Center,M121,1,6.8,-0.07,2.73,9,21,37.9,2.7,3,1,pay did not keep up
+E21535,Fulfillment Center,M128,0,9.1,0.044,3.1,6,29,0.0,3.2,8,1,no path to promotion
+E21536,Sort Center,M109,0,0.5,0.018,3.92,3,26,7.3,3.7,23,0,
+E21537,Sort Center,M145,1,8.1,-0.121,3.86,8,11,13.2,3.5,22,0,
+E21538,Delivery Station,M146,1,4.3,-0.109,3.17,9,12,12.6,2.8,20,0,
+E21539,Customer Service,M139,0,7.9,-0.039,4.94,2,28,32.3,4.2,60,0,
+E21540,Fulfillment Center,M132,0,2.9,-0.03,3.47,0,30,15.7,3.2,38,0,
+E21541,Delivery Station,M142,0,7.0,-0.031,3.81,6,17,24.3,3.2,26,0,
+E21542,Delivery Station,M126,1,12.5,-0.039,2.85,7,9,17.5,2.8,16,0,
+E21543,Sort Center,M129,0,4.3,0.01,2.05,8,25,4.9,2.5,29,0,
+E21544,Delivery Station,M142,0,4.8,0.014,2.71,5,30,25.4,3.8,10,0,
+E21545,Sort Center,M109,1,12.1,-0.086,3.26,15,8,19.1,2.9,29,1,mandatory extra time every week
+E21546,Fulfillment Center,M116,1,6.3,-0.091,3.3,8,5,7.6,4.0,53,1,competitor offered a dollar more
+E21547,Customer Service,M107,0,0.0,-0.074,4.27,5,29,10.9,3.9,44,0,
+E21548,Customer Service,M107,1,0.9,-0.013,2.63,8,20,15.9,3.4,44,0,
+E21549,Sort Center,M125,1,3.2,-0.049,3.79,3,5,34.0,4.3,38,0,
+E21550,Fulfillment Center,M132,0,6.1,-0.044,3.96,3,20,3.6,2.5,22,0,
+E21551,Delivery Station,M122,1,6.1,-0.103,2.64,2,27,13.0,2.8,59,1,competitor offered a dollar more
+E21552,Customer Service,M147,1,6.6,-0.039,4.0,2,11,17.6,2.8,2,1,mandatory extra time every week
+E21553,Customer Service,M127,0,0.0,-0.118,2.45,3,9,14.3,3.0,31,1,competitor offered a dollar more
+E21554,Fulfillment Center,M104,0,5.4,-0.012,2.18,6,16,4.3,3.8,48,1,felt disrespected by my supervisor
+E21555,Fulfillment Center,M124,0,4.2,0.052,4.68,3,12,17.0,3.9,15,0,
+E21556,Customer Service,M143,0,0.5,-0.005,3.57,0,30,12.1,3.8,57,0,
+E21557,Customer Service,M147,1,4.9,-0.013,3.64,7,35,5.4,2.6,1,1,no path to promotion
+E21558,Customer Service,M127,1,10.0,-0.025,3.21,8,23,31.0,3.3,6,1,burned out from peak overtime
+E21559,Delivery Station,M138,1,14.0,-0.034,2.49,4,35,14.5,3.3,35,1,mandatory extra time every week
+E21560,Delivery Station,M106,1,16.4,-0.101,3.27,17,14,31.1,3.3,50,0,
+E21561,Fulfillment Center,M120,1,11.1,-0.006,3.81,5,9,19.4,3.1,1,0,
+E21562,Customer Service,M119,1,3.9,-0.056,3.87,8,27,24.1,2.5,7,0,
+E21563,Delivery Station,M118,0,2.9,0.047,4.0,8,6,15.6,2.9,43,0,
+E21564,Delivery Station,M122,0,11.5,-0.021,4.08,8,20,17.8,4.3,46,0,
+E21565,Sort Center,M145,1,1.1,0.022,3.15,7,28,23.5,2.9,47,1,same role for two years
+E21566,Delivery Station,M142,1,10.8,-0.072,2.22,7,24,17.4,3.0,40,1,mandatory extra time every week
+E21567,Customer Service,M115,0,11.8,0.015,4.12,5,3,17.9,3.8,36,0,
+E21568,Delivery Station,M114,0,12.6,-0.01,1.89,9,6,19.5,3.5,10,0,
+E21569,Delivery Station,M114,0,6.4,-0.127,3.74,10,12,12.0,2.6,58,1,competitor offered a dollar more
+E21570,Delivery Station,M138,0,9.9,0.034,3.87,3,28,31.2,4.3,37,0,
+E21571,Fulfillment Center,M112,0,2.0,-0.029,4.09,8,21,13.6,3.2,20,0,
+E21572,Delivery Station,M130,0,8.6,-0.021,3.42,8,6,10.5,3.8,57,0,
+E21573,Customer Service,M123,0,4.6,0.035,2.64,9,5,18.2,2.8,24,0,
+E21574,Sort Center,M125,1,14.0,0.089,1.77,5,29,17.6,3.8,42,0,
+E21575,Customer Service,M147,0,0.0,-0.099,4.26,8,25,30.7,3.5,4,0,
+E21576,Sort Center,M129,0,14.3,0.052,2.72,4,14,18.1,4.3,1,1,"too many hours, no life outside work"
+E21577,Fulfillment Center,M136,0,8.8,0.008,2.05,3,11,3.2,4.3,28,0,
+E21578,Fulfillment Center,M108,0,7.0,-0.109,2.95,6,5,16.1,2.8,39,0,
+E21579,Fulfillment Center,M100,0,5.9,-0.052,2.92,11,4,21.2,3.0,42,0,
+E21580,Delivery Station,M138,1,7.1,-0.014,4.45,6,25,4.9,2.6,34,0,
+E21581,Customer Service,M107,0,4.4,0.074,3.38,2,29,29.4,3.4,13,0,
+E21582,Sort Center,M109,1,1.7,0.004,4.14,9,16,11.4,3.4,35,0,
+E21583,Sort Center,M125,0,7.2,-0.017,3.76,9,3,16.4,2.9,26,0,
+E21584,Fulfillment Center,M120,1,13.2,-0.039,2.94,9,14,30.7,2.9,46,0,
+E21585,Sort Center,M129,0,1.8,0.009,4.32,0,8,23.4,3.0,47,0,
+E21586,Sort Center,M105,0,5.6,-0.059,3.08,9,22,7.1,2.0,55,0,
+E21587,Customer Service,M115,1,2.5,-0.017,3.11,6,22,15.3,1.6,49,0,
+E21588,Sort Center,M117,0,9.1,0.003,2.54,7,24,9.3,2.4,53,0,
+E21589,Fulfillment Center,M112,1,12.7,-0.073,2.78,8,23,20.4,3.2,46,0,
+E21590,Sort Center,M105,0,9.5,-0.052,3.99,6,6,30.2,4.0,5,0,
+E21591,Delivery Station,M146,1,16.5,-0.014,3.16,4,35,10.9,1.8,37,0,
+E21592,Sort Center,M101,0,18.5,-0.053,1.67,9,18,9.9,3.8,46,1,mandatory extra time every week
+E21593,Customer Service,M107,0,5.3,-0.039,3.13,4,34,11.2,2.6,47,0,
+E21594,Fulfillment Center,M116,1,5.8,0.026,3.14,5,33,11.0,3.6,37,0,
+E21595,Customer Service,M103,0,1.9,0.019,4.03,4,26,13.8,4.3,17,0,
+E21596,Sort Center,M133,1,15.6,-0.023,2.7,8,36,17.5,4.0,18,1,mandatory extra time every week
+E21597,Delivery Station,M134,0,7.0,0.011,3.95,9,11,23.7,4.6,51,0,
+E21598,Fulfillment Center,M108,1,9.3,-0.149,3.5,3,15,19.5,2.2,45,0,
+E21599,Customer Service,M123,0,3.9,-0.072,3.0,5,30,10.6,2.5,42,1,found a job paying more nearby
+E21600,Customer Service,M143,0,0.0,-0.049,4.42,10,30,11.4,3.5,49,1,no path to promotion
+E21601,Sort Center,M109,0,14.0,-0.109,3.95,6,17,32.3,3.4,47,1,burned out from peak overtime
+E21602,Delivery Station,M134,0,9.3,-0.042,3.74,2,18,5.3,3.2,37,0,
+E21603,Delivery Station,M138,0,13.7,-0.089,2.02,8,5,33.2,3.1,9,0,
+E21604,Delivery Station,M142,0,8.9,-0.065,3.47,2,22,30.9,4.1,56,0,
+E21605,Sort Center,M101,0,3.9,-0.04,2.53,4,36,33.9,3.5,55,1,same role for two years
+E21606,Sort Center,M105,0,0.0,-0.025,3.87,1,26,19.3,4.2,25,1,no path to promotion
+E21607,Fulfillment Center,M132,0,13.1,-0.15,3.98,6,15,13.2,3.0,22,0,
+E21608,Customer Service,M143,0,5.4,-0.017,3.6,4,14,27.5,3.9,50,0,
+E21609,Customer Service,M123,0,15.0,0.043,2.79,5,5,15.6,3.0,9,1,burned out from peak overtime
+E21610,Customer Service,M123,1,0.0,-0.038,3.01,0,8,12.3,2.7,29,0,
+E21611,Fulfillment Center,M100,1,11.0,0.031,4.08,7,32,16.4,3.5,17,1,mandatory extra time every week
+E21612,Customer Service,M139,1,1.9,-0.01,3.48,2,28,25.3,2.7,6,0,
+E21613,Customer Service,M103,0,2.5,-0.085,3.4,8,30,3.5,2.1,15,1,found a job paying more nearby
+E21614,Fulfillment Center,M104,0,11.9,-0.013,2.8,8,33,18.1,2.3,45,1,mandatory extra time every week
+E21615,Sort Center,M133,1,4.5,-0.026,2.76,2,2,12.4,2.4,13,0,
+E21616,Fulfillment Center,M120,0,5.0,-0.054,4.66,0,23,32.9,3.7,59,0,
+E21617,Customer Service,M139,1,0.0,-0.053,3.2,1,10,28.0,2.7,6,0,
+E21618,Delivery Station,M130,0,1.8,-0.101,3.43,8,10,22.6,3.1,43,0,
+E21619,Customer Service,M143,0,6.8,0.044,2.67,4,27,13.1,2.2,38,0,
+E21620,Customer Service,M123,0,9.0,-0.056,4.63,4,34,36.5,2.6,6,0,
+E21621,Delivery Station,M122,0,11.6,-0.109,3.48,4,10,6.0,3.4,41,1,mandatory extra time every week
+E21622,Sort Center,M141,0,13.6,-0.101,3.97,13,26,14.7,2.0,35,0,
+E21623,Customer Service,M147,0,3.1,-0.067,2.97,1,28,17.2,4.7,19,1,found a job paying more nearby
+E21624,Delivery Station,M114,0,2.1,-0.082,2.54,7,3,26.6,3.3,17,0,
+E21625,Customer Service,M111,0,2.0,0.024,3.0,6,13,32.8,3.4,56,0,
+E21626,Delivery Station,M146,0,8.7,0.012,3.14,4,27,29.4,2.5,36,0,
+E21627,Sort Center,M121,0,4.7,-0.077,3.63,4,7,6.9,4.6,8,0,
+E21628,Fulfillment Center,M132,1,16.6,-0.16,3.59,5,4,11.9,4.6,43,0,
+E21629,Fulfillment Center,M144,1,11.4,-0.019,3.34,7,20,5.6,3.0,55,0,
+E21630,Sort Center,M101,1,11.1,-0.043,3.88,2,22,29.1,4.5,29,0,
+E21631,Sort Center,M117,1,14.7,0.047,2.49,10,10,22.1,3.6,25,1,burned out from peak overtime
+E21632,Delivery Station,M138,1,3.6,-0.055,3.24,5,16,23.0,3.3,51,0,
+E21633,Sort Center,M109,0,6.5,-0.056,3.14,3,17,12.9,3.0,2,1,family reasons
+E21634,Delivery Station,M134,0,15.8,0.004,3.19,6,14,12.1,2.2,22,0,
+E21635,Customer Service,M143,1,0.0,0.038,4.48,6,9,29.2,3.2,37,0,
+E21636,Customer Service,M123,0,3.3,-0.039,3.26,0,25,5.5,1.4,11,1,same role for two years
+E21637,Fulfillment Center,M104,1,0.0,-0.081,2.88,2,35,30.5,3.6,48,1,found a job paying more nearby
+E21638,Customer Service,M143,0,5.0,0.03,3.05,3,21,4.7,2.4,56,1,went back to school
+E21639,Delivery Station,M106,0,2.9,-0.089,3.82,2,23,1.3,3.4,4,0,
+E21640,Customer Service,M135,0,2.7,-0.136,2.84,2,22,15.2,3.5,35,0,
+E21641,Delivery Station,M134,0,3.0,-0.106,3.52,5,26,18.2,2.4,45,1,pay did not keep up
+E21642,Sort Center,M133,0,7.8,-0.062,3.26,8,29,17.1,3.4,15,0,
+E21643,Delivery Station,M126,0,10.8,-0.024,4.1,8,17,15.9,2.3,39,0,
+E21644,Fulfillment Center,M108,0,16.8,-0.107,1.26,0,36,23.9,3.3,58,0,
+E21645,Sort Center,M105,1,14.5,-0.014,3.34,7,2,28.6,3.6,46,0,
+E21646,Sort Center,M133,1,13.1,-0.013,4.11,2,20,13.7,4.0,50,0,
+E21647,Delivery Station,M142,1,15.6,-0.043,2.39,6,35,23.8,4.4,39,0,
+E21648,Delivery Station,M146,1,13.6,-0.056,2.92,8,35,10.7,4.0,57,0,
+E21649,Delivery Station,M122,1,6.7,0.088,2.6,2,30,16.3,2.7,22,0,
+E21650,Fulfillment Center,M124,1,12.1,-0.037,2.51,9,30,13.5,4.2,10,1,burned out from peak overtime
+E21651,Sort Center,M109,0,12.8,0.011,2.96,7,7,0.0,3.7,32,0,
+E21652,Fulfillment Center,M140,0,10.0,-0.113,2.28,0,26,16.8,2.7,6,0,
+E21653,Fulfillment Center,M116,0,0.6,0.123,3.55,1,5,16.4,3.1,36,0,
+E21654,Customer Service,M103,0,1.1,-0.004,4.26,8,11,29.8,3.0,9,0,
+E21655,Fulfillment Center,M124,0,11.9,0.024,2.94,12,14,11.6,2.9,3,0,
+E21656,Fulfillment Center,M108,1,13.7,-0.055,2.27,1,14,21.4,3.3,14,1,"too many hours, no life outside work"
+E21657,Delivery Station,M146,1,6.2,-0.01,2.53,4,34,20.5,3.1,41,0,
+E21658,Fulfillment Center,M124,1,15.0,-0.048,2.78,9,16,23.8,3.4,39,1,"too many hours, no life outside work"
+E21659,Delivery Station,M102,1,4.6,-0.13,4.61,0,5,10.6,4.0,28,0,
+E21660,Sort Center,M105,0,10.2,-0.05,1.73,3,24,30.5,3.0,17,0,
+E21661,Fulfillment Center,M120,0,1.1,-0.006,3.25,5,6,3.8,2.9,34,0,
+E21662,Fulfillment Center,M100,0,11.0,-0.042,3.09,5,15,26.6,3.4,39,0,
+E21663,Customer Service,M131,0,0.0,-0.026,5.0,6,32,13.2,3.9,37,0,
+E21664,Delivery Station,M138,1,11.0,-0.047,3.07,4,13,26.0,2.8,26,0,
+E21665,Fulfillment Center,M108,0,4.1,0.014,2.79,3,28,10.3,3.8,55,1,felt disrespected by my supervisor
+E21666,Delivery Station,M130,0,14.3,-0.031,2.72,8,18,7.2,2.9,44,1,burned out from peak overtime
+E21667,Delivery Station,M134,0,8.2,-0.022,2.71,6,18,15.6,3.5,54,0,
+E21668,Fulfillment Center,M136,0,12.5,0.05,2.57,7,28,14.0,1.9,12,1,burned out from peak overtime
+E21669,Delivery Station,M142,0,12.9,-0.071,3.53,6,29,24.1,3.8,53,0,
+E21670,Delivery Station,M110,0,0.0,0.048,3.58,4,17,14.5,4.1,28,0,
+E21671,Fulfillment Center,M120,1,15.8,-0.019,2.16,8,5,32.4,3.5,60,0,
+E21672,Delivery Station,M106,0,10.7,-0.011,3.58,9,22,21.6,3.1,7,1,burned out from peak overtime
+E21673,Fulfillment Center,M136,1,2.9,0.045,3.18,0,5,25.9,3.0,40,0,
+E21674,Sort Center,M145,0,6.4,-0.057,2.31,1,4,10.7,2.8,42,0,
+E21675,Customer Service,M107,0,6.4,-0.046,3.7,5,28,35.1,1.6,24,0,
+E21676,Fulfillment Center,M140,0,5.8,-0.116,2.57,3,13,26.0,4.0,34,0,
+E21677,Customer Service,M111,0,0.0,-0.112,2.6,8,6,18.7,3.4,32,0,
+E21678,Fulfillment Center,M100,1,10.2,-0.102,3.49,5,14,20.0,3.1,35,0,
+E21679,Delivery Station,M102,0,8.4,-0.009,3.54,9,12,24.0,2.0,4,1,mandatory extra time every week
+E21680,Sort Center,M141,1,13.7,-0.136,2.67,5,4,12.0,3.3,60,0,
+E21681,Customer Service,M135,1,4.8,-0.025,1.75,4,26,27.2,3.6,29,1,same role for two years
+E21682,Customer Service,M135,1,10.2,-0.03,1.66,9,10,14.0,2.9,13,1,burned out from peak overtime
+E21683,Sort Center,M101,1,9.1,-0.086,4.07,6,14,17.4,2.3,8,0,
+E21684,Sort Center,M137,0,4.6,-0.055,3.42,10,25,11.8,5.0,16,1,same role for two years
+E21685,Fulfillment Center,M100,1,9.8,-0.025,3.76,8,6,27.4,3.3,59,0,
+E21686,Fulfillment Center,M136,0,18.2,-0.061,1.84,5,17,7.4,3.9,49,0,
+E21687,Fulfillment Center,M140,1,12.0,0.03,4.55,12,25,22.8,3.6,48,0,
+E21688,Sort Center,M113,1,16.2,0.045,2.65,9,17,28.8,2.0,32,0,
+E21689,Customer Service,M131,0,0.0,-0.023,4.32,0,35,14.6,2.1,32,0,
+E21690,Delivery Station,M102,0,5.4,-0.091,2.31,3,33,25.7,3.4,28,0,
+E21691,Fulfillment Center,M124,1,14.3,0.0,2.55,0,30,13.7,2.6,26,0,
+E21692,Delivery Station,M102,0,11.5,-0.121,2.81,1,34,14.2,2.5,58,0,
+E21693,Delivery Station,M122,0,5.1,-0.091,2.61,6,35,21.7,2.9,7,1,found a job paying more nearby
+E21694,Delivery Station,M130,0,12.6,-0.014,3.05,8,25,14.3,2.6,49,1,"too many hours, no life outside work"
+E21695,Delivery Station,M142,0,14.4,0.001,3.13,17,16,8.2,3.0,24,0,
+E21696,Customer Service,M147,0,8.0,-0.046,3.12,9,31,11.5,2.2,57,0,
+E21697,Fulfillment Center,M104,0,3.9,-0.1,2.62,8,28,12.0,2.4,41,1,competitor offered a dollar more
+E21698,Delivery Station,M122,0,8.0,-0.033,3.81,8,28,38.7,3.2,56,0,
+E21699,Fulfillment Center,M144,1,17.9,-0.065,3.26,9,16,26.8,3.0,15,1,burned out from peak overtime
+E21700,Sort Center,M129,1,17.1,0.014,2.7,7,20,21.3,3.7,30,1,"too many hours, no life outside work"
+E21701,Sort Center,M133,1,11.9,0.012,3.41,9,28,15.1,2.5,35,0,
+E21702,Delivery Station,M126,0,12.3,-0.074,3.55,3,31,19.1,3.7,44,0,
+E21703,Fulfillment Center,M128,0,3.1,-0.085,2.96,11,3,24.8,4.0,45,0,
+E21704,Customer Service,M131,1,0.7,-0.047,3.09,3,34,10.6,3.4,1,1,no path to promotion
+E21705,Fulfillment Center,M136,0,7.5,-0.06,2.66,9,22,37.6,3.1,52,0,
+E21706,Customer Service,M131,0,2.4,-0.054,3.08,4,14,21.8,3.3,41,1,moved away
+E21707,Delivery Station,M118,0,10.0,0.018,3.1,8,16,16.5,2.0,48,1,burned out from peak overtime
+E21708,Delivery Station,M110,0,1.9,-0.073,4.59,0,30,16.4,2.4,26,0,
+E21709,Delivery Station,M102,0,9.6,0.051,3.71,9,20,15.8,3.5,4,0,
+E21710,Fulfillment Center,M100,1,15.0,0.128,2.92,7,23,19.6,2.6,1,1,burned out from peak overtime
+E21711,Fulfillment Center,M112,1,15.3,0.037,2.16,14,29,19.3,3.4,45,0,
+E21712,Customer Service,M147,0,3.8,-0.024,3.57,1,36,30.7,4.0,17,0,
+E21713,Customer Service,M143,0,0.0,0.082,4.0,3,17,17.5,2.6,4,0,
+E21714,Fulfillment Center,M112,1,5.8,-0.014,2.94,2,15,37.5,4.6,45,0,
+E21715,Sort Center,M133,1,12.8,-0.055,3.88,1,11,15.3,3.8,35,0,
+E21716,Fulfillment Center,M128,0,13.8,-0.108,1.95,5,20,4.8,2.5,14,0,
+E21717,Sort Center,M129,0,2.7,0.008,4.78,2,33,33.5,3.5,26,0,
+E21718,Delivery Station,M130,1,19.4,0.001,3.01,8,28,9.4,3.3,42,1,mandatory extra time every week
+E21719,Customer Service,M135,0,4.2,-0.044,3.25,5,16,20.0,2.9,59,0,
+E21720,Delivery Station,M130,1,8.0,0.026,3.71,7,7,8.8,2.7,33,1,went back to school
+E21721,Fulfillment Center,M128,0,3.9,-0.088,2.91,3,21,21.6,3.2,11,0,
+E21722,Sort Center,M145,1,13.9,0.02,2.89,8,4,16.6,2.5,58,0,
+E21723,Fulfillment Center,M136,0,4.3,-0.072,2.61,8,18,28.0,3.8,31,0,
+E21724,Sort Center,M101,0,8.7,-0.167,1.82,6,16,13.9,4.3,3,0,
+E21725,Sort Center,M101,0,14.0,0.001,2.36,6,11,5.0,3.2,10,1,burned out from peak overtime
+E21726,Fulfillment Center,M132,0,1.3,-0.06,3.5,3,7,15.6,2.7,57,0,
+E21727,Fulfillment Center,M104,0,5.6,-0.023,3.01,7,7,3.8,4.1,18,0,
+E21728,Customer Service,M119,0,7.8,0.074,3.39,9,34,7.1,3.2,27,0,
+E21729,Delivery Station,M114,1,12.1,-0.086,2.11,12,19,22.0,3.0,2,1,burned out from peak overtime
+E21730,Customer Service,M103,0,0.0,-0.052,3.15,0,23,9.9,3.1,26,0,
+E21731,Fulfillment Center,M144,1,12.5,-0.0,3.59,8,19,20.5,3.7,8,0,
+E21732,Sort Center,M141,1,12.0,-0.115,3.85,5,10,6.5,4.8,40,1,burned out from peak overtime
+E21733,Fulfillment Center,M124,0,6.8,-0.056,4.06,4,9,8.8,3.0,44,0,
+E21734,Sort Center,M125,0,10.3,-0.014,3.55,4,30,21.5,4.3,39,0,
+E21735,Customer Service,M147,0,9.6,0.014,3.19,8,8,14.5,2.3,57,1,moved away
+E21736,Fulfillment Center,M144,0,12.2,0.03,2.34,0,5,10.0,3.6,32,0,
+E21737,Delivery Station,M106,0,12.6,0.075,3.94,12,31,17.6,2.3,29,0,
+E21738,Customer Service,M147,0,0.5,0.028,1.86,3,2,22.2,4.0,39,0,
+E21739,Delivery Station,M142,1,21.6,0.012,2.2,6,26,34.5,3.7,14,1,mandatory extra time every week
+E21740,Delivery Station,M134,0,8.6,-0.147,3.61,1,14,30.2,3.3,11,1,pay did not keep up
+E21741,Delivery Station,M134,1,11.4,-0.022,2.83,8,35,33.3,2.8,17,0,
+E21742,Sort Center,M141,1,11.9,-0.008,2.93,2,9,20.4,2.6,40,0,
+E21743,Fulfillment Center,M112,1,12.9,-0.083,3.05,10,33,7.4,3.2,41,0,
+E21744,Customer Service,M115,1,10.3,-0.043,2.85,10,17,0.0,3.1,16,1,mandatory extra time every week
+E21745,Delivery Station,M126,0,5.8,0.029,3.27,1,25,16.1,4.0,45,0,
+E21746,Fulfillment Center,M104,1,10.6,-0.101,1.0,11,20,20.2,4.0,46,1,mandatory extra time every week
+E21747,Fulfillment Center,M108,0,13.4,-0.025,3.66,3,6,3.5,3.9,49,0,
+E21748,Delivery Station,M122,1,18.1,0.023,2.05,4,11,4.5,4.3,8,1,mandatory extra time every week
+E21749,Fulfillment Center,M100,1,13.1,-0.042,3.94,11,35,12.6,4.1,40,1,"too many hours, no life outside work"
+E21750,Sort Center,M101,1,7.3,0.028,3.22,4,22,8.2,3.8,11,0,
+E21751,Delivery Station,M106,0,4.6,-0.007,3.32,8,20,23.0,3.5,16,1,moved away
+E21752,Customer Service,M139,0,8.0,-0.024,3.46,2,15,26.5,2.8,39,0,
+E21753,Fulfillment Center,M144,1,15.4,-0.003,2.76,7,13,28.2,3.2,44,0,
+E21754,Delivery Station,M146,0,0.0,-0.131,3.31,3,2,24.1,3.2,49,0,
+E21755,Delivery Station,M102,0,4.4,0.055,2.31,6,13,25.0,3.2,50,0,
+E21756,Delivery Station,M138,0,7.0,0.088,3.44,6,7,16.7,3.6,29,0,
+E21757,Sort Center,M121,1,12.5,-0.009,3.26,7,33,37.4,4.3,37,0,
+E21758,Customer Service,M111,0,7.3,-0.074,4.21,4,23,22.1,3.0,34,1,competitor offered a dollar more
+E21759,Fulfillment Center,M144,1,17.9,-0.002,1.8,12,23,10.0,3.7,50,0,
+E21760,Fulfillment Center,M144,0,3.3,0.007,4.32,3,13,15.4,3.4,49,0,
+E21761,Delivery Station,M118,0,12.8,0.001,4.3,9,26,15.3,2.6,35,1,burned out from peak overtime
+E21762,Customer Service,M123,0,12.1,0.046,2.85,12,31,11.0,3.3,4,1,"too many hours, no life outside work"
+E21763,Fulfillment Center,M128,0,4.1,0.049,4.06,5,13,27.2,3.1,2,0,
+E21764,Sort Center,M121,0,3.6,-0.002,3.94,5,35,16.2,3.3,19,0,
+E21765,Fulfillment Center,M104,1,18.3,-0.008,1.87,10,18,27.1,3.7,60,0,
+E21766,Sort Center,M113,0,12.7,-0.004,2.95,9,27,30.7,3.9,15,0,
+E21767,Customer Service,M131,1,5.9,0.037,4.14,7,16,16.6,2.8,41,0,
+E21768,Delivery Station,M102,0,14.9,-0.108,2.72,2,36,18.0,3.0,49,1,burned out from peak overtime
+E21769,Delivery Station,M130,0,6.4,0.087,3.4,7,35,10.9,3.2,58,0,
+E21770,Fulfillment Center,M136,0,3.3,-0.195,2.28,12,18,23.4,4.3,49,1,found a job paying more nearby
+E21771,Delivery Station,M130,1,12.1,-0.031,2.63,10,34,13.5,3.4,27,1,"too many hours, no life outside work"
+E21772,Sort Center,M113,0,15.4,0.037,3.54,5,34,5.1,4.0,38,0,
+E21773,Fulfillment Center,M116,0,0.4,0.022,4.41,2,17,29.2,2.8,13,0,
+E21774,Sort Center,M133,0,7.2,-0.053,4.03,8,11,27.8,3.3,51,0,
+E21775,Sort Center,M145,0,13.6,0.03,2.86,5,21,19.2,3.1,15,0,
+E21776,Fulfillment Center,M132,0,6.0,-0.109,3.52,3,8,12.9,2.7,12,0,
+E21777,Sort Center,M137,1,10.3,-0.027,4.73,6,18,24.5,3.2,7,0,
+E21778,Sort Center,M133,0,4.4,-0.06,3.39,0,2,31.5,4.7,47,0,
+E21779,Customer Service,M111,1,6.0,0.035,2.37,8,27,38.6,3.1,48,0,
+E21780,Fulfillment Center,M140,0,4.7,0.04,3.8,6,2,20.1,2.7,40,0,
+E21781,Customer Service,M147,1,8.3,-0.009,4.03,8,4,23.5,3.0,7,0,
+E21782,Sort Center,M141,0,5.8,-0.085,3.01,0,3,12.7,2.2,54,0,
+E21783,Customer Service,M103,0,2.9,-0.06,2.79,4,3,17.4,2.1,33,0,
+E21784,Sort Center,M113,0,11.0,-0.01,3.61,1,25,13.6,4.0,37,0,
+E21785,Fulfillment Center,M132,0,8.3,-0.045,2.51,5,30,12.7,2.6,34,0,
+E21786,Sort Center,M109,0,11.2,-0.049,3.75,8,36,17.6,3.1,43,1,mandatory extra time every week
+E21787,Sort Center,M121,1,7.5,-0.012,3.52,5,19,7.8,4.1,9,0,
+E21788,Sort Center,M109,0,6.1,-0.019,4.09,10,19,20.2,2.2,13,0,
+E21789,Sort Center,M137,1,7.3,-0.046,2.84,4,9,27.7,3.4,58,0,
+E21790,Fulfillment Center,M112,1,13.5,-0.093,2.82,8,8,15.6,2.9,56,0,
+E21791,Customer Service,M131,0,4.3,-0.004,3.34,4,23,28.6,3.9,47,0,
+E21792,Customer Service,M123,0,4.7,0.051,3.07,5,33,25.6,3.0,58,0,
+E21793,Sort Center,M145,0,14.8,0.016,2.33,5,16,11.0,2.8,49,0,
+E21794,Fulfillment Center,M124,0,17.3,-0.087,1.75,13,25,16.4,3.5,43,1,mandatory extra time every week
+E21795,Sort Center,M113,0,0.0,-0.081,4.87,10,18,9.4,3.4,25,0,
+E21796,Fulfillment Center,M116,0,21.2,0.038,2.4,7,34,26.9,3.5,34,1,burned out from peak overtime
+E21797,Delivery Station,M102,0,10.3,-0.009,3.29,11,24,3.6,2.6,10,1,mandatory extra time every week
+E21798,Fulfillment Center,M116,0,6.3,-0.14,2.99,6,29,18.4,3.6,37,1,pay did not keep up
+E21799,Delivery Station,M122,0,4.2,-0.047,3.87,6,13,25.4,2.9,49,0,
+E21800,Delivery Station,M110,1,13.7,-0.071,1.44,6,19,18.7,3.1,13,0,
+E21801,Fulfillment Center,M132,1,10.1,-0.056,2.63,10,19,25.9,2.5,33,1,mandatory extra time every week
+E21802,Delivery Station,M138,0,3.5,-0.109,3.97,4,25,23.6,3.4,38,0,
+E21803,Fulfillment Center,M120,1,13.6,-0.106,3.18,3,19,32.5,3.7,53,0,
+E21804,Sort Center,M145,0,19.6,-0.001,1.67,10,22,32.4,3.1,28,1,burned out from peak overtime
+E21805,Delivery Station,M118,1,6.7,-0.03,3.01,2,33,13.5,3.4,54,0,
+E21806,Delivery Station,M106,0,5.5,0.052,2.63,11,8,14.8,3.0,5,0,
+E21807,Delivery Station,M146,0,9.7,0.036,2.18,8,28,0.0,3.1,40,1,no path to promotion
+E21808,Sort Center,M133,1,17.2,-0.01,1.4,3,28,18.9,2.4,11,1,mandatory extra time every week
+E21809,Sort Center,M137,0,9.7,0.043,3.76,6,33,16.2,3.0,39,0,
+E21810,Fulfillment Center,M116,1,7.6,-0.017,3.06,5,19,14.0,3.0,29,0,
+E21811,Delivery Station,M114,0,2.0,-0.055,3.93,8,2,18.2,3.2,27,0,
+E21812,Customer Service,M119,1,0.0,-0.072,4.23,3,8,14.7,4.1,47,0,
+E21813,Delivery Station,M118,1,12.2,-0.034,3.04,8,35,18.5,3.8,23,0,
+E21814,Fulfillment Center,M136,1,3.3,0.008,3.11,5,10,0.0,1.8,24,1,manager never listened
+E21815,Fulfillment Center,M144,0,0.0,-0.093,4.08,4,15,17.9,3.1,56,0,
+E21816,Fulfillment Center,M104,0,14.1,-0.092,1.52,6,4,21.1,3.1,56,1,"too many hours, no life outside work"
+E21817,Customer Service,M107,1,0.6,0.068,4.58,6,2,0.7,3.2,33,0,
+E21818,Delivery Station,M146,1,14.4,0.029,3.7,6,35,21.2,4.4,57,0,
+E21819,Delivery Station,M114,0,4.7,0.009,3.29,6,34,22.6,3.4,28,0,
+E21820,Delivery Station,M102,0,6.8,-0.031,2.89,6,15,28.7,4.2,37,0,
+E21821,Sort Center,M121,0,7.4,-0.044,2.85,5,21,22.3,2.3,43,1,family reasons
+E21822,Delivery Station,M130,1,11.5,0.021,2.89,12,25,4.6,3.9,31,0,
+E21823,Delivery Station,M106,0,15.3,-0.154,2.96,10,10,31.6,4.1,26,0,
+E21824,Customer Service,M111,0,1.4,-0.063,4.4,2,32,14.3,3.0,51,0,
+E21825,Delivery Station,M126,0,12.2,-0.054,4.4,8,22,23.7,4.1,36,0,
+E21826,Customer Service,M135,0,14.2,-0.046,3.45,8,11,22.6,3.2,23,0,
+E21827,Sort Center,M141,1,7.6,0.025,3.35,5,18,24.1,3.5,8,0,
+E21828,Sort Center,M125,0,7.9,-0.129,2.94,1,19,23.9,3.8,51,0,
+E21829,Sort Center,M121,0,0.0,-0.036,2.61,3,8,27.8,3.7,44,0,
+E21830,Fulfillment Center,M140,1,16.0,-0.005,1.69,8,34,0.8,3.8,30,1,"too many hours, no life outside work"
+E21831,Delivery Station,M142,0,8.0,0.102,3.64,4,9,22.7,3.0,18,0,
+E21832,Delivery Station,M110,0,0.5,-0.026,3.54,1,33,21.9,3.2,24,0,
+E21833,Fulfillment Center,M104,0,7.9,-0.025,2.32,5,20,18.6,3.9,60,1,felt disrespected by my supervisor
+E21834,Fulfillment Center,M128,0,13.2,0.064,2.13,9,17,29.0,4.2,15,1,mandatory extra time every week
+E21835,Fulfillment Center,M104,0,0.8,-0.076,1.69,5,6,38.4,3.2,42,1,pay did not keep up
+E21836,Delivery Station,M110,0,8.8,-0.081,3.1,8,11,26.4,4.1,40,0,
+E21837,Fulfillment Center,M108,0,4.3,-0.068,2.7,1,8,27.4,2.7,58,0,
+E21838,Sort Center,M113,0,16.3,-0.09,1.89,9,30,20.4,3.7,59,1,"too many hours, no life outside work"
+E21839,Customer Service,M103,0,7.2,0.018,2.83,9,27,25.2,3.3,21,1,no path to promotion
+E21840,Customer Service,M127,0,0.0,-0.068,2.71,4,35,26.6,3.5,10,1,pay did not keep up
+E21841,Sort Center,M101,0,11.8,-0.08,2.7,8,3,17.3,3.5,3,1,"too many hours, no life outside work"
+E21842,Fulfillment Center,M124,0,8.4,0.012,2.69,13,14,8.2,3.3,26,0,
+E21843,Delivery Station,M114,1,7.5,0.041,2.38,9,22,14.6,3.6,19,1,moved away
+E21844,Fulfillment Center,M140,0,9.7,-0.015,2.84,6,22,2.3,3.2,13,0,
+E21845,Sort Center,M113,1,11.3,0.076,2.33,5,25,19.2,3.4,6,0,
+E21846,Delivery Station,M122,1,1.5,-0.037,2.96,3,7,21.7,4.4,21,0,
+E21847,Customer Service,M127,0,2.1,-0.096,3.14,7,26,12.0,2.0,49,1,pay did not keep up
+E21848,Sort Center,M145,0,3.9,0.004,3.73,6,29,25.3,2.7,42,0,
+E21849,Sort Center,M109,1,1.8,-0.063,4.28,7,21,19.2,4.2,42,0,
+E21850,Fulfillment Center,M112,0,7.1,-0.07,3.63,4,17,10.5,2.6,9,0,
+E21851,Delivery Station,M106,1,9.7,-0.048,4.12,9,19,4.0,2.6,16,0,
+E21852,Sort Center,M125,0,14.2,-0.124,2.08,8,15,22.7,1.4,7,0,
+E21853,Fulfillment Center,M116,1,19.5,-0.055,2.51,6,2,31.8,4.1,49,1,mandatory extra time every week
+E21854,Sort Center,M109,0,13.2,-0.054,1.67,6,36,1.6,3.4,25,1,mandatory extra time every week
+E21855,Fulfillment Center,M128,1,14.3,0.028,3.25,5,29,18.9,3.3,22,0,
+E21856,Fulfillment Center,M116,0,0.0,-0.043,3.94,5,30,21.0,4.2,5,0,
+E21857,Customer Service,M103,1,0.0,-0.033,4.46,8,6,24.2,2.5,42,0,
+E21858,Sort Center,M101,1,12.7,-0.06,3.11,8,28,34.0,3.5,28,0,
+E21859,Sort Center,M137,0,11.1,-0.026,3.32,1,30,4.5,4.4,8,0,
+E21860,Delivery Station,M138,0,5.9,-0.033,4.45,7,3,21.5,4.1,10,0,
+E21861,Fulfillment Center,M132,0,11.0,-0.039,2.74,4,26,9.7,3.5,28,1,mandatory extra time every week
+E21862,Customer Service,M103,1,0.0,-0.095,3.44,2,13,33.3,2.1,19,1,pay did not keep up
+E21863,Customer Service,M111,1,7.4,0.022,3.66,11,34,16.6,2.6,28,0,
+E21864,Fulfillment Center,M116,1,10.2,0.089,4.55,16,16,35.1,4.9,43,0,
+E21865,Delivery Station,M138,0,8.0,-0.012,3.2,6,14,13.8,2.2,42,0,
+E21866,Sort Center,M113,0,6.4,-0.052,4.06,5,3,28.4,3.3,22,0,
+E21867,Fulfillment Center,M124,0,8.5,0.021,3.87,2,11,13.2,4.2,12,0,
+E21868,Delivery Station,M102,1,7.9,-0.075,3.86,9,36,8.6,3.7,26,1,pay did not keep up
+E21869,Sort Center,M109,0,7.7,-0.133,3.31,8,6,32.2,2.7,35,0,
+E21870,Customer Service,M139,1,3.4,0.006,2.64,6,5,16.7,4.4,30,0,
+E21871,Customer Service,M123,0,3.7,0.033,3.53,5,16,30.0,3.4,2,0,
+E21872,Customer Service,M127,1,2.7,-0.095,2.29,9,36,35.0,2.2,48,1,competitor offered a dollar more
+E21873,Customer Service,M127,1,4.4,-0.037,2.68,4,22,23.8,4.3,20,0,
+E21874,Customer Service,M127,0,9.6,0.011,1.19,1,33,10.5,3.4,59,1,unfair treatment by lead
+E21875,Fulfillment Center,M136,0,10.5,-0.025,3.28,2,16,17.2,3.3,23,0,
+E21876,Delivery Station,M134,0,8.8,-0.001,3.99,8,27,24.1,3.1,8,1,no path to promotion
+E21877,Delivery Station,M114,0,8.6,0.028,3.67,10,21,24.3,2.9,53,0,
+E21878,Delivery Station,M138,0,13.7,-0.131,3.97,13,30,23.1,3.6,1,1,"too many hours, no life outside work"
+E21879,Delivery Station,M138,1,14.2,0.008,3.52,10,30,8.8,3.8,44,0,
+E21880,Fulfillment Center,M140,1,6.9,-0.032,2.81,10,34,17.1,4.0,19,0,
+E21881,Customer Service,M147,1,6.3,-0.081,3.36,12,23,13.5,3.8,1,1,pay did not keep up
+E21882,Delivery Station,M114,1,13.5,0.013,4.05,7,24,8.6,4.4,14,1,"too many hours, no life outside work"
+E21883,Customer Service,M107,1,0.0,-0.026,3.15,1,4,15.3,1.6,29,1,moved away
+E21884,Customer Service,M107,1,0.0,0.013,3.52,3,13,17.2,5.0,31,0,
+E21885,Delivery Station,M102,0,2.7,-0.126,3.05,7,19,15.9,3.8,25,1,pay did not keep up
+E21886,Fulfillment Center,M100,0,8.4,-0.016,3.73,3,9,6.5,3.0,1,0,
+E21887,Delivery Station,M122,1,7.9,-0.127,2.3,8,17,5.0,3.4,7,1,competitor offered a dollar more
+E21888,Sort Center,M133,0,10.8,-0.072,2.79,5,29,24.2,3.6,8,1,"too many hours, no life outside work"
+E21889,Sort Center,M109,0,6.5,-0.051,3.62,8,13,11.0,2.6,55,0,
+E21890,Delivery Station,M142,0,13.1,-0.12,2.71,5,26,13.2,2.9,6,1,mandatory extra time every week
+E21891,Fulfillment Center,M124,1,7.0,0.029,3.44,8,8,20.2,3.1,40,0,
+E21892,Fulfillment Center,M136,0,4.9,-0.061,2.92,8,2,11.8,3.3,6,0,
+E21893,Fulfillment Center,M124,1,6.8,-0.112,3.28,3,36,7.3,2.9,17,1,pay did not keep up
+E21894,Customer Service,M123,0,3.7,-0.048,1.99,4,13,20.2,3.6,34,0,
+E21895,Delivery Station,M122,0,4.3,0.032,3.5,4,5,34.6,3.6,9,0,
+E21896,Sort Center,M101,0,7.9,-0.029,3.68,9,10,26.0,3.5,10,0,
+E21897,Fulfillment Center,M136,1,5.4,-0.011,1.79,5,31,12.9,3.3,52,0,
+E21898,Fulfillment Center,M144,1,17.3,-0.109,2.14,11,26,19.4,3.9,46,0,
+E21899,Sort Center,M141,0,5.4,0.05,2.14,2,17,5.7,4.2,22,1,family reasons
+E21900,Fulfillment Center,M100,0,8.1,-0.036,2.1,5,24,19.3,2.5,1,1,mandatory extra time every week
+E21901,Customer Service,M119,0,8.2,0.092,2.43,8,9,29.7,2.5,35,0,
+E21902,Fulfillment Center,M128,1,9.4,-0.042,3.72,1,24,24.0,3.6,58,0,
+E21903,Delivery Station,M134,0,6.8,-0.09,3.87,11,7,10.0,3.2,18,1,competitor offered a dollar more
+E21904,Delivery Station,M134,1,6.6,-0.106,2.06,9,36,10.5,3.4,58,1,pay did not keep up
+E21905,Fulfillment Center,M100,0,7.6,-0.076,2.62,6,20,16.9,3.5,3,0,
+E21906,Fulfillment Center,M104,0,0.0,-0.076,2.06,2,5,18.8,4.5,17,0,
+E21907,Fulfillment Center,M144,0,11.9,-0.052,2.25,6,8,17.9,2.8,34,0,
+E21908,Delivery Station,M138,1,4.1,-0.097,3.23,2,29,23.4,3.6,32,0,
+E21909,Customer Service,M103,1,6.0,0.023,3.55,9,6,33.6,2.9,57,0,
+E21910,Delivery Station,M122,0,10.2,-0.149,2.41,3,30,25.9,4.6,15,1,mandatory extra time every week
+E21911,Fulfillment Center,M144,0,7.9,-0.032,3.03,8,3,22.2,3.5,7,1,burned out from peak overtime
+E21912,Sort Center,M125,1,13.8,0.015,2.11,6,28,26.6,4.7,30,1,burned out from peak overtime
+E21913,Fulfillment Center,M128,1,7.5,-0.145,3.59,3,17,10.7,3.7,48,0,
+E21914,Fulfillment Center,M116,0,5.7,0.055,3.59,8,6,11.6,2.6,45,0,
+E21915,Fulfillment Center,M112,0,6.3,-0.103,2.71,8,14,16.0,3.9,11,1,pay did not keep up
+E21916,Customer Service,M147,0,4.1,-0.045,2.3,8,27,21.5,3.5,2,1,no path to promotion
+E21917,Customer Service,M143,1,8.1,0.013,3.55,1,10,9.4,4.1,46,0,
+E21918,Sort Center,M105,0,8.1,0.024,2.02,0,22,18.3,1.4,18,1,went back to school
+E21919,Customer Service,M119,0,5.9,-0.101,3.94,6,22,12.6,3.3,11,0,
+E21920,Delivery Station,M118,1,12.0,-0.067,2.34,8,21,25.2,3.6,42,1,mandatory extra time every week
+E21921,Fulfillment Center,M136,1,3.8,-0.066,2.78,7,30,26.2,2.5,32,1,pay did not keep up
+E21922,Fulfillment Center,M104,1,9.0,-0.094,2.41,5,29,10.0,3.4,8,1,pay did not keep up
+E21923,Sort Center,M101,1,14.3,0.116,3.38,5,32,19.6,2.8,31,0,
+E21924,Customer Service,M115,0,0.9,-0.037,4.58,0,23,20.5,3.8,1,0,
+E21925,Fulfillment Center,M100,0,6.0,-0.062,3.08,4,31,19.5,2.8,36,1,found a job paying more nearby
+E21926,Fulfillment Center,M132,0,6.0,-0.078,2.27,12,28,11.8,4.4,19,0,
+E21927,Customer Service,M111,0,2.4,-0.094,3.41,7,18,5.6,3.4,35,0,
+E21928,Customer Service,M139,0,0.0,0.02,2.78,5,23,28.1,2.8,16,0,
+E21929,Delivery Station,M126,0,5.1,-0.082,2.81,7,27,8.1,2.5,55,1,pay did not keep up
+E21930,Customer Service,M139,0,3.0,-0.021,4.42,9,23,28.4,2.8,28,0,
+E21931,Sort Center,M121,0,12.2,-0.029,3.5,9,31,19.7,3.3,46,0,
+E21932,Delivery Station,M134,0,0.0,-0.021,3.57,6,34,29.3,4.1,56,0,
+E21933,Sort Center,M117,1,15.2,0.053,3.33,9,15,21.3,3.6,36,1,burned out from peak overtime
+E21934,Fulfillment Center,M140,0,4.4,-0.092,3.76,3,20,2.7,3.6,29,0,
+E21935,Customer Service,M103,0,0.0,-0.062,3.24,7,3,11.0,3.5,27,0,
+E21936,Fulfillment Center,M140,1,20.4,-0.038,1.0,7,16,12.1,2.9,5,1,burned out from peak overtime
+E21937,Delivery Station,M114,1,14.7,0.042,2.69,8,5,18.6,3.4,51,0,
+E21938,Customer Service,M127,0,0.0,0.042,2.85,9,26,21.8,4.6,26,1,unfair treatment by lead
+E21939,Customer Service,M139,0,5.4,-0.021,2.92,8,26,18.3,3.8,36,0,
+E21940,Fulfillment Center,M140,1,16.4,0.029,2.72,8,36,15.4,3.7,60,0,
+E21941,Delivery Station,M146,0,8.8,0.012,3.45,10,6,21.5,2.7,11,0,
+E21942,Fulfillment Center,M140,0,9.1,-0.025,2.72,6,12,30.4,3.3,14,0,
+E21943,Delivery Station,M122,0,11.7,0.015,1.42,7,9,16.9,3.7,55,0,
+E21944,Sort Center,M137,0,3.5,-0.064,3.56,9,19,27.7,3.2,57,0,
+E21945,Fulfillment Center,M108,0,16.7,-0.003,2.75,8,27,16.1,2.8,11,0,
+E21946,Fulfillment Center,M100,1,19.9,-0.024,1.56,14,13,21.9,2.8,30,0,
+E21947,Fulfillment Center,M136,0,3.6,-0.119,3.25,8,26,7.0,3.9,29,1,pay did not keep up
+E21948,Delivery Station,M122,0,4.3,0.063,3.3,2,14,19.3,2.3,12,0,
+E21949,Sort Center,M101,1,12.7,0.075,4.5,4,3,22.6,4.0,43,0,
+E21950,Customer Service,M127,0,0.0,-0.11,2.6,4,2,27.1,3.4,35,1,found a job paying more nearby
+E21951,Fulfillment Center,M124,0,10.1,0.032,2.99,4,13,21.0,3.5,16,0,
+E21952,Fulfillment Center,M104,0,10.4,-0.054,2.17,10,24,36.5,2.8,5,1,"too many hours, no life outside work"
+E21953,Fulfillment Center,M100,1,9.8,0.021,2.87,5,14,18.3,2.7,28,1,"too many hours, no life outside work"
+E21954,Sort Center,M133,0,8.8,-0.021,3.28,13,16,19.9,3.0,36,0,
+E21955,Customer Service,M135,0,3.8,-0.031,2.49,6,11,24.4,2.8,42,0,
+E21956,Customer Service,M147,1,6.7,-0.028,4.06,10,24,12.9,3.2,50,0,
+E21957,Sort Center,M117,0,4.4,0.065,2.03,2,7,6.1,2.5,6,0,
+E21958,Sort Center,M117,1,13.2,-0.031,1.5,14,4,21.2,2.6,44,1,mandatory extra time every week
+E21959,Sort Center,M137,1,12.4,-0.05,1.96,13,15,22.1,2.9,40,0,
+E21960,Delivery Station,M130,0,10.2,0.024,3.63,10,24,34.2,3.5,54,0,
+E21961,Delivery Station,M134,0,6.3,-0.082,3.45,3,10,26.8,4.0,35,0,
+E21962,Sort Center,M137,1,24.2,0.031,2.55,10,10,17.5,1.8,30,0,
+E21963,Sort Center,M145,0,4.4,0.124,3.21,6,23,23.3,2.9,39,0,
+E21964,Customer Service,M103,0,2.5,-0.04,3.32,6,16,23.7,3.6,18,1,moved away
+E21965,Sort Center,M109,0,2.6,-0.013,3.93,8,17,22.6,3.4,4,0,
+E21966,Fulfillment Center,M144,0,4.2,0.037,2.26,8,3,26.7,2.7,38,0,
+E21967,Sort Center,M101,0,7.3,-0.004,2.5,8,17,1.4,2.7,22,0,
+E21968,Sort Center,M141,0,9.1,0.058,2.93,8,28,17.2,4.1,39,0,
+E21969,Sort Center,M105,0,8.4,-0.01,3.35,5,33,0.0,4.3,22,1,no path to promotion
+E21970,Customer Service,M143,1,4.1,-0.033,2.89,5,7,17.7,3.8,10,0,
+E21971,Customer Service,M147,1,0.1,-0.084,3.18,4,16,16.1,2.5,23,0,
+E21972,Fulfillment Center,M100,0,0.0,0.03,4.7,0,5,25.3,4.3,10,0,
+E21973,Fulfillment Center,M132,0,8.4,-0.073,3.88,9,12,31.0,3.2,52,0,
+E21974,Delivery Station,M138,0,2.5,-0.122,2.46,2,18,30.4,3.5,57,1,pay did not keep up
+E21975,Sort Center,M121,0,3.0,-0.009,3.66,2,33,32.3,3.0,4,0,
+E21976,Fulfillment Center,M140,0,8.8,-0.101,3.73,13,5,21.2,2.7,56,0,
+E21977,Customer Service,M143,0,0.0,-0.089,4.12,0,9,6.0,3.2,54,0,
+E21978,Fulfillment Center,M100,0,11.1,-0.082,3.48,7,17,28.6,2.9,30,1,"too many hours, no life outside work"
+E21979,Sort Center,M133,0,6.2,-0.036,2.53,3,4,25.9,2.3,44,0,
+E21980,Delivery Station,M106,1,7.4,-0.05,4.0,9,12,11.4,3.5,53,0,
+E21981,Delivery Station,M142,0,1.3,0.04,4.62,3,9,27.5,4.1,35,0,
+E21982,Sort Center,M121,0,3.5,-0.007,2.93,3,2,17.1,2.2,9,0,
+E21983,Sort Center,M105,0,8.4,-0.074,4.68,12,33,39.1,3.9,46,0,
+E21984,Sort Center,M105,0,7.1,-0.004,3.08,2,5,14.2,3.7,37,0,
+E21985,Sort Center,M113,0,7.4,-0.097,3.87,4,14,37.5,3.0,3,0,
+E21986,Fulfillment Center,M144,0,12.6,0.03,3.34,0,21,15.7,2.3,21,0,
+E21987,Customer Service,M147,1,0.0,0.06,3.42,9,24,22.6,2.9,12,0,
+E21988,Fulfillment Center,M124,1,11.8,-0.033,3.43,11,13,27.2,3.3,40,0,
+E21989,Delivery Station,M134,1,11.2,-0.037,2.05,8,12,15.2,3.7,20,0,
+E21990,Fulfillment Center,M108,1,12.1,-0.001,3.4,11,18,0.0,2.6,18,1,mandatory extra time every week
+E21991,Delivery Station,M102,1,8.9,-0.074,3.15,5,10,9.0,3.2,2,1,pay did not keep up
+E21992,Customer Service,M135,0,2.7,-0.082,2.68,4,22,28.0,2.6,6,0,
+E21993,Sort Center,M121,0,8.8,-0.072,3.68,8,21,7.5,3.6,19,1,competitor offered a dollar more
+E21994,Delivery Station,M114,0,4.1,-0.121,3.15,9,17,26.5,3.4,36,1,competitor offered a dollar more
+E21995,Delivery Station,M142,0,2.9,-0.066,4.43,8,29,18.5,2.9,26,0,
+E21996,Sort Center,M137,0,6.9,-0.017,3.41,3,34,19.0,3.9,38,0,
+E21997,Sort Center,M129,0,7.3,0.037,3.49,8,31,12.9,1.7,20,1,no path to promotion
+E21998,Sort Center,M129,1,18.0,-0.022,1.64,10,8,22.3,4.0,58,0,
+E21999,Sort Center,M121,0,0.0,0.106,3.7,7,13,13.8,2.1,33,0,
+E22000,Sort Center,M129,1,13.0,-0.026,2.4,7,29,25.3,3.6,58,1,burned out from peak overtime
+E22001,Delivery Station,M138,1,5.1,-0.123,3.29,5,19,23.8,3.2,23,1,competitor offered a dollar more
+E22002,Customer Service,M135,1,4.1,-0.071,3.53,0,11,27.8,3.6,16,0,
+E22003,Fulfillment Center,M136,0,13.4,-0.003,2.11,0,21,26.8,3.6,14,1,mandatory extra time every week
+E22004,Sort Center,M117,0,6.8,-0.033,2.97,2,4,23.1,2.7,57,0,
+E22005,Fulfillment Center,M108,0,11.0,-0.024,1.3,11,32,21.5,3.9,24,1,mandatory extra time every week
+E22006,Delivery Station,M106,0,8.7,-0.051,2.06,7,8,23.2,2.5,43,1,"too many hours, no life outside work"
+E22007,Fulfillment Center,M128,0,2.7,0.077,4.27,4,21,39.8,3.9,41,0,
+E22008,Sort Center,M133,0,9.6,-0.086,1.95,6,35,18.3,3.4,52,0,
+E22009,Sort Center,M145,1,13.7,0.026,2.64,5,7,25.9,3.3,59,0,
+E22010,Customer Service,M147,1,0.0,-0.036,4.14,8,24,18.2,4.0,14,0,
+E22011,Fulfillment Center,M112,0,4.7,-0.106,4.77,6,9,33.5,2.3,39,0,
+E22012,Fulfillment Center,M104,0,18.0,0.017,3.01,13,31,18.0,2.9,55,1,mandatory extra time every week
+E22013,Fulfillment Center,M112,0,14.6,0.006,4.52,1,19,7.0,3.0,27,0,
+E22014,Customer Service,M127,0,1.9,-0.102,1.93,10,31,19.6,3.1,58,0,
+E22015,Fulfillment Center,M136,1,12.5,0.055,3.04,3,6,26.9,3.5,46,1,mandatory extra time every week
+E22016,Customer Service,M111,0,5.2,-0.082,4.74,0,21,23.2,3.5,37,0,
+E22017,Delivery Station,M102,1,10.5,-0.101,2.31,7,17,34.2,3.9,60,0,
+E22018,Delivery Station,M122,1,7.1,-0.191,2.96,11,13,10.5,3.1,19,1,competitor offered a dollar more
+E22019,Fulfillment Center,M144,1,4.9,0.059,3.87,4,34,33.4,2.2,27,0,
+E22020,Delivery Station,M126,0,0.0,-0.046,4.12,4,16,29.0,2.5,44,0,
+E22021,Sort Center,M101,0,10.0,-0.08,3.65,5,14,12.8,3.7,34,1,competitor offered a dollar more
+E22022,Sort Center,M101,0,0.5,0.021,3.29,0,13,0.0,3.8,32,0,
+E22023,Customer Service,M103,1,6.6,-0.077,3.91,12,27,28.7,3.4,58,0,
+E22024,Sort Center,M121,0,1.3,-0.076,2.53,5,2,18.7,2.7,44,0,
+E22025,Sort Center,M117,1,14.5,0.026,1.72,8,25,16.2,3.3,42,1,"too many hours, no life outside work"
+E22026,Sort Center,M137,0,2.1,-0.007,3.88,7,35,26.2,2.3,41,0,
+E22027,Delivery Station,M106,0,5.7,-0.017,2.04,4,20,2.3,4.6,31,0,
+E22028,Customer Service,M119,0,5.7,0.029,2.22,9,26,17.4,3.1,22,1,same role for two years
+E22029,Delivery Station,M122,0,12.4,0.014,2.93,13,10,14.5,4.7,15,1,mandatory extra time every week
+E22030,Fulfillment Center,M116,1,7.6,-0.052,3.78,6,13,18.5,1.6,46,0,
+E22031,Customer Service,M115,0,2.0,0.054,3.45,1,16,10.9,4.4,48,0,
+E22032,Sort Center,M117,0,8.4,-0.007,2.6,4,33,12.2,2.4,39,0,
+E22033,Fulfillment Center,M116,0,8.6,-0.007,4.81,9,3,25.5,3.2,53,0,
+E22034,Fulfillment Center,M100,0,1.0,-0.08,3.87,7,29,9.7,3.5,14,0,
+E22035,Delivery Station,M114,0,9.2,0.002,4.25,7,10,14.6,2.3,8,0,
+E22036,Customer Service,M147,0,4.2,0.003,4.28,5,19,11.5,3.1,45,0,
+E22037,Fulfillment Center,M116,0,5.6,-0.142,3.74,9,3,26.2,3.8,44,0,
+E22038,Fulfillment Center,M144,0,10.1,-0.069,2.96,7,32,3.9,2.3,55,1,mandatory extra time every week
+E22039,Fulfillment Center,M132,0,19.4,-0.085,2.94,13,18,23.9,3.9,21,0,
+E22040,Sort Center,M141,1,7.2,-0.011,2.16,10,35,20.0,4.1,11,0,
+E22041,Fulfillment Center,M112,1,11.6,-0.09,3.82,13,35,17.1,3.4,17,0,
+E22042,Customer Service,M147,0,2.4,-0.08,3.16,8,4,0.2,3.4,17,0,
+E22043,Sort Center,M141,0,12.9,0.048,2.87,10,15,6.6,3.6,53,0,
+E22044,Fulfillment Center,M100,0,8.0,-0.011,3.98,7,28,16.4,2.6,53,0,
+E22045,Delivery Station,M146,0,11.3,-0.004,3.84,5,10,28.2,3.3,19,0,
+E22046,Fulfillment Center,M128,0,10.1,0.01,2.21,11,32,14.3,4.4,6,0,
+E22047,Fulfillment Center,M116,0,0.0,0.009,2.25,3,3,13.2,2.6,5,0,
+E22048,Fulfillment Center,M108,0,12.7,-0.1,2.04,10,6,6.9,4.4,38,0,
+E22049,Delivery Station,M130,0,6.3,-0.059,3.25,8,30,7.2,4.2,60,0,
+E22050,Fulfillment Center,M128,0,6.3,0.056,3.23,5,3,15.6,2.8,9,0,
+E22051,Delivery Station,M114,1,14.2,-0.051,3.58,3,32,29.7,4.8,37,0,
+E22052,Delivery Station,M102,0,4.2,-0.054,3.35,9,20,10.3,2.5,5,1,went back to school
+E22053,Fulfillment Center,M140,0,12.4,-0.009,2.92,12,18,18.1,3.9,27,0,
+E22054,Sort Center,M109,0,1.4,-0.048,4.03,6,7,21.9,3.0,57,0,
+E22055,Sort Center,M129,0,0.2,-0.029,2.89,3,13,18.1,2.6,12,1,mandatory extra time every week
+E22056,Fulfillment Center,M100,0,3.0,0.005,3.59,8,4,35.0,3.7,59,0,
+E22057,Delivery Station,M138,0,7.2,-0.032,2.52,8,4,31.0,3.8,16,0,
+E22058,Fulfillment Center,M104,0,12.6,-0.184,3.72,3,7,22.5,3.5,60,0,
+E22059,Customer Service,M111,1,1.5,-0.043,2.09,5,20,23.8,3.0,57,0,
+E22060,Sort Center,M101,1,10.0,-0.127,2.95,9,20,23.4,3.0,11,1,mandatory extra time every week
+E22061,Fulfillment Center,M128,0,5.8,-0.131,3.69,5,29,30.5,3.2,57,1,pay did not keep up
+E22062,Delivery Station,M146,1,10.6,-0.085,2.91,12,22,27.4,3.4,48,0,
+E22063,Sort Center,M129,1,8.9,0.09,4.55,1,34,15.4,2.8,4,0,
+E22064,Delivery Station,M126,1,6.8,-0.019,4.2,7,35,14.8,3.6,37,1,same role for two years
+E22065,Customer Service,M103,0,4.8,0.002,3.34,3,3,31.4,2.7,55,0,
+E22066,Delivery Station,M114,0,4.3,0.033,4.35,8,32,14.1,5.0,9,0,
+E22067,Fulfillment Center,M112,1,10.7,-0.019,2.71,8,35,20.9,5.0,7,0,
+E22068,Sort Center,M145,1,13.6,0.08,2.24,7,4,23.0,3.8,15,0,
+E22069,Customer Service,M111,0,1.5,-0.023,4.64,2,26,20.6,3.7,8,0,
+E22070,Customer Service,M139,1,0.5,0.071,3.5,3,20,12.3,3.4,15,0,
+E22071,Sort Center,M109,0,6.5,0.001,3.28,5,31,19.1,3.2,55,0,
+E22072,Sort Center,M141,0,8.4,-0.035,2.93,9,2,30.6,3.5,33,1,moved away
+E22073,Fulfillment Center,M140,0,8.2,0.101,2.58,3,15,21.3,3.4,10,0,
+E22074,Sort Center,M105,0,8.3,-0.107,2.22,5,29,21.9,4.6,35,1,competitor offered a dollar more
+E22075,Fulfillment Center,M144,1,22.3,-0.109,2.2,9,35,26.0,2.5,57,1,burned out from peak overtime
+E22076,Fulfillment Center,M116,0,10.7,0.018,4.14,7,19,22.8,2.7,37,0,
+E22077,Delivery Station,M146,0,9.9,0.002,3.93,1,2,17.5,2.8,57,0,
+E22078,Delivery Station,M126,1,10.4,-0.098,2.33,9,27,6.5,3.1,34,1,burned out from peak overtime
+E22079,Customer Service,M107,0,0.0,0.018,3.4,8,19,19.3,5.0,28,0,
+E22080,Sort Center,M113,0,12.1,0.002,2.39,6,22,30.2,2.3,28,0,
+E22081,Fulfillment Center,M116,1,12.3,0.038,2.12,5,31,16.0,4.1,44,0,
+E22082,Sort Center,M121,0,12.5,-0.033,3.45,10,3,18.4,3.0,23,1,burned out from peak overtime
+E22083,Customer Service,M123,0,0.0,0.049,2.52,0,4,18.9,2.5,31,0,
+E22084,Sort Center,M121,1,20.2,-0.004,3.38,5,24,4.8,3.5,2,0,
+E22085,Customer Service,M147,1,0.0,-0.073,3.74,3,10,6.0,1.9,30,0,
+E22086,Delivery Station,M138,1,6.9,0.03,3.75,6,14,16.6,2.7,7,1,mandatory extra time every week
+E22087,Customer Service,M143,1,0.0,0.014,3.02,6,7,44.7,2.8,21,0,
+E22088,Customer Service,M147,0,0.0,0.112,3.95,2,8,21.9,3.2,39,0,
+E22089,Customer Service,M143,0,5.9,-0.034,2.96,9,19,4.8,1.5,8,1,moved away
+E22090,Fulfillment Center,M120,0,9.1,-0.029,4.68,9,10,33.9,2.4,28,0,
+E22091,Fulfillment Center,M132,1,16.6,-0.128,3.26,11,20,14.3,3.6,21,0,
+E22092,Customer Service,M131,0,0.0,-0.044,3.26,2,12,6.3,4.6,19,0,
+E22093,Sort Center,M125,1,17.1,-0.02,2.43,7,26,0.0,2.6,13,1,burned out from peak overtime
+E22094,Fulfillment Center,M124,0,5.5,0.029,4.59,7,30,6.4,3.7,20,0,
+E22095,Customer Service,M107,0,14.7,0.02,2.1,8,34,30.3,3.0,37,1,burned out from peak overtime
+E22096,Fulfillment Center,M128,0,7.7,-0.017,2.09,5,20,6.9,2.9,42,1,mandatory extra time every week
+E22097,Sort Center,M109,0,6.6,-0.111,3.17,8,13,26.9,3.5,12,0,
+E22098,Delivery Station,M126,0,10.9,0.024,2.69,8,32,0.0,3.5,33,0,
+E22099,Sort Center,M117,1,7.8,-0.056,3.45,4,25,8.3,3.5,47,1,unfair treatment by lead
+E22100,Fulfillment Center,M112,0,18.1,-0.044,2.83,4,16,10.3,3.5,20,0,
+E22101,Sort Center,M125,0,1.1,0.031,2.68,2,31,32.1,2.5,18,0,
+E22102,Sort Center,M117,0,12.3,-0.054,3.09,11,24,34.1,3.6,59,1,mandatory extra time every week
+E22103,Sort Center,M117,1,11.5,-0.037,2.84,3,36,16.4,4.6,52,1,"too many hours, no life outside work"
+E22104,Fulfillment Center,M132,0,0.0,-0.003,1.89,3,33,18.0,2.9,58,0,
+E22105,Sort Center,M105,0,2.8,0.085,3.89,2,5,26.6,2.8,16,0,
+E22106,Customer Service,M103,0,1.8,-0.092,4.12,2,33,20.6,2.2,41,0,
+E22107,Delivery Station,M122,0,7.8,-0.008,1.97,5,13,22.8,3.0,41,0,
+E22108,Delivery Station,M106,0,1.2,-0.054,3.61,4,4,11.1,1.9,58,0,
+E22109,Fulfillment Center,M144,1,21.2,-0.033,1.56,12,28,13.1,2.8,11,1,burned out from peak overtime
+E22110,Customer Service,M115,0,0.0,0.031,3.58,4,22,26.5,2.7,8,0,
+E22111,Fulfillment Center,M140,0,0.0,0.1,4.16,7,11,34.4,3.4,47,0,
+E22112,Customer Service,M123,0,0.2,-0.06,3.66,0,2,15.2,1.8,27,0,
+E22113,Fulfillment Center,M120,0,8.3,0.057,3.55,4,16,17.5,3.0,30,0,
+E22114,Fulfillment Center,M132,0,7.0,-0.002,2.54,7,23,28.0,3.6,4,1,went back to school
+E22115,Sort Center,M105,1,15.2,-0.041,2.58,5,23,11.2,2.3,21,1,mandatory extra time every week
+E22116,Delivery Station,M126,0,9.0,-0.009,3.46,9,35,18.8,3.0,48,0,
+E22117,Fulfillment Center,M140,1,1.9,0.004,4.26,10,18,24.6,4.2,11,0,
+E22118,Customer Service,M123,0,0.0,-0.031,3.81,4,19,32.1,2.7,31,0,
+E22119,Customer Service,M119,0,0.0,-0.132,3.94,4,3,10.6,1.9,55,0,
+E22120,Delivery Station,M138,0,2.7,-0.044,3.8,4,20,17.5,3.9,36,0,
+E22121,Sort Center,M105,0,3.0,-0.085,2.29,8,24,22.2,3.3,25,0,
+E22122,Delivery Station,M138,0,5.5,-0.058,5.0,8,32,30.3,4.1,16,0,
+E22123,Fulfillment Center,M132,0,9.8,-0.043,3.04,5,28,27.4,2.2,16,0,
+E22124,Customer Service,M143,1,4.4,-0.01,3.16,8,2,17.4,3.4,21,0,
+E22125,Fulfillment Center,M112,1,19.1,0.038,1.81,6,20,21.8,3.0,29,1,burned out from peak overtime
+E22126,Fulfillment Center,M140,0,17.9,0.006,1.76,15,19,27.9,3.5,60,0,
+E22127,Customer Service,M147,0,2.8,0.053,3.74,10,31,18.2,4.0,14,0,
+E22128,Fulfillment Center,M140,1,11.6,-0.175,3.21,9,32,19.3,3.4,29,1,mandatory extra time every week
+E22129,Customer Service,M147,0,0.2,0.051,4.27,5,27,24.9,2.4,57,0,
+E22130,Fulfillment Center,M136,0,2.5,-0.025,2.95,7,4,0.0,3.8,27,1,felt disrespected by my supervisor
+E22131,Fulfillment Center,M132,0,7.4,0.031,3.47,7,23,29.0,3.4,45,0,
+E22132,Fulfillment Center,M132,0,3.6,-0.046,3.59,8,36,4.7,3.2,21,0,
+E22133,Sort Center,M109,0,9.1,-0.029,3.62,7,10,7.4,3.4,47,1,went back to school
+E22134,Sort Center,M125,1,8.0,-0.074,2.66,1,11,14.0,2.6,52,1,pay did not keep up
+E22135,Fulfillment Center,M144,0,13.5,-0.105,1.85,9,28,16.0,3.6,1,1,"too many hours, no life outside work"
+E22136,Delivery Station,M142,1,3.5,-0.072,2.67,6,26,14.0,3.1,22,0,
+E22137,Sort Center,M145,0,4.0,0.045,3.18,9,16,15.1,3.2,56,0,
+E22138,Fulfillment Center,M120,0,7.4,0.062,3.96,9,5,7.4,3.4,58,0,
+E22139,Customer Service,M139,0,9.3,0.011,3.88,5,5,13.3,3.9,7,0,
+E22140,Customer Service,M123,1,0.0,-0.061,4.21,0,17,11.6,3.1,19,1,found a job paying more nearby
+E22141,Fulfillment Center,M112,0,5.0,-0.064,4.27,5,36,12.2,2.9,31,0,
+E22142,Fulfillment Center,M116,1,0.9,-0.027,3.36,2,17,26.2,1.3,25,0,
+E22143,Delivery Station,M146,0,5.0,0.0,3.72,3,29,37.0,3.9,5,1,same role for two years
+E22144,Fulfillment Center,M124,0,10.3,-0.155,2.84,5,11,24.9,1.9,16,1,mandatory extra time every week
+E22145,Delivery Station,M110,0,10.7,0.068,2.86,9,24,22.9,3.2,15,0,
+E22146,Sort Center,M133,0,8.6,-0.033,2.88,8,17,16.2,2.6,34,0,
+E22147,Fulfillment Center,M100,0,7.9,-0.033,2.67,5,13,19.0,2.2,20,0,
+E22148,Delivery Station,M126,0,12.2,-0.092,2.47,2,28,29.8,4.5,59,0,
+E22149,Delivery Station,M138,0,4.7,-0.032,3.28,6,16,19.7,2.4,56,0,
+E22150,Customer Service,M123,1,0.4,0.027,3.54,4,26,17.8,1.7,14,0,
+E22151,Customer Service,M111,0,1.9,-0.082,3.33,4,11,24.5,2.8,58,0,
+E22152,Sort Center,M113,1,18.4,-0.032,3.5,5,11,12.3,1.7,60,0,
+E22153,Fulfillment Center,M124,0,7.8,0.006,3.59,2,3,18.1,3.6,12,0,
+E22154,Customer Service,M119,0,2.1,-0.013,4.37,4,36,7.9,3.7,18,0,
+E22155,Delivery Station,M126,1,0.5,-0.068,3.17,4,19,31.5,2.4,23,0,
+E22156,Delivery Station,M126,0,10.8,0.025,3.51,4,17,22.5,2.5,21,0,
+E22157,Customer Service,M115,0,7.7,-0.065,3.06,3,26,12.0,4.0,34,1,pay did not keep up
+E22158,Sort Center,M137,1,8.9,0.003,3.02,5,18,3.8,3.1,53,1,"too many hours, no life outside work"
+E22159,Fulfillment Center,M132,0,4.9,-0.097,3.07,11,11,12.7,2.5,25,0,
+E22160,Delivery Station,M134,0,5.1,-0.087,2.75,7,9,17.3,2.8,6,0,
+E22161,Sort Center,M101,0,13.6,-0.135,2.81,5,35,27.5,3.4,47,1,mandatory extra time every week
+E22162,Fulfillment Center,M120,0,10.2,-0.022,3.18,7,31,33.9,3.7,45,0,
+E22163,Customer Service,M103,0,2.6,-0.077,2.91,6,32,11.6,3.8,58,0,
+E22164,Delivery Station,M142,0,10.8,-0.059,3.35,9,15,33.3,4.8,14,0,
+E22165,Customer Service,M103,1,1.5,-0.037,4.2,1,23,8.5,2.9,53,0,
+E22166,Delivery Station,M138,0,6.5,-0.091,1.57,3,11,22.4,3.5,26,0,
+E22167,Delivery Station,M130,1,12.7,-0.043,3.6,8,30,29.6,2.9,60,0,
+E22168,Delivery Station,M134,1,13.2,-0.086,3.56,11,32,23.3,3.4,51,0,
+E22169,Sort Center,M121,1,10.4,0.02,3.86,5,7,18.0,2.0,37,0,
+E22170,Customer Service,M127,0,3.6,-0.043,2.55,6,27,15.9,2.6,59,0,
+E22171,Delivery Station,M110,0,7.2,-0.043,4.04,4,29,23.7,2.7,22,0,
+E22172,Sort Center,M145,0,13.6,-0.012,3.79,12,30,12.6,2.2,6,1,"too many hours, no life outside work"
+E22173,Customer Service,M135,0,0.0,-0.134,3.79,1,7,17.6,3.2,30,0,
+E22174,Delivery Station,M106,0,5.4,-0.05,4.16,12,3,15.2,2.3,47,0,
+E22175,Sort Center,M137,1,13.7,0.103,1.71,6,23,13.3,3.8,51,0,
+E22176,Sort Center,M129,1,12.5,-0.135,2.48,14,5,5.3,3.5,26,0,
+E22177,Fulfillment Center,M140,1,11.2,-0.053,2.47,1,34,15.5,2.1,37,1,"too many hours, no life outside work"
+E22178,Customer Service,M147,1,5.6,-0.042,3.4,6,10,18.5,3.7,36,0,
+E22179,Sort Center,M121,0,9.9,-0.002,2.61,5,8,24.1,4.2,33,0,
+E22180,Fulfillment Center,M128,0,7.9,-0.044,3.48,4,18,4.7,2.0,48,0,
+E22181,Delivery Station,M134,0,6.9,-0.08,3.04,6,24,16.2,2.7,33,0,
+E22182,Sort Center,M125,0,10.2,-0.04,2.97,11,28,1.1,3.6,28,0,
+E22183,Delivery Station,M142,0,6.3,-0.106,4.64,1,17,17.2,1.9,58,0,
+E22184,Sort Center,M121,1,10.9,0.051,2.75,2,2,15.7,1.9,19,1,burned out from peak overtime
+E22185,Delivery Station,M102,0,10.2,-0.051,3.42,0,36,21.6,3.3,43,1,mandatory extra time every week
+E22186,Delivery Station,M130,1,11.0,0.022,3.28,8,20,25.4,4.4,7,0,
+E22187,Customer Service,M103,0,2.0,0.058,2.71,4,23,21.6,3.3,52,0,
+E22188,Fulfillment Center,M136,0,13.9,-0.028,1.73,12,6,34.1,4.1,49,1,"too many hours, no life outside work"
+E22189,Sort Center,M117,0,2.3,-0.012,2.41,4,35,16.5,2.3,2,1,felt disrespected by my supervisor
+E22190,Customer Service,M131,0,6.2,-0.024,4.22,6,4,1.1,3.5,52,0,
+E22191,Sort Center,M117,0,11.0,-0.15,2.95,9,22,11.5,2.6,28,1,"too many hours, no life outside work"
+E22192,Delivery Station,M134,0,8.2,-0.094,3.36,5,2,9.6,2.1,33,0,
+E22193,Fulfillment Center,M144,0,3.7,-0.02,2.45,2,20,20.4,2.1,8,0,
+E22194,Fulfillment Center,M108,1,7.3,-0.022,2.8,5,7,20.4,2.3,53,1,felt disrespected by my supervisor
+E22195,Sort Center,M125,0,12.0,-0.14,2.34,6,19,39.7,3.0,53,1,burned out from peak overtime
+E22196,Sort Center,M101,1,12.9,-0.031,2.11,0,11,29.5,2.8,53,1,"too many hours, no life outside work"
+E22197,Delivery Station,M134,0,12.0,-0.085,2.39,6,8,25.4,1.7,50,1,mandatory extra time every week
+E22198,Sort Center,M101,0,11.8,-0.195,4.14,8,32,30.0,2.4,18,1,burned out from peak overtime
+E22199,Customer Service,M107,0,5.4,0.016,4.09,6,35,8.5,3.7,16,0,
+E22200,Sort Center,M141,0,0.0,0.032,3.16,6,16,17.7,3.5,10,0,
+E22201,Fulfillment Center,M140,1,5.0,-0.221,3.06,4,8,14.6,2.6,19,1,pay did not keep up
+E22202,Delivery Station,M142,0,8.4,-0.001,3.84,6,28,14.9,3.5,45,0,
+E22203,Sort Center,M113,1,10.2,-0.094,3.48,9,36,11.4,3.6,25,0,
+E22204,Fulfillment Center,M120,0,11.5,-0.016,4.3,8,5,13.7,2.7,3,1,burned out from peak overtime
+E22205,Delivery Station,M126,0,5.0,-0.017,3.8,5,29,20.2,2.3,58,0,
+E22206,Customer Service,M123,1,4.0,-0.081,3.23,10,15,16.5,2.5,29,0,
+E22207,Customer Service,M119,1,5.5,-0.007,3.06,4,10,36.4,2.8,24,0,
+E22208,Customer Service,M147,0,7.2,-0.065,4.27,6,21,11.2,2.7,28,0,
+E22209,Sort Center,M101,0,8.3,0.005,2.19,5,17,13.3,2.9,10,0,
+E22210,Sort Center,M145,0,5.9,-0.094,3.65,8,19,11.0,3.4,51,0,
+E22211,Fulfillment Center,M100,0,6.3,-0.076,1.67,8,21,36.0,4.5,60,0,
+E22212,Delivery Station,M126,0,6.4,-0.001,3.49,6,22,27.6,2.8,53,0,
+E22213,Sort Center,M101,1,6.1,-0.005,3.06,5,36,25.3,3.5,13,0,
+E22214,Fulfillment Center,M100,0,5.1,-0.052,3.9,6,29,26.1,4.1,27,0,
+E22215,Customer Service,M111,0,10.8,-0.01,2.91,1,22,18.1,3.6,39,0,
+E22216,Delivery Station,M106,1,13.9,-0.092,3.02,9,11,33.4,2.9,15,1,mandatory extra time every week
+E22217,Customer Service,M119,0,5.4,0.056,1.7,7,21,15.9,1.6,42,0,
+E22218,Sort Center,M137,0,8.7,-0.078,1.73,8,12,24.3,3.0,42,1,competitor offered a dollar more
+E22219,Sort Center,M145,0,0.0,-0.114,5.0,7,27,6.6,2.1,36,0,
+E22220,Delivery Station,M142,0,6.8,-0.035,4.05,11,19,7.8,3.5,3,1,burned out from peak overtime
+E22221,Fulfillment Center,M144,0,7.1,-0.1,3.25,5,12,34.0,2.9,13,0,
+E22222,Delivery Station,M110,1,11.9,-0.039,4.05,7,24,17.1,2.7,26,0,
+E22223,Customer Service,M123,1,0.0,-0.033,3.5,2,25,21.6,3.0,56,0,
+E22224,Fulfillment Center,M108,0,11.2,-0.018,2.28,8,9,30.3,3.5,9,1,burned out from peak overtime
+E22225,Fulfillment Center,M144,1,8.8,-0.123,3.4,7,7,15.4,3.9,44,0,
+E22226,Customer Service,M139,0,0.0,-0.01,3.07,7,27,9.7,2.6,57,0,
+E22227,Customer Service,M107,0,4.3,-0.162,3.0,8,22,45.1,3.0,30,1,pay did not keep up
+E22228,Customer Service,M147,1,0.0,-0.056,3.88,3,24,10.1,2.7,49,0,
+E22229,Customer Service,M139,1,5.9,-0.044,2.08,9,28,5.6,2.9,24,1,no path to promotion
+E22230,Customer Service,M107,1,2.7,-0.041,2.43,9,22,11.3,3.3,8,0,
+E22231,Delivery Station,M126,1,24.1,-0.038,1.99,7,15,0.0,4.1,22,1,mandatory extra time every week
+E22232,Delivery Station,M146,0,2.8,0.075,3.41,3,23,8.6,3.1,32,0,
+E22233,Delivery Station,M110,0,14.1,0.054,3.13,16,35,27.9,2.9,2,0,
+E22234,Sort Center,M137,1,21.8,0.027,2.85,7,24,19.7,2.5,8,1,burned out from peak overtime
+E22235,Customer Service,M143,0,9.9,-0.021,3.5,5,16,15.6,2.4,16,1,mandatory extra time every week
+E22236,Fulfillment Center,M120,1,11.0,-0.192,2.87,3,4,12.5,4.2,6,0,
+E22237,Customer Service,M111,1,0.0,-0.077,5.0,5,24,22.5,3.3,21,0,
+E22238,Sort Center,M145,0,6.8,-0.033,2.96,9,28,20.3,4.5,49,0,
+E22239,Sort Center,M133,0,3.4,-0.073,4.36,2,26,7.9,5.0,49,0,
+E22240,Customer Service,M139,0,0.0,0.028,2.36,1,12,11.4,3.4,1,0,
+E22241,Sort Center,M145,0,3.9,0.03,3.13,3,5,0.0,3.7,56,0,
+E22242,Customer Service,M107,0,0.6,0.027,3.76,5,34,15.7,3.0,26,0,
+E22243,Customer Service,M123,1,0.0,-0.065,4.29,8,23,3.4,3.7,56,0,
+E22244,Fulfillment Center,M132,0,1.1,0.011,2.83,7,33,23.5,4.5,60,0,
+E22245,Delivery Station,M138,0,5.9,-0.061,4.25,9,23,18.3,3.2,59,0,
+E22246,Fulfillment Center,M140,0,11.0,0.051,2.55,7,20,11.1,3.4,22,0,
+E22247,Sort Center,M125,0,10.1,-0.082,2.15,8,27,17.8,2.1,15,1,mandatory extra time every week
+E22248,Fulfillment Center,M132,1,5.7,-0.029,3.79,7,8,17.5,2.8,19,0,
+E22249,Customer Service,M135,0,0.0,-0.013,3.26,3,14,7.8,2.5,8,0,
+E22250,Delivery Station,M106,0,9.7,-0.099,2.04,8,6,30.0,3.4,55,0,
+E22251,Customer Service,M143,0,5.0,-0.093,3.46,1,9,18.1,3.5,2,1,pay did not keep up
+E22252,Delivery Station,M114,0,6.2,0.016,2.86,6,5,10.8,3.4,33,0,
+E22253,Customer Service,M119,1,4.6,-0.08,2.31,6,6,16.8,3.6,48,0,
+E22254,Fulfillment Center,M108,1,8.1,0.005,2.69,4,15,10.9,3.6,21,1,manager never listened
+E22255,Delivery Station,M142,1,15.3,-0.022,3.02,1,27,9.3,2.6,50,0,
+E22256,Customer Service,M115,1,4.3,-0.071,3.87,10,24,12.0,2.7,10,1,pay did not keep up
+E22257,Fulfillment Center,M104,1,4.4,0.031,3.68,10,6,9.1,2.9,40,0,
+E22258,Sort Center,M113,1,13.4,0.088,2.87,3,23,16.9,3.0,17,0,
+E22259,Customer Service,M131,0,3.6,0.009,4.41,6,12,14.0,3.0,11,0,
+E22260,Customer Service,M131,1,8.1,-0.043,3.0,5,30,19.1,4.0,57,0,
+E22261,Fulfillment Center,M120,1,12.5,0.022,2.25,12,10,0.0,4.4,18,0,
+E22262,Delivery Station,M146,1,13.0,-0.083,2.55,6,9,15.4,2.8,34,0,
+E22263,Customer Service,M103,0,4.2,-0.006,3.82,5,25,34.2,3.8,48,0,
+E22264,Customer Service,M103,1,0.0,-0.104,4.05,4,25,14.2,1.5,4,0,
+E22265,Delivery Station,M142,0,10.8,-0.092,2.41,7,4,14.4,4.2,33,1,burned out from peak overtime
+E22266,Delivery Station,M110,0,0.0,-0.01,2.92,0,6,0.0,3.8,15,0,
+E22267,Fulfillment Center,M140,0,8.2,-0.0,2.86,7,32,6.7,2.8,45,0,
+E22268,Fulfillment Center,M132,0,10.0,-0.025,3.05,2,30,10.8,3.6,48,0,
+E22269,Sort Center,M117,0,7.3,-0.089,2.6,4,4,23.9,2.9,58,0,
+E22270,Delivery Station,M130,0,11.3,-0.111,3.25,7,29,5.6,2.1,29,1,"too many hours, no life outside work"
+E22271,Sort Center,M125,0,4.0,0.025,3.61,6,2,22.5,2.5,45,0,
+E22272,Delivery Station,M110,1,15.8,-0.016,2.5,8,22,18.9,3.2,60,0,
+E22273,Sort Center,M137,1,3.1,0.005,2.67,8,4,33.1,2.1,52,0,
+E22274,Sort Center,M145,1,9.7,0.024,2.56,5,7,15.3,2.8,56,0,
+E22275,Sort Center,M141,0,11.9,-0.107,2.56,11,12,22.9,3.5,54,1,"too many hours, no life outside work"
+E22276,Customer Service,M115,1,0.0,0.008,3.2,4,11,10.6,2.8,39,0,
+E22277,Customer Service,M147,0,0.0,-0.089,4.93,0,12,17.8,4.5,59,0,
+E22278,Delivery Station,M106,1,11.0,-0.038,1.57,6,25,20.1,4.9,39,1,mandatory extra time every week
+E22279,Delivery Station,M138,0,9.4,-0.035,3.07,5,25,16.5,3.6,25,0,
+E22280,Customer Service,M139,0,2.0,0.081,3.62,4,24,19.0,3.0,41,0,
+E22281,Sort Center,M129,1,13.2,0.002,2.81,11,29,20.4,2.1,1,0,
+E22282,Delivery Station,M146,0,11.2,-0.125,2.01,9,28,11.3,3.8,41,1,burned out from peak overtime
+E22283,Customer Service,M127,0,0.0,-0.148,3.12,6,28,27.1,2.9,44,0,
+E22284,Delivery Station,M138,1,10.8,-0.134,3.02,7,25,4.2,3.0,10,1,burned out from peak overtime
+E22285,Fulfillment Center,M136,0,15.6,-0.094,3.08,11,16,17.7,3.2,47,1,mandatory extra time every week
+E22286,Delivery Station,M138,0,5.4,-0.049,3.11,0,20,13.3,1.9,16,0,
+E22287,Fulfillment Center,M128,0,4.6,0.01,4.34,3,12,17.6,4.4,2,0,
+E22288,Fulfillment Center,M124,1,14.1,-0.032,1.61,6,8,19.0,2.6,59,1,"too many hours, no life outside work"
+E22289,Delivery Station,M106,0,4.8,0.007,4.16,2,5,35.6,3.2,22,0,
+E22290,Customer Service,M127,0,10.7,-0.015,3.21,7,14,8.8,2.7,25,0,
+E22291,Sort Center,M141,0,7.7,-0.048,2.66,7,5,7.8,3.8,22,0,
+E22292,Delivery Station,M106,0,6.2,0.014,3.4,3,2,11.6,3.1,45,0,
+E22293,Sort Center,M137,0,7.2,-0.032,2.69,9,25,19.2,1.8,56,0,
+E22294,Fulfillment Center,M108,0,17.9,-0.015,2.96,11,5,26.8,3.1,1,1,"too many hours, no life outside work"
+E22295,Sort Center,M117,1,10.4,-0.027,2.45,8,2,33.7,2.4,23,1,mandatory extra time every week
+E22296,Fulfillment Center,M140,1,12.9,-0.04,1.75,12,30,9.5,3.3,17,1,burned out from peak overtime
+E22297,Fulfillment Center,M100,0,1.7,-0.032,2.48,5,16,16.9,1.5,59,0,
+E22298,Customer Service,M107,1,5.3,-0.004,2.62,5,11,10.1,3.1,4,0,
+E22299,Fulfillment Center,M132,0,2.1,-0.04,3.81,0,26,13.2,3.5,59,0,
+E22300,Delivery Station,M118,1,13.8,-0.049,3.29,9,23,27.7,2.8,19,0,
+E22301,Sort Center,M129,0,6.2,0.123,3.4,6,25,17.8,2.4,34,0,
+E22302,Sort Center,M145,0,12.2,0.006,2.5,6,8,17.0,3.8,45,0,
+E22303,Customer Service,M119,0,8.5,-0.033,4.48,4,13,20.0,2.9,31,0,
+E22304,Customer Service,M103,0,1.1,0.062,3.63,7,22,21.1,2.5,35,0,
+E22305,Sort Center,M141,0,11.9,0.003,2.14,1,18,22.5,4.3,25,1,burned out from peak overtime
+E22306,Fulfillment Center,M104,1,4.0,0.016,2.89,9,28,7.2,3.3,11,1,manager never listened
+E22307,Customer Service,M127,0,3.8,-0.012,2.99,9,11,7.2,1.9,55,0,
+E22308,Delivery Station,M110,0,4.2,-0.068,2.37,3,9,18.0,3.6,22,0,
+E22309,Sort Center,M113,0,11.1,-0.061,1.57,8,28,24.9,2.8,30,0,
+E22310,Sort Center,M121,1,18.9,-0.028,2.5,8,35,21.6,4.7,23,1,"too many hours, no life outside work"
+E22311,Fulfillment Center,M132,1,11.3,-0.152,2.7,5,27,35.5,3.2,39,0,
+E22312,Fulfillment Center,M132,0,7.4,0.067,3.9,9,23,16.0,4.0,28,0,
+E22313,Customer Service,M135,0,0.0,0.006,4.58,3,14,3.1,2.4,13,0,
+E22314,Customer Service,M107,0,3.6,-0.062,3.17,6,12,12.0,3.1,12,0,
+E22315,Fulfillment Center,M108,0,14.7,0.034,2.5,6,12,27.5,1.6,58,0,
+E22316,Customer Service,M103,0,4.9,-0.007,2.34,5,4,12.4,3.5,42,1,family reasons
+E22317,Sort Center,M117,1,10.9,-0.078,3.18,9,20,24.1,4.4,60,0,
+E22318,Fulfillment Center,M132,0,0.0,-0.121,4.03,0,25,17.1,2.9,25,0,
+E22319,Fulfillment Center,M108,1,15.4,0.014,1.24,9,28,11.6,2.7,20,1,burned out from peak overtime
+E22320,Fulfillment Center,M132,0,10.9,-0.072,2.68,9,25,4.4,3.9,28,1,mandatory extra time every week
+E22321,Sort Center,M121,0,12.8,0.033,3.76,3,36,8.5,3.4,44,1,mandatory extra time every week
+E22322,Delivery Station,M134,1,18.5,-0.058,2.7,9,30,28.0,2.5,17,1,mandatory extra time every week
+E22323,Delivery Station,M110,0,6.5,0.068,3.76,7,6,8.6,2.7,54,0,
+E22324,Customer Service,M127,1,3.3,-0.047,3.37,6,12,5.3,3.9,55,0,
+E22325,Customer Service,M111,1,4.1,-0.014,4.01,7,7,20.6,3.1,15,1,"too many hours, no life outside work"
+E22326,Fulfillment Center,M120,0,12.6,-0.049,3.39,8,15,12.2,4.1,47,1,"too many hours, no life outside work"
+E22327,Customer Service,M143,1,2.9,-0.056,3.98,3,26,24.8,3.6,20,0,
+E22328,Customer Service,M119,0,0.0,0.021,2.1,8,29,5.2,2.5,53,0,
+E22329,Sort Center,M101,0,9.3,-0.048,2.8,8,8,23.6,4.0,35,0,
+E22330,Delivery Station,M126,0,7.7,-0.077,2.92,5,31,18.0,3.6,39,0,
+E22331,Fulfillment Center,M124,0,2.9,0.004,3.26,5,9,20.0,4.3,14,0,
+E22332,Customer Service,M143,1,6.6,-0.046,2.2,5,27,10.6,3.1,16,0,
+E22333,Delivery Station,M106,1,16.6,-0.109,4.2,8,15,23.2,3.3,1,1,mandatory extra time every week
+E22334,Sort Center,M101,0,0.8,-0.081,3.68,6,35,22.0,2.5,29,1,competitor offered a dollar more
+E22335,Customer Service,M147,1,0.0,-0.056,3.88,3,19,30.7,3.8,50,0,
+E22336,Delivery Station,M130,1,8.5,-0.075,3.31,7,8,25.2,3.2,59,1,found a job paying more nearby
+E22337,Delivery Station,M126,1,16.7,-0.039,3.83,5,26,9.9,5.0,14,0,
+E22338,Customer Service,M127,0,6.2,-0.032,1.93,0,27,40.6,3.3,43,0,
+E22339,Sort Center,M141,0,3.8,-0.073,3.4,9,13,31.2,4.0,24,0,
+E22340,Delivery Station,M110,0,0.9,-0.044,3.92,4,8,23.7,3.8,27,0,
+E22341,Sort Center,M117,1,21.1,-0.119,2.29,15,15,27.0,4.0,13,1,mandatory extra time every week
+E22342,Customer Service,M103,1,2.7,-0.049,4.38,4,6,14.0,3.0,15,1,went back to school
+E22343,Delivery Station,M106,0,12.4,-0.016,2.65,4,36,16.9,3.1,10,0,
+E22344,Delivery Station,M114,0,6.2,-0.078,2.86,8,7,14.2,2.3,3,1,competitor offered a dollar more
+E22345,Sort Center,M121,0,7.0,-0.179,3.52,10,6,25.1,1.7,11,0,
+E22346,Delivery Station,M134,1,14.5,-0.003,2.93,6,19,17.6,2.1,49,0,
+E22347,Customer Service,M127,0,5.6,0.113,2.5,5,20,24.5,3.0,42,1,unfair treatment by lead
+E22348,Delivery Station,M122,0,6.4,-0.083,3.92,4,15,19.8,3.2,35,0,
+E22349,Sort Center,M137,1,14.8,-0.021,2.51,7,18,23.1,3.3,24,1,burned out from peak overtime
+E22350,Sort Center,M113,0,6.2,-0.03,4.56,10,28,19.8,3.4,35,0,
+E22351,Fulfillment Center,M108,1,19.4,-0.055,2.27,1,34,25.4,4.0,28,1,burned out from peak overtime
+E22352,Customer Service,M123,1,5.1,-0.047,4.65,3,11,42.2,4.1,28,0,
+E22353,Customer Service,M103,1,5.7,-0.157,2.33,7,4,13.4,4.0,9,1,pay did not keep up
+E22354,Customer Service,M123,0,5.3,-0.133,2.99,0,32,24.5,3.7,32,0,
+E22355,Delivery Station,M110,0,13.1,-0.038,1.0,10,12,13.9,3.0,38,1,mandatory extra time every week
+E22356,Fulfillment Center,M136,1,12.6,-0.066,3.06,4,11,12.4,3.1,47,1,burned out from peak overtime
+E22357,Fulfillment Center,M104,0,7.3,-0.014,3.15,7,30,1.7,4.0,6,0,
+E22358,Fulfillment Center,M112,0,0.0,-0.167,2.94,6,36,20.7,2.5,58,1,competitor offered a dollar more
+E22359,Delivery Station,M134,0,16.5,0.083,4.27,9,19,21.2,3.8,41,0,
+E22360,Fulfillment Center,M140,0,3.5,0.044,2.99,5,4,26.8,4.1,5,0,
+E22361,Fulfillment Center,M136,1,15.6,0.046,1.0,13,5,23.4,3.3,34,1,mandatory extra time every week
+E22362,Fulfillment Center,M108,1,13.4,-0.047,1.42,4,30,13.3,3.5,22,1,"too many hours, no life outside work"
+E22363,Fulfillment Center,M104,0,5.7,-0.029,3.69,1,22,26.6,3.2,23,1,felt disrespected by my supervisor
+E22364,Customer Service,M107,0,0.6,0.028,3.08,4,35,27.4,2.6,8,0,
+E22365,Delivery Station,M102,0,3.6,0.02,3.41,3,31,18.5,3.2,3,0,
+E22366,Sort Center,M101,0,7.6,-0.112,2.26,5,31,18.1,2.8,53,0,
+E22367,Sort Center,M129,1,16.6,-0.163,3.21,8,20,22.7,4.0,33,1,mandatory extra time every week
+E22368,Delivery Station,M114,1,9.9,-0.027,2.41,8,27,32.3,2.5,21,1,no path to promotion
+E22369,Customer Service,M107,0,1.1,-0.037,2.85,5,2,18.0,3.6,51,0,
+E22370,Sort Center,M145,0,13.3,0.008,4.23,9,9,24.1,4.2,55,0,
+E22371,Sort Center,M113,0,8.2,-0.042,1.95,1,17,14.7,2.2,28,0,
+E22372,Customer Service,M131,1,3.4,-0.094,3.64,6,20,11.2,2.3,20,0,
+E22373,Fulfillment Center,M132,0,6.4,-0.011,3.52,4,7,12.3,3.2,38,0,
+E22374,Delivery Station,M118,0,8.3,-0.002,4.17,4,29,16.7,5.0,44,0,
+E22375,Customer Service,M103,0,9.0,-0.025,3.11,8,31,14.9,3.1,49,0,
+E22376,Delivery Station,M110,1,11.8,-0.001,3.0,3,2,22.7,2.7,15,1,burned out from peak overtime
+E22377,Sort Center,M137,1,13.8,-0.042,2.73,8,4,10.6,3.0,6,1,burned out from peak overtime
+E22378,Customer Service,M115,1,0.0,-0.064,3.67,3,18,23.2,4.9,19,0,
+E22379,Customer Service,M147,1,1.8,0.005,2.86,3,26,6.8,2.8,17,0,
+E22380,Customer Service,M107,1,7.4,-0.002,2.21,6,30,30.1,4.3,51,0,
+E22381,Fulfillment Center,M124,1,10.2,-0.07,2.77,6,22,30.3,3.9,6,1,mandatory extra time every week
+E22382,Delivery Station,M110,1,11.3,-0.102,3.25,9,31,22.9,3.6,4,1,burned out from peak overtime
+E22383,Sort Center,M105,0,9.8,-0.008,2.22,3,5,20.6,3.6,59,0,
+E22384,Customer Service,M115,0,5.8,-0.083,3.37,5,26,20.2,2.8,57,0,
+E22385,Delivery Station,M122,0,6.7,-0.08,2.83,8,19,10.0,3.2,45,1,pay did not keep up
+E22386,Delivery Station,M110,0,14.9,0.0,3.75,7,17,24.5,2.9,29,0,
+E22387,Sort Center,M141,0,0.7,-0.012,3.77,6,10,17.3,3.3,46,1,family reasons
+E22388,Delivery Station,M142,0,16.1,0.002,2.94,6,18,25.7,3.1,52,0,
+E22389,Delivery Station,M114,1,15.1,-0.035,3.17,10,23,6.0,4.4,60,1,burned out from peak overtime
+E22390,Customer Service,M103,1,4.0,-0.001,3.42,2,4,22.6,3.1,23,0,
+E22391,Fulfillment Center,M100,1,15.2,0.133,3.11,8,32,13.9,1.8,41,0,
+E22392,Fulfillment Center,M120,1,10.8,-0.022,3.03,11,5,28.9,3.2,27,1,"too many hours, no life outside work"
+E22393,Fulfillment Center,M104,1,13.2,0.043,2.05,9,22,14.3,3.7,48,1,mandatory extra time every week
+E22394,Fulfillment Center,M112,0,11.2,-0.098,3.3,9,17,13.5,3.1,11,1,"too many hours, no life outside work"
+E22395,Fulfillment Center,M132,0,12.8,0.067,2.89,5,25,27.6,2.0,37,0,
+E22396,Fulfillment Center,M112,0,13.3,-0.087,3.05,6,15,23.6,3.0,31,1,burned out from peak overtime
+E22397,Customer Service,M103,1,4.3,-0.023,2.61,10,25,19.2,3.3,13,1,no path to promotion
+E22398,Sort Center,M133,0,14.2,-0.015,4.12,11,36,3.0,3.3,2,0,
+E22399,Customer Service,M139,1,3.7,0.027,3.14,2,8,23.1,2.7,45,0,
